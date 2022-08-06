@@ -14,6 +14,8 @@ art = {
       5:"https://assets.ldscdn.org/8d/7f/8d7ff873d0dc9b0afafa730a03d31d5a8392f23d/christ_ordaining_the_apostles.jpeg",
       6:"https://assets.ldscdn.org/02/22/0222d8e4e6f2585f1cb63c25997e367993c25f79/jesus_blessing_the_children.jpeg",
       7:"https://assets.ldscdn.org/e4/40/e440b004051c60f0e7b85e8af9b5bfbca156cf2d/houston_texas_mormon_temple.jpeg",
-      8:"https://assets.ldscdn.org/bb/fd/bbfdc0bbf809c57b3c83887b2669287f5ee78e9c/resurrected_christ.jpeg"
+      8:"https://assets.ldscdn.org/bb/fd/bbfdc0bbf809c57b3c83887b2669287f5ee78e9c/resurrected_christ.jpeg",
+      9:"https://assets.ldscdn.org/42/33/42333ed1652c195a6841754147312e6319fd594d/christ_healing_the_blind_man.jpeg"
+
 
        }
