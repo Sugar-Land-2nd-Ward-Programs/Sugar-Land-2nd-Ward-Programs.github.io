@@ -15,7 +15,9 @@ art = {
       6:"https://assets.ldscdn.org/02/22/0222d8e4e6f2585f1cb63c25997e367993c25f79/jesus_blessing_the_children.jpeg",
       7:"https://assets.ldscdn.org/e4/40/e440b004051c60f0e7b85e8af9b5bfbca156cf2d/houston_texas_mormon_temple.jpeg",
       8:"https://assets.ldscdn.org/bb/fd/bbfdc0bbf809c57b3c83887b2669287f5ee78e9c/resurrected_christ.jpeg",
-      9:"https://assets.ldscdn.org/42/33/42333ed1652c195a6841754147312e6319fd594d/christ_healing_the_blind_man.jpeg"
-
-
+      9:"https://assets.ldscdn.org/42/33/42333ed1652c195a6841754147312e6319fd594d/christ_healing_the_blind_man.jpeg",
+      'G1': "https://assets.ldscdn.org/5f/90/5f90b77b64e2665a7fc862b4c1bba8573fa30a83/pictures_of_jesus_blind_man_thanks.jpeg",
+      'Leper': "https://assets.ldscdn.org/0a/73/0a73c953b3f3b37cd80e9c80c38cdb7d6c2ca8cb1068804/jesus_christ_heals_leper.jpeg",
+      'TenLeper': "https://assets.ldscdn.org/28/0d/280db77ef0d39aa427405f69b563994250780401/ten_lepers_christ_healed_tissot.jpeg",
+      'Nativity1': "https://news-uk.churchofjesuschrist.org/media/960x540/nativity-2013.jpg"
        }
