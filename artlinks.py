@@ -19,5 +19,11 @@ art = {
       'G1': "https://assets.ldscdn.org/5f/90/5f90b77b64e2665a7fc862b4c1bba8573fa30a83/pictures_of_jesus_blind_man_thanks.jpeg",
       'Leper': "https://assets.ldscdn.org/0a/73/0a73c953b3f3b37cd80e9c80c38cdb7d6c2ca8cb1068804/jesus_christ_heals_leper.jpeg",
       'TenLeper': "https://assets.ldscdn.org/28/0d/280db77ef0d39aa427405f69b563994250780401/ten_lepers_christ_healed_tissot.jpeg",
-      'Nativity1': "https://news-uk.churchofjesuschrist.org/media/960x540/nativity-2013.jpg"
+      'Nativity1': "https://news-uk.churchofjesuschrist.org/media/960x540/nativity-2013.jpg",
+      'Cruc1' : "https://assets.churchofjesuschrist.org/18/b0/18b0d4c3a95a30250134e36be67da6e1c2a7485c/crucifixion_christ_anderson.jpeg",
+      'Easter4' : "https://assets.churchofjesuschrist.org/1a/ac/1aac774721efe59098301cf3302df801da1409571060583/mary_tomb_art_lds.jpeg",
+      'Easter2': "https://assets.churchofjesuschrist.org/5e/ba/5ebab014cfad8e4be5531d5226cfdb59feeeccf2/mary_and_the_resurrected_christ.jpeg",
+      'Easter1': "https://assets.churchofjesuschrist.org/06/ef/06ef47686ec9a770305275deb9c1846490237258/triumphant_entry.jpeg",
+      'Easter3': "https://www.churchofjesuschrist.org/bc/content/ldsorg/topics/easter/gallery/580-Resurrection%201.jpg",
+      'Cruc1' : "https://assets.churchofjesuschrist.org/18/b0/18b0d4c3a95a30250134e36be67da6e1c2a7485c/crucifixion_christ_anderson.jpeg",
        }
