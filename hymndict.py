@@ -122,6 +122,7 @@ hymns = {
                                       121: ["I'm a Pilgrim, I'm a Stranger","https://www.churchofjesuschrist.org/music/library/hymns/im-a-pilgrim-im-a-stranger?lang=eng&#39"],
                                                122: ["Though Deepening Trials","https://www.churchofjesuschrist.org/music/library/hymns/though-deepening-trials?lang=eng&#39"],
                             123: ["Oh, May My Soul Commune with Thee","https://www.churchofjesuschrist.org/music/library/hymns/oh-may-my-soul-commune-with-thee?lang=eng&#39"],
+                                            124: ["Be Still, My Soul",None],
                                             125: ["How Gentle God's Commands","https://www.churchofjesuschrist.org/music/library/hymns/how-gentle-gods-commands?lang=eng&#39"],
                         126: ["How Long, O Lord Most Holy and True","https://www.churchofjesuschrist.org/music/library/hymns/how-long-o-lord-most-holy-and-true?lang=eng&#39"],
                                         127: ["Does the Journey Seem Long?","https://www.churchofjesuschrist.org/music/library/hymns/does-the-journey-seem-long?lang=eng&#39"],
