@@ -16,7 +16,7 @@ sunday = {
     "March 10" :  ["Normal","March 10th"],
     "March 17" :  ["Normal","March 17th"],
     "March 24" :  ["Normal","March 24th"],
-    "March 31" :  ["Normal","March 31st"],
+    "March 31" :  ["Easter","March 31st"],
     "April 07" :  ["General","April 7th"],
     "April 14" :  ["Fast","April 14th"],
     "April 21" :  ["Normal","April 21st"],
@@ -65,7 +65,8 @@ meeting_type = {
     "Fast" : "Fast and Testimony Meeting",
     "Ward" : "Ward Conference",
     "Stake" : "Stake Conference",
-    "General" : "General Conference"
+    "General" : "General Conference",
+    "Easter" : "Easter Service"
 }
 
 def sunday_type(keydate):
