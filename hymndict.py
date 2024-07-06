@@ -339,5 +339,20 @@ hymns = {
                                                    338: ["America the Beautiful","https://www.churchofjesuschrist.org/music/library/hymns/america-the-beautiful?lang=eng&#39"],
                                                339: ["My Country, 'Tis of Thee","https://www.churchofjesuschrist.org/music/library/hymns/my-country-tis-of-thee?lang=eng&#39"],
                                              340: ["The Star-Spangled Banner","https://www.churchofjesuschrist.org/music/library/hymns/the-star-spangled-banner?lang=eng&#39"],
-                                                           341: ["God Save the King","https://www.churchofjesuschrist.org/music/library/hymns/god-save-the-king?lang=eng&#39"]
+            341: ["God Save the King","https://www.churchofjesuschrist.org/music/library/hymns/god-save-the-king?lang=eng&#39"],
+            1001: ["Come, Thou Fount of Every Blessing","https://www.churchofjesuschrist.org/media/music/songs/come-thou-fount-of-every-blessing?crumbs=hymns-for-home-and-church&lang=eng"],
+            1002: ["When the Savior Comes Again","https://www.churchofjesuschrist.org/media/music/songs/when-the-savior-comes-again?crumbs=hymns-for-home-and-church&lang=eng"],
+            1003: ["It Is Well with My Soul","https://www.churchofjesuschrist.org/media/music/songs/it-is-well-with-my-soul?crumbs=hymns-for-home-and-church&lang=eng"],
+            1004: ["I Will Walk with Jesus","https://www.churchofjesuschrist.org/media/music/songs/i-will-walk-with-jesus?crumbs=hymns-for-home-and-church&lang=eng"],   
+            1005: ["His Eye Is on the Sparrow","https://www.churchofjesuschrist.org/media/music/songs/his-eye-is-on-the-sparrow?crumbs=hymns-for-home-and-church&lang=eng"], 
+            1006: ["Think a Sacred Song","https://www.churchofjesuschrist.org/media/music/songs/think-a-sacred-song?crumbs=hymns-for-home-and-church&lang=eng"], 
+            1007: ["As Bread Is Broken","https://www.churchofjesuschrist.org/media/music/songs/as-bread-is-broken?crumbs=hymns-for-home-and-church&lang=eng"], 
+            1008: ["Bread of Life, Living Water","https://www.churchofjesuschrist.org/media/music/songs/bread-of-life-living-water?crumbs=hymns-for-home-and-church&lang=eng"],                                                  
+            1009: ["Gethsemane","https://www.churchofjesuschrist.org/media/music/songs/gethsemane?crumbs=hymns-for-home-and-church&lang=eng"], 
+            1201: ["Hail the Day That Sees Him Rise","https://www.churchofjesuschrist.org/media/music/songs/hail-the-day-that-sees-him-rise?crumbs=hymns-for-home-and-church&lang=eng"], 
+            1202: ["He Is Born, the Divine Christ Child","https://www.churchofjesuschrist.org/media/music/songs/he-is-born-the-divine-christ-child?crumbs=hymns-for-home-and-church&lang=eng"],
+            1203: ["What Child Is This?","https://www.churchofjesuschrist.org/media/music/songs/what-child-is-this?crumbs=hymns-for-home-and-church&lang=eng"],
+            1204: ["Star Bright","https://www.churchofjesuschrist.org/media/music/songs/star-bright?crumbs=hymns-for-home-and-church&lang=eng"],
+            9999: ["Dejlig er den himmel blaa","https://www.folkekirken.dk/om-troen/salmer/dejlig-er-den-himmel-blaa"]
+
 }

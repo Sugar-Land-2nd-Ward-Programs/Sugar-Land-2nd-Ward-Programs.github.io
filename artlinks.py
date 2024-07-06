@@ -26,4 +26,8 @@ art = {
       'Easter1': "https://assets.churchofjesuschrist.org/06/ef/06ef47686ec9a770305275deb9c1846490237258/triumphant_entry.jpeg",
       'Easter3': "https://www.churchofjesuschrist.org/bc/content/ldsorg/topics/easter/gallery/580-Resurrection%201.jpg",
       'Cruc1' : "https://assets.churchofjesuschrist.org/18/b0/18b0d4c3a95a30250134e36be67da6e1c2a7485c/crucifixion_christ_anderson.jpeg",
+      'Annunc' : "https://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/ensignlp.nfo:o:199.jpg",
+      "Birth" : "https://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/ensignlp.nfo:o:19b.jpg",
+      "Simon" : "https://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/ensignlp.nfo:o:19d.jpg",
+      "Trek" : "https://churchofjesuschrist.org/imgs/1f2c4257889feff0480b16da6eb12218dc7bbe37/full/1600%2C/0/default"
        }
