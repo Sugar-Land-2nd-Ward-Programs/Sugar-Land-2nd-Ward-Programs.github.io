@@ -29,5 +29,6 @@ art = {
       'Annunc' : "https://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/ensignlp.nfo:o:199.jpg",
       "Birth" : "https://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/ensignlp.nfo:o:19b.jpg",
       "Simon" : "https://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/ensignlp.nfo:o:19d.jpg",
-      "Trek" : "https://churchofjesuschrist.org/imgs/1f2c4257889feff0480b16da6eb12218dc7bbe37/full/1600%2C/0/default"
+      "Trek" : "https://churchofjesuschrist.org/imgs/1f2c4257889feff0480b16da6eb12218dc7bbe37/full/1600%2C/0/default",
+      "Sheep" : "https://history.churchofjesuschrist.org/bc/content/images/muesum/Exhibits/make-known-his-wonderful-works/the-lost-lamb-barrett.jpg"
        }
