@@ -43,7 +43,7 @@ sunday = {
     "September 15" :  ["Normal","September 15th"],
     "September 22" :  ["Normal","September 22nd"],
     "September 29" :  ["Normal","September 29th"],
-    "October 06" :  ["General","October 6th"],
+    "October 06" :  ["General","October 5th and 6th"],
     "October 13" :  ["Fast","October 13th"],
     "October 20" :  ["Normal","October 20th"],
     "October 27" :  ["Normal","October 27th"],

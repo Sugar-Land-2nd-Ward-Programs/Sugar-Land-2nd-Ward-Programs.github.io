@@ -30,5 +30,6 @@ art = {
       "Birth" : "https://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/ensignlp.nfo:o:19b.jpg",
       "Simon" : "https://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/ensignlp.nfo:o:19d.jpg",
       "Trek" : "https://churchofjesuschrist.org/imgs/1f2c4257889feff0480b16da6eb12218dc7bbe37/full/1600%2C/0/default",
-      "Sheep" : "https://history.churchofjesuschrist.org/bc/content/images/muesum/Exhibits/make-known-his-wonderful-works/the-lost-lamb-barrett.jpg"
+      "Sheep" : "https://history.churchofjesuschrist.org/bc/content/images/muesum/Exhibits/make-known-his-wonderful-works/the-lost-lamb-barrett.jpg",
+      "TabChoir" : "https://assets.ldscdn.org/66/88/6688fc127a7be44adf6adede9b03633dea0c5bb9/salt_lake_mormon_tabernacle_choir.jpeg",
        }
