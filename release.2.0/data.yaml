@@ -1,0 +1,91 @@
+unit: "Sugar Land 2nd Ward"
+meeting_title: "Sacrament Meeting"
+meeting_date: "July 17, 2022"
+fast_meeting: false
+meeting_cover_img: "https://assets.ldscdn.org/e4/40/e440b004051c60f0e7b85e8af9b5bfbca156cf2d/houston_texas_mormon_temple.jpeg"
+officers:
+  - "Presiding": "Bishop Joey Powell"
+  - "Conducting:": "Bishop Joey Powell"
+program:
+  - type: "hymn"
+    record:
+      descr: "Opening hymn"
+      number: 3
+
+  - type: "hymn"
+    record:
+      descr: "Scarment Hymn"
+      number: 5
+
+  - type: "custom"
+    record:
+      title: "Bearing of Testimonies"
+      description: ""
+
+  - type: "speaker"
+    name: "John Wick"
+
+  - type: "music"
+    record:
+      title: "Come ye..."
+      description: "Nan and Ann"
+
+  - type: "speaker"
+    name: "Reuben Sams"
+
+  - type: "custom"
+    record:
+      title: "Something else"
+      description: "by Mike"
+
+  - type: "hymn"
+    record:
+      descr: "Closing Hymn"
+      number: 7
+      
+announcements:
+  - "The sister missionaries have a new phone number: 346-901-8717"
+  - Volleyball Wednesdays - Come join us on Wednesdays at 9PM and have fun!!!
+  - November 1st & 2nd - Fathers, Sons & Brethren Camp at Long Acres Ranch 2335 Richmond Pkwy
+  - Arrive any time after 4PM, Bring your own dinner, Campfire Programa 8:30 PM
+  - Saturday breakfast provided, Sign Online wair - Link to follow.
+  - Send announcements to bvl2clerk@gmail.com
+
+posters:
+  - "https://sugar-land-2nd-ward-programs.github.io/Stake%20Monthly%20Flyer.jpg"
+  - "https://sugar-land-2nd-Ward-Programs.github.io/Houston%20South%20Stake%20-%20Save%20the%20Date.jpg"
+  - "https://sugar-land-2nd-Ward-Programs.github.io/Music%20Survey!.jpg"
+  - "https://sugar-land-2nd-Ward-Programs.github.io/Choir%20Practice%20Dates%20-%20Updated.jpg"
+  - "https://sugar-land-2nd-Ward-Programs.github.io/Christmas%202024%20Save%20Date-Join.jpg"
+
+quote_of_the_month:
+  quote: "The only limit to our realization of tomorrow is our doubts of today."
+  author: "Franklin D. Roosevelt"
+
+calendar:
+  - title: "Upcoming temple days"
+    description: "November 9, December 14, January 11, February 8, March 8, April 12"
+  - title: "Peanut Butter Factory Shift"
+    description: "3:15 AM, Saturday, October 26, Hafer Rd."
+
+links:
+  - title: "The Light the World Giving Machines are Coming"
+    url: https://www.youtube.com/watch?v=0_Ntv6zQ70M&authuser=1
+  - title: "Watch the Light the World Video"
+    url: https://www.youtube.com/watch?v=0_Ntv6zQ70M&authuser=1
+  - title: "Respond to the Stake Musical Talent Survey"
+    url: https://www.youtube.com/watch?v=0_Ntv6zQ70M&authuser=1
+  - title: "Let the missionaries know when you are available to help teach"
+    url: https://www.youtube.com/watch?v=0_Ntv6zQ70M&authuser=1
+  - title: "Get started with Temple and Family History work"
+    url: https://sugar-land-2nd-ward-programs.github.io/TempleandFamilyHistoryGettingStarted.html
+  - title: "See to Succeed a Houston South Stake service project"
+    url: https://sugar-land-2nd-ward-programs.github.io/TempleandFamilyHistoryGettingStarted.html
+  - title: "Sign up to feed the missionaries"
+    url: https://sugar-land-2nd-ward-programs.github.io/TempleandFamilyHistoryGettingStarted.html
+  - title: "Sign up to prepare a meal with Fort Bend Family Promise"
+    url: https://www.signupgenius.com/go/10c0e4baca82ea7fb6-helping4#
+  - title: "Help at secondmile.org"
+    url: https://www.signupgenius.com/go/10c0e4baca82ea7fb6-helping4#
+
+

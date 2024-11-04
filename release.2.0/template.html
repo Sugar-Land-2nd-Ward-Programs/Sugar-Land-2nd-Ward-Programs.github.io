@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Monthly Announcements</title>
+</head>
+<body>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<h1 align="center">Sugar Land Second Ward</h1>
+{% if fast_meeting %}
+    <div>
+        <h2 align="center">Fast and Testimony Meeting</h2>
+    </div>
+{% else %}
+    <div>
+        <h2 align="center">{{ meeting_title }}</h2>
+    </div>
+{% endif %}
+<h2 align="center">{{ meeting_date }}</h2>
+<p align="center"><img style="max-width:50%;height:auto;" src="{{ meeting_cover_img }}" /></p>
+
+{% for officer in officers %}
+    {% for title, name in officer.items() %}
+    <p align="center"><b>{{ title }}</b>: {{ name }}</p>
+    {% endfor %}
+{% endfor %}
+
+
+{% for item in program %}
+    {% if item.type == "speaker" %}
+        <h2 align="center">Speaker</h2>
+        <p align="center">{{ item.name }}</p>
+    {% elif item.type == "hymn" %}
+        <h2 align="center">{{ item.record.descr }}</h2>
+        <p align="center"><a href="{{ item.record.url }}">#{{ item.record.number }}, {{ item.record.title }}</a></p>
+    {% elif item.type == "music" %}
+        <h2 align="center">Music Number</h2>
+        <p align="center">{{ item.record.title }}, {{ item.record.description }}</p>
+    {% elif item.type == "custom" %}
+        <h2 align="center">{{ item.record.title }}</h2>
+        <p align="center">{{ item.record.description }}</p>
+    {% endif %}
+{% endfor %}
+
+
+{% if quote_of_the_month %}
+<hr />
+<p align="center">{{ quote_of_the_month.quote }}</p>
+<p align="center">- {{ quote_of_the_month.author }}</p>
+{% endif %}
+
+{% if announcements %}
+    <hr />
+    <h1 align="center">Announcements</h1>
+    {% for announcement in announcements %}
+        <p align="center">{{ announcement }}</p>
+    {% endfor %}
+{% endif %}
+
+{% if posters %}
+    {% for poster in posters %}
+        <p align="center"><img style="max-width:50%;height:auto;" src="{{poster}}" /></p>
+    {% endfor %}
+{% endif %}
+
+
+
+{% if calendar %}
+<hr />
+    <h1 align="center">Calendar Items</h1>
+    {% for item in calendar %}
+        <p align="center"><b>{{ item.title }}:</b> {{ item.description }}</p>
+    {% endfor %}
+{% endif %}
+
+
+{% if links %}
+<hr />
+<h1 align="center">Links</h1>
+    {% for item in links %}
+        <p align="center">
+            <a href="{{ item.url }}" target="_blank" rel="noreferrer noopener">{{ item.title }}</a>
+        </p>
+    {% endfor %}
+{% endif %}
+
+
+</body>
+</html>
