@@ -1,90 +1,134 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Monthly Announcements</title>
-</head>
-<body>
-<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<h1 align="center">Sugar Land Second Ward</h1>
-{% if fast_meeting %}
-    <div>
-        <h2 align="center">Fast and Testimony Meeting</h2>
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+        <meta name="description" content="" />
+        <meta name="author" content="" />
+        <title>Announcements</title>
+        <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
+        <!-- Core theme CSS (includes Bootstrap)-->
+        <link href="css/styles.css" rel="stylesheet" />
+    </head>
+    <body id="page-top">
+        <header class="custom-bg-light  text-dark">
+            <div class="container px-4 text-center">
+                <h1 class="fw-bolder">Sugar Land Second Ward</h1>
+            {% if fast_meeting %}
+                <p class="lead"><b>Fast and Testimony Meeting</b></p>     
+            {% else %}
+                <p class="lead"><b>{{ meeting_title }}</b></p>  
+            {% endif %}
+                <p class="lead"><b>{{ meeting_date }}</b></p>
+				<p><img style="max-width:50%;height:auto;" src="{{ meeting_cover_img }}" /></p>
+                </a>
+            </div>
+        </header>
+    <!-- Presiding section-->
+    <section id="about ">
+        <div class="container px-4 ">
+            <div class="row gx-4  text-center justify-content-center ">
+                <div class="col-lg-8">
+            {% for officer in officers %}
+                {% for title, name in officer.items() %}
+                <p class="lead"><b>{{ title }}</b>: {{ name }}</p>
+                {% endfor %}
+            {% endfor %}
+            </div>
+        </div>
     </div>
-{% else %}
-    <div>
-        <h2 align="center">{{ meeting_title }}</h2>
-    </div>
-{% endif %}
-<h2 align="center">{{ meeting_date }}</h2>
-<p align="center"><img style="max-width:50%;height:auto;" src="{{ meeting_cover_img }}" /></p>
-
-{% for officer in officers %}
-    {% for title, name in officer.items() %}
-    <p align="center"><b>{{ title }}</b>: {{ name }}</p>
+    </section>
+    <hr/>
+    <!-- Program section-->
+    <section id="about">
+        <div class="container px-4">
+            <div class="row gx-4  text-center justify-content-center ">
+                <div class="col-lg-8"><p class="lead">
+        {% for item in program %}
+        {% if item.type == "speaker" %}
+            <h4>Speaker</h4>
+            <p>{{ item.name }}</p>
+        {% elif item.type == "hymn" %}
+            <h4>{{ item.record.descr }}</h4>
+            <p><a href="{{ item.record.url }}">#{{ item.record.number }}, {{ item.record.title }}</a></p>
+        {% elif item.type == "music" %}
+            <h4>Music Number</h4>
+            <p>{{ item.record.title }}, {{ item.record.description }}</p>
+        {% elif item.type == "custom" %}
+            <h4>{{ item.record.title }}</h4>
+            <p>{{ item.record.description }}</p>
+        {% endif %}
     {% endfor %}
-{% endfor %}
+            </p></div>
+            </div>
+        </div>
+    </section>
+    <!-- Quote section-->
+    {% if quote_of_the_month %} 
+    <section class="custom-bg-quote" id="services">
+        <div class="container px-4">
+            <div class="row gx-4 justify-content-center">
+                <div class="col-lg-8">
+                    <p class="lead">
+        <p align="center">{{ quote_of_the_month.quote }}</p>
+        <p align="center">- {{ quote_of_the_month.author }}</p>
+                    </p>
+                </div>
+            </div>
+        </div>
+    </section>
+    {% endif %}   
 
+    <!-- Announcements section-->
+    {% if announcements %}
+    <section id="about">
+        <div class="container px-4" >
+            <div class="row gx-4 justify-content-center  text-center border-bottom rounded-lg">
+                <div class="col-lg-6">
+                    <p class="lead">
+        <h3>Announcements</h3>
+        {% for announcement in announcements %}
+            <p>{{ announcement }}</p>
+        {% endfor %}
+        {% for poster in posters %}
+            <img class="img-fluid" src="{{poster}}" />
+        {% endfor %}
+                </p></div>
+            </div>
+        </div>
+    </section>
+    {% endif %}  
 
-{% for item in program %}
-    {% if item.type == "speaker" %}
-        <h2 align="center">Speaker</h2>
-        <p align="center">{{ item.name }}</p>
-    {% elif item.type == "hymn" %}
-        <h2 align="center">{{ item.record.descr }}</h2>
-        <p align="center"><a href="{{ item.record.url }}">#{{ item.record.number }}, {{ item.record.title }}</a></p>
-    {% elif item.type == "music" %}
-        <h2 align="center">Music Number</h2>
-        <p align="center">{{ item.record.title }}, {{ item.record.description }}</p>
-    {% elif item.type == "custom" %}
-        <h2 align="center">{{ item.record.title }}</h2>
-        <p align="center">{{ item.record.description }}</p>
-    {% endif %}
-{% endfor %}
-
-
-{% if quote_of_the_month %}
-<hr />
-<p align="center">{{ quote_of_the_month.quote }}</p>
-<p align="center">- {{ quote_of_the_month.author }}</p>
-{% endif %}
-
-{% if announcements %}
-    <hr />
-    <h1 align="center">Announcements</h1>
-    {% for announcement in announcements %}
-        <p align="center">{{ announcement }}</p>
-    {% endfor %}
-{% endif %}
-
-{% if posters %}
-    {% for poster in posters %}
-        <p align="center"><img style="max-width:50%;height:auto;" src="{{poster}}" /></p>
-    {% endfor %}
-{% endif %}
-
-
-
-{% if calendar %}
-<hr />
-    <h1 align="center">Calendar Items</h1>
-    {% for item in calendar %}
-        <p align="center"><b>{{ item.title }}:</b> {{ item.description }}</p>
-    {% endfor %}
-{% endif %}
-
-
-{% if links %}
-<hr />
-<h1 align="center">Links</h1>
-    {% for item in links %}
-        <p align="center">
-            <a href="{{ item.url }}" target="_blank" rel="noreferrer noopener">{{ item.title }}</a>
-        </p>
-    {% endfor %}
-{% endif %}
-
-
+    <!-- Contact section-->
+    <section id="contact">
+        <div class="container px-4">
+            <div class="row gx-4 text-center justify-content-center">
+                <div class="col-lg-8">
+                    <p class="lead"> 
+        {% if calendar %}                           
+            <h3>Calendar Items</h3>
+            {% for item in calendar %}
+                <p><b>{{ item.title }}:</b> {{ item.description }}</p>
+            {% endfor %}
+        {% endif %}
+        {% if links %}
+        <hr />
+        <h3>Links</h3>
+            {% for item in links %}
+                <p><a href="{{ item.url }}" target="_blank" rel="noreferrer noopener">{{ item.title }}</a></p>
+            {% endfor %}
+        {% endif %}
+            </p></div>
+            </div>
+        </div>
+    </section>
+    <!-- Footer-->
+    <footer class="py-5 bg-dark">
+        <div class="container px-4"><p class="m-0 text-center text-white">Copyright &copy; Edited November 03, 2024 by Pete Slater and Andy Chen</p></div>
+    </footer>
+    <!-- Bootstrap core JS-->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
+    <!-- Core theme JS-->
+    <script src="js/scripts.js"></script>
 </body>
 </html>

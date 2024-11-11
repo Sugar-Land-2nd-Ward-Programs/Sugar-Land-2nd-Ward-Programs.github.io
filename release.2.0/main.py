@@ -6,7 +6,7 @@ import os
 # Define the paths for the YAML file and template
 yaml_file_path = "data.yaml"
 template_file_path = "template.html"
-output_file_path = "output.html"
+output_file_path = "index.html"
 
 # Load data from YAML
 with open(yaml_file_path, 'r') as yaml_file:
