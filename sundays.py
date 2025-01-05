@@ -4,7 +4,7 @@ Sunday Schedules for 2025
 December 2024 by Pete Slater
 """
 sunday = {
-   "January 05" : ["Fast", "January 5th"],
+    "January 05" : ["Fast", "January 5th"],
     "January 12" : ["Normal", "January 12th"],
     "January 19" : ["Normal", "January 19th"],
     "January 26" : ["Normal", "January 26th"],
