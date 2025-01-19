@@ -32,4 +32,5 @@ art = {
       "Trek" : "https://churchofjesuschrist.org/imgs/1f2c4257889feff0480b16da6eb12218dc7bbe37/full/1600%2C/0/default",
       "Sheep" : "https://history.churchofjesuschrist.org/bc/content/images/muesum/Exhibits/make-known-his-wonderful-works/the-lost-lamb-barrett.jpg",
       "TabChoir" : "https://assets.ldscdn.org/66/88/6688fc127a7be44adf6adede9b03633dea0c5bb9/salt_lake_mormon_tabernacle_choir.jpeg",
+      "Baptism" : "https://dyn.mktgcdn.com/p/Gh1edGiIk7CHNa-40OIpGCCVPe7EFYndKCJYy1cbIS8/width=500,height=500",
        }
