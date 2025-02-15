@@ -3,5 +3,5 @@
 #
 # Sources should be limited to General Authorities and General Officers of the Church of Jesus Christ of Latter-Day Saints
 
-text = "How do we access the quiet miracle that the Lord works as He transforms us, His children, into worthy heirs of the kingdom of God? […] I believe it comes as we yield to the enticings of the Spirit, put off the natural man, and are filled with the love of God. […] All mankind — that includes me, that includes you — we can each have part in the Atonement, the greatest of all God's miracles."
-author = "Sydney S. Reynolds"
+text = "There is an urgency in this day for us to prepare for the coming of the Lord. For you who have heeded the warning and continue in your preparations to accumulate the oil of righteousness in your lamps, great blessings are yours."
+author = "Marvin J. Ashton"
