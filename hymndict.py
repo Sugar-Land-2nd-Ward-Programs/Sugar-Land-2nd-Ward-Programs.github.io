@@ -359,11 +359,26 @@ hymns = {
             1016: ["Behold The Wounds in Jesus Hands","https://www.churchofjesuschrist.org/media/music/songs/behold-the-wounds-in-jesus-hands?crumbs=hymns-for-home-and-church&lang=eng"],
             1017: ["This Is the Christ","https://www.churchofjesuschrist.org/media/music/songs/this-is-the-christ?crumbs=hymns-for-home-and-church&lang=eng"],
             1018: ["Come Lord Jesus","https://www.churchofjesuschrist.org/media/music/songs/come-lord-jesus?crumbs=hymns-for-home-and-church&lang=eng"],
+            1019: [ "To Love like Thee", "https://www.churchofjesuschrist.org/media/music/songs/to-love-like-thee-release-3?crumbs=hymns-for-home-and-church&lang=eng"],
+            1020: [ "Softly and Tenderly Jesus Is Calling", "https://www.churchofjesuschrist.org/media/music/songs/softly-and-tenderly-jesus-is-calling-release-3?crumbs=hymns-for-home-and-church&lang=eng"],
+            1021: [ "I Know That My Savior Loves Me", "https://www.churchofjesuschrist.org/media/music/songs/i-know-that-my-savior-loves-me-release-3?crumbs=hymns-for-home-and-church&lang=eng"],
+            1022: [ "Faith in Every Footstep", "https://www.churchofjesuschrist.org/media/music/songs/faith-in-every-footstep-release-3?crumbs=hymns-for-home-and-church&lang=eng"],
+            1023: [ "Standing on the Promises", "https://www.churchofjesuschrist.org/media/music/songs/standing-on-the-promises-release-3?crumbs=hymns-for-home-and-church&lang=eng"],
+            1024: [ "I Have Faith in The Lord Jesus Christ", "https://www.churchofjesuschrist.org/media/music/songs/i-have-faith-in-the-lord-jesus-christ-release-3?crumbs=hymns-for-home-and-church&lang=eng"],
+            1025: [ "Take My Heart and Let It Be Consecrated", "https://www.churchofjesuschrist.org/media/music/songs/take-my-heart-and-let-it-be-consecrated-release-3?crumbs=hymns-for-home-and-church&lang=eng"],
+            1026: [ "Holy Places", "https://www.churchofjesuschrist.org/media/music/songs/holy-places-release-3?crumbs=hymns-for-home-and-church&lang=eng"],
+            1027: [ "Welcome Home", "https://www.churchofjesuschrist.org/media/music/songs/welcome-home-release-3?crumbs=hymns-for-home-and-church&lang=eng"],
+            1028: [ "This Little Light of Mine", "https://www.churchofjesuschrist.org/media/music/songs/this-little-light-of-mine-release-3?crumbs=hymns-for-home-and-church&lang=eng"],
+            1029: [ "I Can't Count Them All", "https://www.churchofjesuschrist.org/media/music/songs/i-cant-count-them-all-release-3?crumbs=hymns-for-home-and-church&lang=eng"],
+            1030: [ "Close as a Quiet Prayer", "https://www.churchofjesuschrist.org/media/music/songs/close-as-a-quiet-prayer-release-3?crumbs=hymns-for-home-and-church&lang=eng"],
+            1031: [ "Come, Hear the Word the Lord Has Spoken", "https://www.churchofjesuschrist.org/media/music/songs/come-hear-the-word-the-lord-has-spoken-release-3?crumbs=hymns-for-home-and-church&lang=eng"],
+
 
             1201: ["Hail the Day That Sees Him Rise","https://www.churchofjesuschrist.org/media/music/songs/hail-the-day-that-sees-him-rise?crumbs=hymns-for-home-and-church&lang=eng"], 
             1202: ["He Is Born, the Divine Christ Child","https://www.churchofjesuschrist.org/media/music/songs/he-is-born-the-divine-christ-child?crumbs=hymns-for-home-and-church&lang=eng"],
             1203: ["What Child Is This?","https://www.churchofjesuschrist.org/media/music/songs/what-child-is-this?crumbs=hymns-for-home-and-church&lang=eng"],
             1204: ["Star Bright","https://www.churchofjesuschrist.org/media/music/songs/star-bright?crumbs=hymns-for-home-and-church&lang=eng"],
+            
             9999: ["Dejlig er den himmel blaa","https://www.folkekirken.dk/om-troen/salmer/dejlig-er-den-himmel-blaa"]
 
 }

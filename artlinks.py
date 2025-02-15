@@ -34,4 +34,5 @@ art = {
       "TabChoir" : "https://assets.ldscdn.org/66/88/6688fc127a7be44adf6adede9b03633dea0c5bb9/salt_lake_mormon_tabernacle_choir.jpeg",
       "Light" : "https://www.churchofjesuschrist.org/imgs/81046f608f0ce03a16a810ef5656ffb2d700bb0d/full/%21500%2C/0/default",
       "Baptism" : "https://dyn.mktgcdn.com/p/Gh1edGiIk7CHNa-40OIpGCCVPe7EFYndKCJYy1cbIS8/width=500,height=500",
+      "wheat" : "https://assets.churchofjesuschrist.org/e1/37/e13770379b4cb8f8ec9dca331c9d1b31579b5e6f/e13770379b4cb8f8ec9dca331c9d1b31579b5e6f.jpg"
        }
