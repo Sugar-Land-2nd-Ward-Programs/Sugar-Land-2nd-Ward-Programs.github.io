@@ -3,5 +3,5 @@
 #
 # Sources should be limited to General Authorities and General Officers of the Church of Jesus Christ of Latter-Day Saints
 
-text = "There is an urgency in this day for us to prepare for the coming of the Lord. For you who have heeded the warning and continue in your preparations to accumulate the oil of righteousness in your lamps, great blessings are yours."
-author = "Marvin J. Ashton"
+text = "Christ, the Prince of Peace, teaches us a better way. ...  When we forgive others, it frees us to choose how we will live our own lives. Forgiveness means that problems of the past no longer dictate our destinies, and we can focus on the future with God’s love in our hearts."
+author = "David E. Sorensen"
