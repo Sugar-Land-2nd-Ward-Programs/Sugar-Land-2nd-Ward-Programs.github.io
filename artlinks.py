@@ -36,4 +36,15 @@ art = {
       "Baptism" : "https://dyn.mktgcdn.com/p/Gh1edGiIk7CHNa-40OIpGCCVPe7EFYndKCJYy1cbIS8/width=500,height=500",
       "wheat" : "https://assets.churchofjesuschrist.org/e1/37/e13770379b4cb8f8ec9dca331c9d1b31579b5e6f/e13770379b4cb8f8ec9dca331c9d1b31579b5e6f.jpg",
       "last" : "https://www.churchofjesuschrist.org/imgs/1275e3446f6111edbaa4eeeeac1e55bacdb4d797/full/%21500%2C/0/default",
+      "Easter5" :"https://www.churchofjesuschrist.org/imgs/0e4acfe989d711eca6dfeeeeac1e6f0aea2ccc16/full/1280%2C/0/default",
+      "PalmSunday" : "https://www.churchofjesuschrist.org/imgs/1580c9adb1ed11ec97a0eeeeac1ef4e238c2150f/full/1280%2C/0/default",
+      "Monday" : "https://www.churchofjesuschrist.org/imgs/6ac30170af9711ecb42feeeeac1e3b7684a2ecc1/full/1280%2C/0/default",
+      "Tuesday" : "https://www.churchofjesuschrist.org/imgs/6a6cf232af9711ec91a3eeeeac1eccb06fa26bf0/full/1280%2C/0/default",
+      "Wednesday" : "https://www.churchofjesuschrist.org/imgs/671dc728af9711ec9253eeeeac1e1738ad8f6d64/full/1280%2C/0/default",
+      "Thursday" : "https://www.churchofjesuschrist.org/imgs/68611c97af9711ecb660eeeeac1e2f3c54a72478/full/1280%2C/0/default",
+      "GoodFriday" : "https://www.churchofjesuschrist.org/imgs/6951e535af9711ecbc9deeeeac1e65eca708dcd1/full/1280%2C/0/default",
+      "Saturday" : "https://www.churchofjesuschrist.org/imgs/6936bc15af9711ecae2deeeeac1ec13163512fab/full/1280%2C/0/default",
+      "EasterSunday" : "https://www.churchofjesuschrist.org/imgs/0e2c4b6889d711eca0b8eeeeac1ef0e6698f204e/full/800%2C/0/default",
+      "America" : "https://www.churchofjesuschrist.org/imgs/2c250636e64459e3a30c6324865c6b0a39bdb1f5/full/!1600%2C/0/default",
+      "FirstVision" : "https://content.churchofjesuschrist.org/acp/bc/Philippines/ORM-SEO/Joseph%20Smith%20and%20the%20First%20Vision%20/1200x1920/Joseph1stVision-r5x8-1_01.png"
        }
