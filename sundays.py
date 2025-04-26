@@ -1,7 +1,7 @@
 """
 Sunday Schedules for 2025
 
-December 2024 by Pete Slater
+December 2024 by Pete Slater - Revised Stake Conference April '25
 """
 sunday = {
     "January 05" : ["Fast", "January 5th"],
@@ -23,9 +23,9 @@ sunday = {
     "April 27" : ["Normal", "April 27th"],
     "May 04" : ["Fast", "May 4th"],
     "May 11" : ["Normal", "May 11th"],
-    "May 18" : ["Stake", "May 18th"],
+    "May 18" : ["Normal", "May 18th"],
     "May 25" : ["Normal", "May 25th"],
-    "June 01" : ["Fast", "June 1st"],
+    "June 01" : ["Stake", "June 1st"],
     "June 08" : ["Normal", "June 8th"],
     "June 15" : ["Normal", "June 15th"],
     "June 22" : ["Normal", "June 22nd"],
