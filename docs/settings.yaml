@@ -1,0 +1,172 @@
+unit: "Sugar Land 2nd Ward"
+meeting_cover_img: "Light" # Get alias from lookups/artlinks or from the arlinks web page
+#meeting_type: "sacrament" # Auto-calculated. Uncomment for tests or overrides only. Acceptable values: sacrament, testimony, primary, easter, ward, christmas, stake, generalconference
+officers:
+  - "Presiding": "Bishop Cody Roskelley"
+  #- "Presiding": "President Travis Bird"
+  #- "Presiding": "President Mike Kennington"
+  #- "Presiding": "President Ernie Carrasquillo"
+  #- "Presiding": "Brother Jared Draney"
+  #- "Presiding": "Brother Schuyler Robinson"
+  - "Conducting": "Bishop Cody Roskelley"
+  # "Conducting": "Brother Jared Draney"
+  #- "Conducting": "Brother Schuyler Robinson"
+hymns:
+  opening:
+      number: 209
+  sacrament:
+      number: 196
+  intermediate:
+      number: 999
+  closing:
+      number: 134
+meeting_sacrament:
+  title: "Sacrament Meeting"
+  program:
+      - type: "speaker"
+        name: "Joy Ekstrom"
+
+      - type: intermediate_hymn
+    
+      #- type: "music"
+      #  title: "Come ye... " #Music number
+      #  description: "Nan and Ann" #Musicians
+    
+      - type: "speaker"
+        name: "Chris Martin"
+    
+        
+meeting_testimony:
+  title: "Fast and Testimony Meeting"
+  program:
+      - type: custom
+        title: "Bearing of Testimonies"
+        description: ""
+
+meeting_ward:
+  title: "Ward Conference"
+  program:
+
+      - type: "speaker"
+        name: "John Wick"
+
+      - type: intermediate_hymn
+    
+      - type: "music"
+        title: "Come ye saints... " #Music number
+        description: "by Nan and Ann" #Musicians
+    
+      - type: "speaker"
+        name: "Reuben Sams"
+
+meeting_easter:
+  title: "Easter Service"
+  program:
+
+      - type: "speaker"
+        name: "Travis Bird"
+
+      - type: "speaker"
+        name: "Joey Powell"
+
+      #- type: intermediate_hymn
+    
+      - type: "music"
+        title: "Come ye saints... " #Music number
+        description: "by Nan and Ann" #Musicians
+    
+      - type: "speaker"
+        name: "David Hruska"
+
+      - type: hymn
+        hymn: closing
+
+#meeting_christmas:
+#  title: "Christmas Program"
+#  program:
+#      - type: custom
+#        title: "Custom text"
+#        description: "Custom text"
+
+meeting_primary:
+  title: "Primary Program"
+  program:
+      - type: custom
+        title: "Primary Program"
+        description: |
+          Words and Music Testifying of the Book of Mormon, Another Testament of Jesus Christ
+          <br>Directed by Dawnette Moore, Accompanied by Dana Blackburn
+          <br>Primary Choir with
+          <br>Porter Wrightman, Maggie Moore, Ryan Boyer, Livia Moore, Evangelina Garcia, Theodore Rellaford, Boston Robinson, Piper Wrightman, Bella Moore, Sebastian Garcia, Gresham Robinson, Eliza Moore, Leonor Chen, Ioanna Ozomah, Dylan Moore, Henrie Rellaford
+
+      - type: custom
+        title: "Concluding remarks"
+        description: "Bishop Joey Powell"
+
+meeting_stake:
+  title: "Houston Texas South Stake Conference"
+  program:
+      - type: custom
+        title: "Leadership Session, Saturday 4:00-5:30 pm"
+        description: |
+          All members of Stake and Ward Councils and their presidencies, secretaries, and clerks are invited to attend.
+          <br>This includes: Bishoprics; Elders quorum presidencies; Aaronic Priesthood quorum and Young Women class advisers; Relief Society, Young Women, Primary and Sunday School presidencies, and secretaries.
+          <br>In-person at Lexington
+
+      - type: custom
+        title: "Adult Session, Saturday 7:00-8:45 pm"
+        description: "All adults. <br>In-person at Lexington"
+
+      - type: custom
+        title: "Leadership Session, Sunday 10:00 am - 12:00 pm"
+        description: "In-person at Lexington. <br>Via Zoom at Sienna and Rosenberg buildings"
+
+meeting_generalconference:
+  title: "General Conference"
+  program:
+      - type: custom
+        title: "Join General Conference"
+        description:  |
+         Saturday Morning Session - 11:00 am CDT
+         <br>Saturday Afternoon Session - 3:00 pm CDT
+         <br>Saturday Evening Session - 7:00 pm CDT
+         <br>Sunday Morning Session - 11:00 am CDT
+         <br>Sunday Afternoon Session - 3:00 pm CDT
+
+
+      - type: url
+        title: "Watch and listen online"
+        url: https://www.churchofjesuschrist.org/feature/general-conference?lang=eng
+
+announcements:
+  - "The sister missionaries have a new phone number: 346-901-8717"
+  - Volleyball Wednesdays - Come join us on Wednesdays at 9PM and have fun!!!
+  - Send announcements to bvl2clerk@gmail.com
+
+posters: # Upload pictures to the GitHub docs/img/ folder. Avoid spaces in the picture filenames.
+  - "./img/Stake%20Monthly%20Flyer.jpg"
+  - "./posters/Houston%20South%20Stake%20-%20Save%20the%20Date.jpg"
+  #- "./posters/Christmas%202024%20Save%20Date-Join.jpg"
+
+calendar:
+  temple_day: # Auto-calculated. Remove or comment this line to hide the next Ward temple day
+  cleaning: # Auto-calculated. Remove or comment this line to hide the building cleaning schedule
+  custom:
+    - title: "Deep Cleaning at the Peanut Butter Factory"
+      description: "9:00 am - 3:00 pm, Tuesday, June 24. Contact Vince Markwalter for details."
+
+links:
+  - title: "Let the missionaries know when you are available to help teach"
+    url: https://www.youtube.com/watch?v=0_Ntv6zQ70M&authuser=1
+  - title: "Get started with Temple and Family History work"
+    url: ./temple-and-family-history.html
+  - title: "Sign up to feed the missionaries"
+    url: ./temple-and-family-history.html
+  - title: "Sign up to prepare a meal with Fort Bend Family Promise"
+    url: https://www.signupgenius.com/go/10c0e4baca82ea7fb6-helping4#
+  - title: "Help at secondmile.org"
+    url: https://www.signupgenius.com/go/10c0e4baca82ea7fb6-helping4#
+
+quote_of_the_month:
+  quote: "When so many around us are burdened with fear and uncertainty, I invite you to make room in your heart for those around you who may be struggling to see the light of the Savior and to feel His love. No gifts will mean as much as acts of pure love you offer to the lonely, the worn down and the weary. These are gifts that remind us and them of the true reason for the season: the gift of God’s Son, Jesus Christ, who was born to cast out all fear and bring everlasting light and joy to all who follow Him"
+  author: "Russell M. Nelson"

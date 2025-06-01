@@ -1,0 +1,54 @@
+{
+    "temple_week": 2,
+    "temple_day": "Saturday",
+    "temple_closures": [
+        {
+            "start": "27 November 2024",
+            "end": "28 November 2024"
+        },
+        {
+            "start": "24 December 2024",
+            "end": "25 December 2024"
+        },
+        {
+            "start": "31 December 2024",
+            "end": "31 December 2024"
+        },
+        {
+            "start": "1 January 2025",
+            "end": "1 January 2025"
+        },
+        {
+            "start": "3 March 2025",
+            "end": "17 March 2025"
+        },
+        {
+            "start": "5 April 2025",
+            "end": "5 April 2025"
+        },
+        {
+            "start": "4 July 2025",
+            "end": "4 July 2025"
+        },
+        {
+            "start": "8 September 2025",
+            "end": "22 September 2025"
+        },
+        {
+            "start": "4 October 2025",
+            "end": "4 October 2025"
+        },
+        {
+            "start": "27 November 2025",
+            "end": "27 November 2025"
+        },
+        {
+            "start": "24 December 2025",
+            "end": "25 December 2025"
+        },
+        {
+            "start": "31 December 2025",
+            "end": "31 December 2025"
+        }
+    ]
+}
