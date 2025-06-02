@@ -2,15 +2,15 @@ unit: "Sugar Land 2nd Ward"
 meeting_cover_img: "Light" # Get alias from lookups/artlinks or from the arlinks web page
 #meeting_type: "sacrament" # Auto-calculated. Uncomment for tests or overrides only. Acceptable values: sacrament, testimony, primary, easter, ward, christmas, stake, generalconference
 officers:
-  - "Presiding": "Bishop Cody Roskelley"
+  #- "Presiding": "Bishop Cody Roskelley"
   #- "Presiding": "President Travis Bird"
   #- "Presiding": "President Mike Kennington"
   #- "Presiding": "President Ernie Carrasquillo"
-  #- "Presiding": "Brother Jared Draney"
+  - "Presiding": "Brother Jared Draney"
   #- "Presiding": "Brother Schuyler Robinson"
-  - "Conducting": "Bishop Cody Roskelley"
+  #- "Conducting": "Bishop Cody Roskelley"
   # "Conducting": "Brother Jared Draney"
-  #- "Conducting": "Brother Schuyler Robinson"
+  - "Conducting": "Brother Schuyler Robinson"
 hymns:
   opening:
       number: 209
