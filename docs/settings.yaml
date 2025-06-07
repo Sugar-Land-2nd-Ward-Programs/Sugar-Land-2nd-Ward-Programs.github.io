@@ -1,5 +1,5 @@
 unit: "Sugar Land 2nd Ward"
-meeting_cover_img: "Light" # Get alias from lookups/artlinks or from the arlinks web page
+meeting_cover_img: 7 # Get alias from lookups/artlinks or from the arlinks web page
 #meeting_type: "sacrament" # Auto-calculated. Uncomment for tests or overrides only. Acceptable values: sacrament, testimony, primary, easter, ward, christmas, stake, generalconference
 officers:
   #- "Presiding": "Bishop Cody Roskelley"
@@ -13,13 +13,13 @@ officers:
   - "Conducting": "Brother Schuyler Robinson"
 hymns:
   opening:
-      number: 209
+      number: 72
   sacrament:
-      number: 196
+      number: 169
   intermediate:
       number: 999
   closing:
-      number: 134
+      number: 100
 meeting_sacrament:
   title: "Sacrament Meeting"
   program:
@@ -146,6 +146,7 @@ announcements:
 posters: # Upload pictures to the GitHub docs/img/ folder. Avoid spaces in the picture filenames.
   - "./img/Stake%20Monthly%20Flyer.jpg"
   - "./posters/Houston%20South%20Stake%20-%20Save%20the%20Date.jpg"
+  - "./img/EmergPrepFireside.pdf"
   #- "./posters/Christmas%202024%20Save%20Date-Join.jpg"
 
 calendar:
@@ -154,6 +155,14 @@ calendar:
   custom:
     - title: "Deep Cleaning at the Peanut Butter Factory"
       description: "9:00 am - 3:00 pm, Tuesday, June 24. Contact Vince Markwalter for details."
+    - title: "Astros Friends and Family Night"
+      description:  "June 11 at Daikin Field"
+    - title: "Multistake Fort Bend County Disaster Devotional"
+      description: "June 11, 7:00 pm, Richmond Stake Center"
+    - title: "Lexington Building Cleaning"
+      description: "July 15 - building closed all day"
+    - title: "Cultural Hall Maintenance"
+      description: "The Cultural Hall will be closed for maintenance July 28 - August 3"  
 
 links:
   - title: "Let the missionaries know when you are available to help teach"
