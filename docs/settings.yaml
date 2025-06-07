@@ -145,7 +145,7 @@ announcements:
 
 posters: # Upload pictures to the GitHub docs/img/ folder. Avoid spaces in the picture filenames.
   - "./img/Stake%20Monthly%20Flyer.jpg"
-  - "./img/Houston%20South%20Stake%20-%20Save%20the%20Date.jpg"
+  - "./img/Stake%20-%20Save%20the%20Date.jpg"
   - "./img/EmergPrepFireside.png"
   #- "./posters/Christmas%202024%20Save%20Date-Join.jpg"
 
