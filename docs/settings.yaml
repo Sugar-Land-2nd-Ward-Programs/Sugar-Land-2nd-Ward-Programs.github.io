@@ -1,5 +1,5 @@
 unit: "Sugar Land 2nd Ward"
-meeting_cover_img: 7 # Get alias from lookups/artlinks or from the arlinks web page
+meeting_cover_img: 'America' # Get alias from lookups/artlinks or from the arlinks web page
 #meeting_type: "sacrament" # Auto-calculated. Uncomment for tests or overrides only. Acceptable values: sacrament, testimony, primary, easter, ward, christmas, stake, generalconference
 officers:
   #- "Presiding": "Bishop Cody Roskelley"
@@ -13,18 +13,22 @@ officers:
   - "Conducting": "Brother Schuyler Robinson"
 hymns:
   opening:
-      number: 72
+      number: 66
   sacrament:
-      number: 169
+      number: 181
   intermediate:
-      number: 999
+      number: 125
   closing:
-      number: 100
+      number: 86
 meeting_sacrament:
   title: "Sacrament Meeting"
   program:
+      - type: "music"
+        title: "Daddy's Homecoming" #Music number
+        description: "Primary Children" #Musicians
+      
       - type: "speaker"
-        name: "Joy Ekstrom"
+        name: "Maja Rellaford"
 
       - type: intermediate_hymn
     
@@ -33,7 +37,7 @@ meeting_sacrament:
       #  description: "Nan and Ann" #Musicians
     
       - type: "speaker"
-        name: "Chris Martin"
+        name: "Marianne Seegmiller"
     
         
 meeting_testimony:
@@ -155,10 +159,8 @@ calendar:
   custom:
     - title: "Deep Cleaning at the Peanut Butter Factory"
       description: "9:00 am - 3:00 pm, Tuesday, June 24. Contact Vince Markwalter for details."
-    - title: "Astros Friends and Family Night"
-      description:  "June 11 at Daikin Field"
     - title: "Multistake Fort Bend County Disaster Devotional"
-      description: "June 11, 7:00 pm, Richmond Stake Center"
+      description: "June 22, 7:00 pm, Richmond Stake Center"
     - title: "Lexington Building Cleaning"
       description: "July 15 - building closed all day"
     - title: "Cultural Hall Maintenance"
