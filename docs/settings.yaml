@@ -1,8 +1,9 @@
 unit: "Sugar Land 2nd Ward"
-meeting_cover_img: 'America' # Get alias from lookups/artlinks or from the arlinks web page
+meeting_cover_img: 4 # Get alias from lookups/artlinks or from the arlinks web page
 #meeting_type: "sacrament" # Auto-calculated. Uncomment for tests or overrides only. Acceptable values: sacrament, testimony, primary, easter, ward, christmas, stake, generalconference
 officers:
-  - "Presiding": "Bishop Cody Roskelley"
+  #- "Presiding": "Bishop Cody Roskelley"
+  - "Presiding": "Elder Robert K. Ellis"
   #- "Presiding": "President Travis Bird"
   #- "Presiding": "President Mike Kennington"
   #- "Presiding": "President Ernie Carrasquillo"
@@ -13,22 +14,22 @@ officers:
   - "Conducting": "Brother Schuyler Robinson"
 hymns:
   opening:
-      number: 66
+      number: 72
   sacrament:
-      number: 181
+      number: 182
   intermediate:
-      number: 125
+      number: 294
   closing:
-      number: 86
+      number: 162
 meeting_sacrament:
   title: "Sacrament Meeting"
   program:
-      - type: "music"
-        title: "Daddy's Homecoming" #Music number
-        description: "Primary Children" #Musicians
-      
+        
       - type: "speaker"
-        name: "Maja Rellaford"
+        name: "Will Bradford"
+
+      - type: "speaker"
+        name: "Dana Blackburn"
 
       - type: intermediate_hymn
     
@@ -37,7 +38,7 @@ meeting_sacrament:
       #  description: "Nan and Ann" #Musicians
     
       - type: "speaker"
-        name: "Marianne Seegmiller"
+        name: "Elder Cole Crandall"
     
         
 meeting_testimony:

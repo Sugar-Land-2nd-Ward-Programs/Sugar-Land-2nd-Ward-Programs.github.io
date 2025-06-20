@@ -1,4 +1,5 @@
 hymns = {
+    
                                                            1: ["The Morning Breaks","https://www.churchofjesuschrist.org/music/library/hymns/the-morning-breaks?lang=eng&#39"],
                                                              2: ["The Spirit of God","https://www.churchofjesuschrist.org/music/library/hymns/the-spirit-of-god?lang=eng&#39"],
                                                            3: ["Now Let Us Rejoice","https://www.churchofjesuschrist.org/music/library/hymns/now-let-us-rejoice?lang=eng&#39"],
@@ -372,6 +373,16 @@ hymns = {
             1029: [ "I Can't Count Them All", "https://www.churchofjesuschrist.org/media/music/songs/i-cant-count-them-all-release-3?crumbs=hymns-for-home-and-church&lang=eng"],
             1030: [ "Close as a Quiet Prayer", "https://www.churchofjesuschrist.org/media/music/songs/close-as-a-quiet-prayer-release-3?crumbs=hymns-for-home-and-church&lang=eng"],
             1031: [ "Come, Hear the Word the Lord Has Spoken", "https://www.churchofjesuschrist.org/media/music/songs/come-hear-the-word-the-lord-has-spoken-release-3?crumbs=hymns-for-home-and-church&lang=eng"],
+            1032: [ "Look Unto Christ", "https://www.churchofjesuschrist.org/media/music/songs/look-unto-christ?crumbs=hymns-for-home-and-church&lang=eng"],
+            1033: [ "Oh, How Great Is Our Joy", "https://www.churchofjesuschrist.org/media/music/songs/oh-how-great-is-our-joy?crumbs=hymns-for-home-and-church&lang=eng"],
+            1034: [ "I'm A Pioneer Too", "https://www.churchofjesuschrist.org/media/music/songs/im-a-pioneer-too?crumbs=hymns-for-home-and-church&lang=eng"],
+            1035: [ "As I Keep The Sabbath Day", "https://www.churchofjesuschrist.org/media/music/songs/as-i-keep-the-sabbath-day?crumbs=hymns-for-home-and-church&lang=eng"],
+            1036: [ "Read The Book Of Mormon And Pray", "https://www.churchofjesuschrist.org/media/music/songs/read-the-book-of-mormon-and-pray?crumbs=hymns-for-home-and-church&lang=eng"],
+            1037: [ "I'm Gonna Live So God Can Use Me", "https://www.churchofjesuschrist.org/media/music/songs/im-gonna-live-so-god-can-use-me?crumbs=hymns-for-home-and-church&lang=eng"],
+            1038: [ "The Lord's My Shepherd", "https://www.churchofjesuschrist.org/media/music/songs/the-lords-my-shepherd?crumbs=hymns-for-home-and-church&lang=eng"],
+            1039: [ "Because", "https://www.churchofjesuschrist.org/media/music/songs/because?crumbs=hymns-for-home-and-church&lang=eng"],
+            1040: [ "His Voice As the Sound", "https://www.churchofjesuschrist.org/media/music/songs/his-voice-as-the-sound?crumbs=hymns-for-home-and-church&lang=eng"],
+            1041: [ "O Lord, Who Gave Thy Life For Me", "https://www.churchofjesuschrist.org/media/music/songs/o-lord-who-gave-thy-life-for-me?crumbs=hymns-for-home-and-church&lang=eng"],
 
 
             1201: ["Hail the Day That Sees Him Rise","https://www.churchofjesuschrist.org/media/music/songs/hail-the-day-that-sees-him-rise?crumbs=hymns-for-home-and-church&lang=eng"], 
