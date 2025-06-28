@@ -2,34 +2,31 @@ unit: "Sugar Land 2nd Ward"
 meeting_cover_img: 4 # Get alias from lookups/artlinks or from the arlinks web page
 #meeting_type: "sacrament" # Auto-calculated. Uncomment for tests or overrides only. Acceptable values: sacrament, testimony, primary, easter, ward, christmas, stake, generalconference
 officers:
-  #- "Presiding": "Bishop Cody Roskelley"
-  - "Presiding": "Elder Robert K. Ellis"
+  - "Presiding": "Bishop Cody Roskelley"
+  # "Presiding": "Elder Robert K. Ellis"
   #- "Presiding": "President Travis Bird"
   #- "Presiding": "President Mike Kennington"
   #- "Presiding": "President Ernie Carrasquillo"
   #- "Presiding": "Brother Jared Draney"
   #- "Presiding": "Brother Schuyler Robinson"
-  #- "Conducting": "Bishop Cody Roskelley"
-  # "Conducting": "Brother Jared Draney"
-  - "Conducting": "Brother Schuyler Robinson"
+  - "Conducting": "Bishop Cody Roskelley"
+  #- "Conducting": "Brother Jared Draney"
+  #- "Conducting": "Brother Schuyler Robinson"
 hymns:
   opening:
-      number: 72
+      number: 142
   sacrament:
-      number: 182
+      number: 184
   intermediate:
-      number: 294
+      number: 250
   closing:
-      number: 162
+      number: 143
 meeting_sacrament:
   title: "Sacrament Meeting"
   program:
         
       - type: "speaker"
-        name: "Will Bradford"
-
-      - type: "speaker"
-        name: "Dana Blackburn"
+        name: "Randee Debow"
 
       - type: intermediate_hymn
     
@@ -38,7 +35,7 @@ meeting_sacrament:
       #  description: "Nan and Ann" #Musicians
     
       - type: "speaker"
-        name: "Elder Cole Crandall"
+        name: "Maria Boyer"
     
         
 meeting_testimony:
@@ -158,10 +155,6 @@ calendar:
   temple_day: # Auto-calculated. Remove or comment this line to hide the next Ward temple day
   cleaning: # Auto-calculated. Remove or comment this line to hide the building cleaning schedule
   custom:
-    - title: "Deep Cleaning at the Peanut Butter Factory"
-      description: "9:00 am - 3:00 pm, Tuesday, June 24. Contact Vince Markwalter for details."
-    - title: "Multistake Fort Bend County Disaster Devotional"
-      description: "June 22, 7:00 pm, Richmond Stake Center"
     - title: "Lexington Building Cleaning"
       description: "July 15 - building closed all day"
     - title: "Cultural Hall Maintenance"
