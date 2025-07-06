@@ -166,9 +166,7 @@ links:
   - title: "Sign up for the SL2 Pioneer Day Brunch and Pool Party at the Bradfords, July 26th, 9-11:30"
     url: "https://www.signupgenius.com/go/10C0448A9A82EAB9-57415298-july"
   - title: "See the entire building cleaning schedule"
-    url: "https://sugar-land-2nd-ward-programs.github.io/CleaningSchedule.html"
-  - title: "Let the missionaries know when you are available to help teach"
-    url: https://www.youtube.com/watch?v=0_Ntv6zQ70M&authuser=1
+    url: "./CleaningSchedule.html"
   - title: "Get started with Temple and Family History work"
     url: ./temple-and-family-history.html
   - title: "Sign up to feed the missionaries"
