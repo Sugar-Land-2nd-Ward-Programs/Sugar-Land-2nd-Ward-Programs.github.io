@@ -14,13 +14,13 @@ officers:
   #- "Conducting": "Brother Schuyler Robinson"
 hymns:
   opening:
-      number: 142
+      number: 338
   sacrament:
-      number: 184
+      number: 193
   intermediate:
-      number: 250
+      number: 999
   closing:
-      number: 143
+      number: 339
 meeting_sacrament:
   title: "Sacrament Meeting"
   program:
@@ -158,11 +158,15 @@ calendar:
     - title: "Lexington Building Cleaning"
       description: "July 15 - building closed all day"
     - title: "Cultural Hall Maintenance"
-      description: "The Cultural Hall will be closed for maintenance July 28 - August 3"  
+      description: "The Cultural Hall will be closed for maintenance July 28 - August 3"
+    - title: "Pioneer Day at the Children's Museum of Houston"
+      description: "Celebrate the Musuem's new exhibit, 'Faithful Friends', with a special holiday for members of the Church of Jesus Christ of Latter-Day Saints" 
 
 links:
   - title: "Sign up for the SL2 Pioneer Day Brunch and Pool Party at the Bradfords, July 26th, 9-11:30"
     url: "https://www.signupgenius.com/go/10C0448A9A82EAB9-57415298-july"
+  - title: "See the entire building cleaning schedule"
+    url: "https://sugar-land-2nd-ward-programs.github.io/CleaningSchedule.html"
   - title: "Let the missionaries know when you are available to help teach"
     url: https://www.youtube.com/watch?v=0_Ntv6zQ70M&authuser=1
   - title: "Get started with Temple and Family History work"
