@@ -149,7 +149,7 @@ posters: # Upload pictures to the GitHub docs/img/ folder. Avoid spaces in the p
   #- "./img/Stake%20Monthly%20Flyer.jpg"
   #- "./img/Stake%20Save%20the%20Date.jpg"
   - "./posters/Blood%20Drive%20Flyer.jpg"
-  - "./posters/FSY%20Wrap%20Up%Flyer%20-%20Flyer%2025.JPG"
+  - "./posters/FSY%20Wrap%20Up%20Flyer%20-%20Flyer%2025.JPG"
 
 calendar:
   temple_day: # Auto-calculated. Remove or comment this line to hide the next Ward temple day
