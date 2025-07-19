@@ -2,10 +2,10 @@ unit: "Sugar Land 2nd Ward"
 meeting_cover_img: 4 # Get alias from lookups/artlinks or from the arlinks web page
 #meeting_type: "sacrament" # Auto-calculated. Uncomment for tests or overrides only. Acceptable values: sacrament, testimony, primary, easter, ward, christmas, stake, generalconference
 officers:
-  - "Presiding": "Bishop Cody Roskelley"
+  #- "Presiding": "Bishop Cody Roskelley"
   # "Presiding": "Elder Robert K. Ellis"
   #- "Presiding": "President Travis Bird"
-  #- "Presiding": "President Mike Kennington"
+  - "Presiding": "President Mike Kennington"
   #- "Presiding": "President Ernie Carrasquillo"
   #- "Presiding": "Brother Jared Draney"
   #- "Presiding": "Brother Schuyler Robinson"
@@ -14,19 +14,19 @@ officers:
   #- "Conducting": "Brother Schuyler Robinson"
 hymns:
   opening:
-      number: 30
+      number: 108
   sacrament:
-      number: 195
+      number: 188
   intermediate:
-      number: 106
+      number: 1004
   closing:
-      number: 241
+      number: 304
 meeting_sacrament:
   title: "Sacrament Meeting"
   program:
         
       - type: "speaker"
-        name: "Kaye Reynolds"
+        name: "Joseph Scott"
 
       - type: intermediate_hymn
     
@@ -35,7 +35,7 @@ meeting_sacrament:
       #  description: "Nan and Ann" #Musicians
     
       - type: "speaker"
-        name: "Denton Markwalter"
+        name: "President Mike Kennington"
     
         
 meeting_testimony:
@@ -146,17 +146,15 @@ announcements:
   - Send announcements to bvl2clerk@gmail.com
 
 posters: # Upload pictures to the GitHub docs/img/ folder. Avoid spaces in the picture filenames.
-  - "./img/Stake%20Monthly%20Flyer.jpg"
+  #- "./img/Stake%20Monthly%20Flyer.jpg"
   #- "./img/Stake%20Save%20the%20Date.jpg"
-  
-  #- "./posters/Christmas%202024%20Save%20Date-Join.jpg"
+  - "./posters/Blood%20Drive%20Flyer.jpg"
+  - "./posters/FSY%20Wrap%20Up%Flyer%20-%20Flyer%2025.JPG"
 
 calendar:
   temple_day: # Auto-calculated. Remove or comment this line to hide the next Ward temple day
   cleaning: # Auto-calculated. Remove or comment this line to hide the building cleaning schedule
   custom:
-    - title: "Lexington Building Cleaning"
-      description: "July 15 - building closed all day"
     - title: "Cultural Hall Maintenance"
       description: "The Cultural Hall will be closed for maintenance July 28 - August 3"
     - title: "Pioneer Day at the Children's Museum of Houston"
