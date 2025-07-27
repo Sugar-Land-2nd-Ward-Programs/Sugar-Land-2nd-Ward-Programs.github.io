@@ -151,7 +151,7 @@ announcements:
 posters: # Upload pictures to the GitHub docs/img/ folder. Avoid spaces in the picture filenames.
   #- "./img/Stake%20Monthly%20Flyer.jpg"
   #- "./img/Stake%20Save%20the%20Date.jpg"
-  - "./posters/Blood%20Drive%20Flyer.jpg"
+  #- "./posters/Blood%20Drive%20Flyer.jpg"
   - "./posters/FSY%20Wrap%20Up%20Fireside%20-%20Flyer%202025.JPG"
 
 calendar:
