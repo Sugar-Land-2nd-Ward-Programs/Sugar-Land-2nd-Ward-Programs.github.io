@@ -1,11 +1,11 @@
 unit: "Sugar Land 2nd Ward"
-meeting_cover_img: 4 # Get alias from lookups/artlinks or from the arlinks web page
+meeting_cover_img: 'Trek' # Get alias from lookups/artlinks or from the arlinks web page
 #meeting_type: "sacrament" # Auto-calculated. Uncomment for tests or overrides only. Acceptable values: sacrament, testimony, primary, easter, ward, christmas, stake, generalconference
 officers:
-  #- "Presiding": "Bishop Cody Roskelley"
-  # "Presiding": "Elder Robert K. Ellis"
+  - "Presiding": "Bishop Cody Roskelley"
+  #- "Presiding": "Elder Robert K. Ellis"
   #- "Presiding": "President Travis Bird"
-  - "Presiding": "President Mike Kennington"
+  #- "Presiding": "President Mike Kennington"
   #- "Presiding": "President Ernie Carrasquillo"
   #- "Presiding": "Brother Jared Draney"
   #- "Presiding": "Brother Schuyler Robinson"
@@ -14,19 +14,22 @@ officers:
   #- "Conducting": "Brother Schuyler Robinson"
 hymns:
   opening:
-      number: 108
+      number: 219
   sacrament:
-      number: 188
+      number: 193
   intermediate:
-      number: 1004
+      number: 29
   closing:
-      number: 304
+      number: 223
 meeting_sacrament:
   title: "Sacrament Meeting"
   program:
         
       - type: "speaker"
-        name: "Joseph Scott"
+        name: "Sister Eliza Mathias"
+
+      - type: "speaker"
+        name: "Sister Ada Linnea Newman"
 
       - type: intermediate_hymn
     
@@ -35,7 +38,7 @@ meeting_sacrament:
       #  description: "Nan and Ann" #Musicians
     
       - type: "speaker"
-        name: "President Mike Kennington"
+        name: "Elder Luke Larsen"
     
         
 meeting_testimony:
@@ -158,11 +161,12 @@ calendar:
     - title: "Cultural Hall Maintenance"
       description: "The Cultural Hall will be closed for maintenance July 28 - August 3"
     - title: "Pioneer Day at the Children's Museum of Houston"
-      description: "Celebrate the Musuem's new exhibit, 'Faithful Friends', with a special holiday for members of the Church of Jesus Christ of Latter-Day Saints" 
+      description: "Celebrate the Musuem's new exhibit, 'Faithful Friends', with a special holiday for members of the Church of Jesus Christ of Latter-Day Saints"
+    - title: "Deseret Industries Pod at Lexington"
+      description: "A Deseret Industries Pod will be at Lexington for donations from August 18th through the 25th." 
 
 links:
-  - title: "Sign up for the SL2 Pioneer Day Brunch and Pool Party at the Bradfords, July 26th, 9-11:30"
-    url: "https://www.signupgenius.com/go/10C0448A9A82EAB9-57415298-july"
+
   - title: "See the entire building cleaning schedule"
     url: "./CleaningSchedule.html"
   - title: "See how to service soap dispensers"
