@@ -24,7 +24,10 @@ hymns:
 meeting_sacrament:
   title: "Sacrament Meeting"
   program:
-        
+
+      - type: "speaker"
+        name: "Max Rixner"
+
       - type: "speaker"
         name: "Sister Eliza Mathias"
 
