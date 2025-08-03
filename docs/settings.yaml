@@ -1,5 +1,5 @@
 unit: "Sugar Land 2nd Ward"
-meeting_cover_img: 'Trek' # Get alias from lookups/artlinks or from the arlinks web page
+meeting_cover_img: 7 # Get alias from lookups/artlinks or from the arlinks web page
 #meeting_type: "sacrament" # Auto-calculated. Uncomment for tests or overrides only. Acceptable values: sacrament, testimony, primary, easter, ward, christmas, stake, generalconference
 officers:
   - "Presiding": "Bishop Cody Roskelley"
@@ -9,18 +9,18 @@ officers:
   #- "Presiding": "President Ernie Carrasquillo"
   #- "Presiding": "Brother Jared Draney"
   #- "Presiding": "Brother Schuyler Robinson"
-  - "Conducting": "Bishop Cody Roskelley"
-  #- "Conducting": "Brother Jared Draney"
+  #- "Conducting": "Bishop Cody Roskelley"
+  - "Conducting": "Brother Jared Draney"
   #- "Conducting": "Brother Schuyler Robinson"
 hymns:
   opening:
-      number: 219
+      number: 86
   sacrament:
-      number: 193
+      number: 188
   intermediate:
       number: 29
   closing:
-      number: 223
+      number: 2
 meeting_sacrament:
   title: "Sacrament Meeting"
   program:
@@ -152,17 +152,15 @@ announcements:
   - Send announcements to bvl2clerk@gmail.com
 
 posters: # Upload pictures to the GitHub docs/img/ folder. Avoid spaces in the picture filenames.
-  #- "./img/Stake%20Monthly%20Flyer.jpg"
-  #- "./img/Stake%20Save%20the%20Date.jpg"
+  - "./img/Stake%20Monthly%20Flyer.png"
+  - "./img/Stake%20Save%20the%20Date.png"
   #- "./posters/Blood%20Drive%20Flyer.jpg"
-  - "./posters/FSY%20Wrap%20Up%20Fireside%20-%20Flyer%202025.JPG"
+  #- "./posters/FSY%20Wrap%20Up%20Fireside%20-%20Flyer%202025.JPG"
 
 calendar:
   temple_day: # Auto-calculated. Remove or comment this line to hide the next Ward temple day
   cleaning: # Auto-calculated. Remove or comment this line to hide the building cleaning schedule
   custom:
-    - title: "Cultural Hall Maintenance"
-      description: "The Cultural Hall will be closed for maintenance July 28 - August 3"
     - title: "Pioneer Day at the Children's Museum of Houston"
       description: "Celebrate the Musuem's new exhibit, 'Faithful Friends', with a special holiday for members of the Church of Jesus Christ of Latter-Day Saints"
     - title: "Deseret Industries Pod at Lexington"
