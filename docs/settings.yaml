@@ -14,34 +14,28 @@ officers:
   #- "Conducting": "Brother Schuyler Robinson"
 hymns:
   opening:
-      number: 86
+      number: 127
   sacrament:
-      number: 188
+      number: 175
   intermediate:
-      number: 29
+      number: 237
   closing:
-      number: 2
+      number: 85
 meeting_sacrament:
   title: "Sacrament Meeting"
   program:
 
       - type: "speaker"
-        name: "Max Rixner"
+        name: "Lucas Ramirez"
 
-      - type: "speaker"
-        name: "Sister Eliza Mathias"
+      - type: "music"
+        title: "Amazing Grace" #Music number
+        description: "Claire Drainey accompanied by Jared Dranery" #Musicians
 
-      - type: "speaker"
-        name: "Sister Ada Linnea Newman"
-
-      - type: intermediate_hymn
-    
-      #- type: "music"
-      #  title: "Come ye... " #Music number
-      #  description: "Nan and Ann" #Musicians
+      #- type: intermediate_hymn
     
       - type: "speaker"
-        name: "Elder Luke Larsen"
+        name: "Melinda Draney"
     
         
 meeting_testimony:
@@ -148,8 +142,8 @@ meeting_generalconference:
 
 announcements:
   - "The sister missionaries have a new phone number: 346-901-8717"
-  - Volleyball Wednesdays - Come join us on Wednesdays at 9PM and have fun!!!
-  - Send announcements to bvl2clerk@gmail.com
+  - "Volleyball Wednesdays - Come join us on Wednesdays at 9PM and have fun!!!"
+  - "Send announcements to bvl2clerk@gmail.com"
 
 posters: # Upload pictures to the GitHub docs/img/ folder. Avoid spaces in the picture filenames.
   - "./img/Stake%20Monthly%20Flyer.png"
