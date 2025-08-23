@@ -26,7 +26,7 @@ meeting_sacrament:
   program:
 
       - type: "speaker"
-        name: "Rlder Seth Dobson"
+        name: "Elder Seth Dobson"
 
       #- type: "music"
       #  title: "Amazing Grace" #Music number
