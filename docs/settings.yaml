@@ -1,5 +1,5 @@
 unit: "Sugar Land 2nd Ward"
-meeting_cover_img: 7 # Get alias from lookups/artlinks or from the arlinks web page
+meeting_cover_img: 9 # Get alias from lookups/artlinks or from the arlinks web page
 #meeting_type: "sacrament" # Auto-calculated. Uncomment for tests or overrides only. Acceptable values: sacrament, testimony, primary, easter, ward, christmas, stake, generalconference
 officers:
   - "Presiding": "Bishop Cody Roskelley"
@@ -10,23 +10,23 @@ officers:
   #- "Presiding": "Brother Jared Draney"
   #- "Presiding": "Brother Schuyler Robinson"
   #- "Conducting": "Bishop Cody Roskelley"
-  # "Conducting": "Brother Jared Draney"
-  - "Conducting": "Brother Schuyler Robinson"
+  - "Conducting": "Brother Jared Draney"
+  #- "Conducting": "Brother Schuyler Robinson"
 hymns:
   opening:
-      number: 84
+      number: 103
   sacrament:
-      number: 192
+      number: 185
   intermediate:
-      number: 298
+      number: 193
   closing:
-      number: 300
+      number: 60
 meeting_sacrament:
   title: "Sacrament Meeting"
   program:
 
       - type: "speaker"
-        name: "Lucas Ramirez"
+        name: "Damione Thomas"
 
       #- type: "music"
       #  title: "Amazing Grace" #Music number
@@ -35,7 +35,7 @@ meeting_sacrament:
       - type: intermediate_hymn
     
       - type: "speaker"
-        name: "Jason Mangum"
+        name: "Courtney Scott"
     
         
 meeting_testimony:
@@ -152,13 +152,15 @@ posters: # Upload pictures to the GitHub docs/img/ folder. Avoid spaces in the p
   #- "./posters/FSY%20Wrap%20Up%20Fireside%20-%20Flyer%202025.JPG"
 
 calendar:
-  temple_day: # Auto-calculated. Remove or comment this line to hide the next Ward temple day
+  #temple_day: # Auto-calculated. Remove or comment this line to hide the next Ward temple day
   cleaning: # Auto-calculated. Remove or comment this line to hide the building cleaning schedule
   custom:
     - title: "Pioneer Day at the Children's Museum of Houston"
       description: "Celebrate the Musuem's new exhibit, 'Faithful Friends', with a special holiday for members of the Church of Jesus Christ of Latter-Day Saints"
     - title: "Deseret Industries Pod at Lexington"
       description: "A Deseret Industries Pod will be at Lexington for donations from August 18th through the 25th." 
+    - title: "Stake Conference on September 7"
+      description: "General Session at 10:00 - 11:30 am with a General Authority presiding"
 
 links:
 
