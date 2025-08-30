@@ -14,19 +14,22 @@ officers:
   #- "Conducting": "Brother Schuyler Robinson"
 hymns:
   opening:
-      number: 103
+      number: 195
   sacrament:
-      number: 185
+      number: 181
   intermediate:
-      number: 193
+      number: 4
   closing:
-      number: 60
+      number: 134
 meeting_sacrament:
   title: "Sacrament Meeting"
   program:
 
       - type: "speaker"
-        name: "Elder Seth Dobson"
+        name: "Ruth Jeffery"
+
+      - type: "speaker"
+        name: "Kyle Moore"
 
       #- type: "music"
       #  title: "Amazing Grace" #Music number
@@ -35,7 +38,7 @@ meeting_sacrament:
       - type: intermediate_hymn
     
       - type: "speaker"
-        name: "Courtney Scott"
+        name: "Joey Powell"
     
         
 meeting_testimony:
@@ -141,6 +144,8 @@ meeting_generalconference:
         url: https://www.churchofjesuschrist.org/feature/general-conference?lang=eng
 
 announcements:
+  - "A special stake conference will be held next Sunday, September 7, at 10:00 am at Lexington"
+  - "Fast Sunday for September will be observed on September 14"
   - "The sister missionaries have a new phone number: 346-901-8717"
   - "Volleyball Wednesdays - Come join us on Wednesdays at 9PM and have fun!!!"
   - "Send announcements to bvl2clerk@gmail.com"
@@ -155,15 +160,13 @@ calendar:
   #temple_day: # Auto-calculated. Remove or comment this line to hide the next Ward temple day
   cleaning: # Auto-calculated. Remove or comment this line to hide the building cleaning schedule
   custom:
-    - title: "Pioneer Day at the Children's Museum of Houston"
-      description: "Celebrate the Musuem's new exhibit, 'Faithful Friends', with a special holiday for members of the Church of Jesus Christ of Latter-Day Saints"
-    - title: "Deseret Industries Pod at Lexington"
-      description: "A Deseret Industries Pod will be at Lexington for donations from August 18th through the 25th." 
     - title: "Stake Conference on September 7"
       description: "General Session at 10:00 - 11:30 am with a General Authority presiding"
 
 links:
 
+  - title: "Support the Young Women's Fundraiser"
+    url: "https://docs.google.com/forms/d/e/1FAIpQLSdNdiv7wHaCBAn8d0KjqhOxLfV8CmdHNp-lEPOZfJifMr9N0Q/viewform?pli=1"
   - title: "See the entire building cleaning schedule"
     url: "./CleaningSchedule.html"
   - title: "See how to service soap dispensers"
