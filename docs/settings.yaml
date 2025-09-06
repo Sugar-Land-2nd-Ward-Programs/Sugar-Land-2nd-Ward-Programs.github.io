@@ -10,8 +10,8 @@ officers:
   #- "Presiding": "Brother Jared Draney"
   #- "Presiding": "Brother Schuyler Robinson"
   #- "Conducting": "Bishop Cody Roskelley"
-  - "Conducting": "Brother Jared Draney"
-  #- "Conducting": "Brother Schuyler Robinson"
+  # "Conducting": "Brother Jared Draney"
+  - "Conducting": "Brother Schuyler Robinson"
 hymns:
   opening:
       number: 195
@@ -145,7 +145,7 @@ meeting_generalconference:
 
 announcements:
   - "A special stake conference will be held next Sunday, September 7, at 10:00 am at Lexington"
-  - "Fast Sunday for September will be observed on September 14"
+  - "Fast Sunday for October will be observed on October 14"
   - "The sister missionaries have a new phone number: 346-901-8717"
   - "Volleyball Wednesdays - Come join us on Wednesdays at 9PM and have fun!!!"
   - "Send announcements to bvl2clerk@gmail.com"
