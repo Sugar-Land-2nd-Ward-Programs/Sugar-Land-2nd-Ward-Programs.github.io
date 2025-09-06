@@ -124,7 +124,7 @@ meeting_stake:
 
       - type: custom
         title: "General Session, Sunday 10:00 am - 12:00 pm"
-        description: "In-person at Lexington. <br>Via Zoom at Sienna and Rosenberg buildings"
+        description: "In-person at Lexington. Via Zoom at Sienna and Rosenberg buildings"
 
 meeting_generalconference:
   title: "General Conference"
@@ -145,7 +145,7 @@ meeting_generalconference:
 
 announcements:
   - "A special stake conference will be held next Sunday, September 7, at 10:00 am at Lexington"
-  - "Fast Sunday for October will be observed on October 14"
+  - "Fast Sunday for September will be observed on September 14"
   - "The sister missionaries have a new phone number: 346-901-8717"
   - "Volleyball Wednesdays - Come join us on Wednesdays at 9PM and have fun!!!"
   - "Send announcements to bvl2clerk@gmail.com"
