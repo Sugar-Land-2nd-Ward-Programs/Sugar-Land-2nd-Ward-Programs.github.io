@@ -14,13 +14,13 @@ officers:
   - "Conducting": "Brother Schuyler Robinson"
 hymns:
   opening:
-      number: 195
+      number: 6
   sacrament:
-      number: 181
+      number: 189
   intermediate:
-      number: 4
+      number: 8
   closing:
-      number: 134
+      number: 166
 meeting_sacrament:
   title: "Sacrament Meeting"
   program:
@@ -144,7 +144,7 @@ meeting_generalconference:
         url: https://www.churchofjesuschrist.org/feature/general-conference?lang=eng
 
 announcements:
-  - "A special stake conference will be held next Sunday, September 7, at 10:00 am at Lexington"
+  
   - "Fast Sunday for September will be observed on September 14"
   - "The sister missionaries have a new phone number: 346-901-8717"
   - "Volleyball Wednesdays - Come join us on Wednesdays at 9PM and have fun!!!"
@@ -162,9 +162,12 @@ calendar:
   custom:
     - title: "Stake Conference on September 7"
       description: "General Session at 10:00 - 11:30 am with a General Authority presiding"
+    - title: "Ward Halloween Party/Fall festival is combined with SL1st ward this year, on Saturday, October 25th"
+      description: "time is TBD. We will have games in the rooms, face painting, chili cook off, pie, and trunk or treat at the end. Sign up Genius to be passed during the second hour."
 
 links:
-
+  - title: "signupgenius for the Ward Halloween Party/Fall Festival"
+    url:  "https://www.signupgenius.com/go/10C0448A9A82EAB9-58622625-fall"
   - title: "Support the Young Women's Fundraiser"
     url: "https://docs.google.com/forms/d/e/1FAIpQLSdNdiv7wHaCBAn8d0KjqhOxLfV8CmdHNp-lEPOZfJifMr9N0Q/viewform?pli=1"
   - title: "See the entire building cleaning schedule"
