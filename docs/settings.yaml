@@ -141,10 +141,9 @@ meeting_generalconference:
 
       - type: url
         title: "Watch and listen online"
-        url: https://www.churchofjesuschrist.org/feature/general-conference?lang=eng
+        url: "https://www.churchofjesuschrist.org/feature/general-conference?lang=eng"
 
 announcements:
-  
   - "Fast Sunday for September will be observed on September 14"
   - "The sister missionaries have a new phone number: 346-901-8717"
   - "Volleyball Wednesdays - Come join us on Wednesdays at 9PM and have fun!!!"
