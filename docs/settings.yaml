@@ -14,19 +14,19 @@ officers:
   - "Conducting": "Brother Schuyler Robinson"
 hymns:
   opening:
-      number: 31
-  sacrament:
-      number: 87
-  intermediate:
       number: 134
+  sacrament:
+      number: 196
+  intermediate:
+      number: 1031
   closing:
-      number: 243
+      number: 19
 meeting_sacrament:
   title: "Sacrament Meeting"
   program:
 
       - type: "speaker"
-        name: "Richard Seegmiller"
+        name: "Elder Ervin Hunt"
 
       #- type: "speaker"
       #  name: "Dora Powell"
@@ -38,7 +38,7 @@ meeting_sacrament:
       - type: intermediate_hymn
     
       - type: "speaker"
-        name: "Dora Powell"
+        name: "Veniece Griffin"
     
         
 meeting_testimony:
