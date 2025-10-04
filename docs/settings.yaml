@@ -14,31 +14,31 @@ officers:
   - "Conducting": "Brother Schuyler Robinson"
 hymns:
   opening:
-      number: 6
+      number: 134
   sacrament:
-      number: 189
+      number: 196
   intermediate:
-      number: 8
+      number: 1031
   closing:
-      number: 166
+      number: 19
 meeting_sacrament:
   title: "Sacrament Meeting"
   program:
 
       - type: "speaker"
-        name: "Ruth Jeffery"
+        name: "Elder Ervin Hunt"
 
-      - type: "speaker"
-        name: "Kyle Moore"
+      #- type: "speaker"
+      #  name: "Dora Powell"
 
       #- type: "music"
       #  title: "Amazing Grace" #Music number
       #  description: "Claire Drainey accompanied by Jared Dranery" #Musicians
 
-      #- type: intermediate_hymn
+      - type: intermediate_hymn
     
       - type: "speaker"
-        name: "Joey Powell"
+        name: "Veniece Griffin"
     
         
 meeting_testimony:
@@ -144,7 +144,7 @@ meeting_generalconference:
         url: "https://www.churchofjesuschrist.org/feature/general-conference?lang=eng"
 
 announcements:
-  - "Fast Sunday for September will be observed on September 14"
+  #- "Fast Sunday for September will be observed on September 14"
   - "The sister missionaries have a new phone number: 346-901-8717"
   - "Volleyball Wednesdays - Come join us on Wednesdays at 9PM and have fun!!!"
   - "Send announcements to bvl2clerk@gmail.com"
