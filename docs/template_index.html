@@ -37,7 +37,7 @@
             </div>
         </header>
     <!-- Presiding section-->
-    {% if officers  is defined and meeting_type != "generalconference" and meeting_type != "stake" %}
+    {% if officers  is defined and meeting_type != "general" and meeting_type != "stake" %}
     <section id="about ">
         <div class="container px-4 ">
             <div class="row gx-4  text-center justify-content-center ">
@@ -54,7 +54,7 @@
     <hr/>
     {% endif %}
     <!-- General conference header section -->
-    {% if meeting_type == "generalconference" %}
+    {% if meeting_type == "general" %}
     <section id="about ">
         <div class="container px-4 ">
             <div class="row gx-4  text-center justify-content-center ">
@@ -73,7 +73,7 @@
             <div class="row gx-4  text-center justify-content-center ">
                 <div class="col-lg-8"><p class="lead">
         <!-- Add opening and sacrament hymns for common meetings -->
-        {% if meeting_type != "generalconference"  and meeting_type != "stake" %}
+        {% if meeting_type != "general"  and meeting_type != "stake" %}
             <h4>Opening Hymn</h4>
             <p><a href="{{ hymns.opening.url }}">#{{ hymns.opening.number }}, {{ hymns.opening.title }}</a></p>
             <h4>Sacrament Hymn</h4>
@@ -190,7 +190,7 @@
                     {% endif %}
             {% endfor %}
         <!-- General conference -->
-       {% elif meeting_type == "generalconference" %}
+       {% elif meeting_type == "general" %}
             {% for item in meeting_generalconference.program %}
                     {% if item.type == "custom" %}
                         <h4>{{ item.title }}</h4>
@@ -202,7 +202,7 @@
        {% endif %}
 
         <!-- Add closing hymns for common meetings -->
-        {% if meeting_type != "generalconference"  and meeting_type != "stake" %}
+        {% if meeting_type != "general"  and meeting_type != "stake" %}
             <h4>Closing Hymn</h4>
             <p><a href="{{ hymns.closing.url }}">#{{ hymns.closing.number }}, {{ hymns.closing.title }}</a></p>
         {% endif %}
