@@ -159,8 +159,6 @@ calendar:
   #temple_day: # Auto-calculated. Remove or comment this line to hide the next Ward temple day
   cleaning: # Auto-calculated. Remove or comment this line to hide the building cleaning schedule
   custom:
-    - title: "Public Funeral for President Russell M. Nelson"
-      description: "Tuesday, October 7, 1:00 pm CDT, typical broadcast venues"
     - title: "Ward Halloween Party/Fall festival is combined with SL1st ward this year, on Saturday, October 25th"
       description: "time is TBD. We will have games in the rooms, face painting, chili cook off, pie, and trunk or treat at the end. Sign up Genius to be passed during the second hour."
 
