@@ -14,19 +14,19 @@ officers:
   #- "Conducting": "Brother Schuyler Robinson"
 hymns:
   opening:
-      number: 36
+      number: 128
   sacrament:
-      number: 196
+      number: 146
   intermediate:
-      number: 1001
+      number: 1022
   closing:
-      number: 1010
+      number: 152
 meeting_sacrament:
   title: "Sacrament Meeting"
   program:
 
       - type: "speaker"
-        name: "Elder Ervin Hunt"
+        name: "Faye Ocampo"
 
       #- type: "speaker"
       #  name: "Dora Powell"
@@ -38,7 +38,7 @@ meeting_sacrament:
       - type: intermediate_hymn
     
       - type: "speaker"
-        name: "Veniece Griffin"
+        name: "Clement Ozomah"
     
         
 meeting_testimony:
