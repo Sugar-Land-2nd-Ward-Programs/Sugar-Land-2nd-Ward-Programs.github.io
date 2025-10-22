@@ -100,10 +100,7 @@ meeting_primary:
         title: "Primary Program"
         description: |
           Words and Music Testifying of the Book of Mormon, Another Testament of Jesus Christ
-          <br>Directed by Taralee Wightman, Accompanied by Dana Blackburn
-          #<br>Primary Choir with
-          #<br>Porter Wrightman, Maggie Moore, Ryan Boyer, Livia Moore, Evangelina Garcia, Theodore Rellaford, Boston Robinson, Piper Wrightman, Bella Moore, Sebastian Garcia, Gresham Robinson, Eliza Moore, Leonor Chen, Ioanna Ozomah, Dylan Moore, Henrie Rellaford
-
+          
       - type: custom
         title: "Concluding remarks"
         description: "President Ryman Tiu and Bishop Cody Roskelley"
