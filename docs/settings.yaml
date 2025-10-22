@@ -1,5 +1,5 @@
 unit: "Sugar Land 2nd Ward"
-meeting_cover_img: 'TabChoir' # Get alias from lookups/artlinks or from the arlinks web page
+meeting_cover_img: 'HoustonSouth' # Get alias from lookups/artlinks or from the arlinks web page
 #meeting_type: "sacrament" # Auto-calculated. Uncomment for tests or overrides only. Acceptable values: sacrament, testimony, primary, easter, ward, christmas, stake, generalconference
 officers:
   - "Presiding": "Bishop Cody Roskelley"
@@ -100,13 +100,13 @@ meeting_primary:
         title: "Primary Program"
         description: |
           Words and Music Testifying of the Book of Mormon, Another Testament of Jesus Christ
-          <br>Directed by Dawnette Moore, Accompanied by Dana Blackburn
-          <br>Primary Choir with
-          <br>Porter Wrightman, Maggie Moore, Ryan Boyer, Livia Moore, Evangelina Garcia, Theodore Rellaford, Boston Robinson, Piper Wrightman, Bella Moore, Sebastian Garcia, Gresham Robinson, Eliza Moore, Leonor Chen, Ioanna Ozomah, Dylan Moore, Henrie Rellaford
+          <br>Directed by Taralee Wightman, Accompanied by Dana Blackburn
+          #<br>Primary Choir with
+          #<br>Porter Wrightman, Maggie Moore, Ryan Boyer, Livia Moore, Evangelina Garcia, Theodore Rellaford, Boston Robinson, Piper Wrightman, Bella Moore, Sebastian Garcia, Gresham Robinson, Eliza Moore, Leonor Chen, Ioanna Ozomah, Dylan Moore, Henrie Rellaford
 
       - type: custom
         title: "Concluding remarks"
-        description: "Bishop Joey Powell"
+        description: "President Ryman Tiu and Bishop Cody Roskelley"
 
 meeting_stake:
   title: "Houston Texas South Stake Conference"
