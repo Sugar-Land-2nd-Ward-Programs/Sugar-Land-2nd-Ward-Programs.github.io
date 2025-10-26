@@ -14,13 +14,13 @@ officers:
   #- "Conducting": "Brother Schuyler Robinson"
 hymns:
   opening:
-      number: 128
+      number: 116
   sacrament:
-      number: 146
+      number: 172
   intermediate:
       number: 1022
   closing:
-      number: 152
+      number: 301
 meeting_sacrament:
   title: "Sacrament Meeting"
   program:
@@ -99,11 +99,21 @@ meeting_primary:
       - type: custom
         title: "Primary Program"
         description: |
-          Words and Music Testifying of the Book of Mormon, Another Testament of Jesus Christ
-          
+          Words and Music on the them of Come, Follow Me
       - type: custom
-        title: "Concluding remarks"
-        description: "President Ryman Tiu and Bishop Cody Roskelley"
+        title: "Introductory Remarks"
+        description: "President Ryman Tiu"
+
+      - type: speaker
+        name: "Dawnette Moore"
+
+      - type: custom
+        title: "Program of Words and music by Primary Children"
+        description: "Directed by Tara Wightman, Accompanied by Dana Blackburn"
+
+      - type: custom
+        title: "Concluding Remarks"
+        description: "Bishop Cody Roskelley"
 
 meeting_stake:
   title: "Houston Texas South Stake Conference"
@@ -149,19 +159,24 @@ announcements:
 posters: # Upload pictures to the GitHub docs/img/ folder. Avoid spaces in the picture filenames.
   - "./img/Stake%20Monthly%20Flyer.jpg"
   #- "./img/Stake%20Save%20the%20Date.png"
-  #- "./posters/Blood%20Drive%20Flyer.jpg"
+  # "./posters/In-lawStrengtheningWorkshop.png"
   #- "./posters/FSY%20Wrap%20Up%20Fireside%20-%20Flyer%202025.JPG"
 
 calendar:
   #temple_day: # Auto-calculated. Remove or comment this line to hide the next Ward temple day
   cleaning: # Auto-calculated. Remove or comment this line to hide the building cleaning schedule
   custom:
-    - title: "Ward Halloween Party/Fall festival is combined with SL1st ward this year, on Saturday, October 25th"
-      description: "time is TBD. We will have games in the rooms, face painting, chili cook off, pie, and trunk or treat at the end. Sign up Genius to be passed during the second hour."
+    - title: "Stake Training for Ward Council Members and their presidencies"
+      description: "November 9, 7 pm"
+   custom:
+    - title: "Deseret Industries POD for donation of gently used clothing and household items"
+      description: "November 17-24 at Lexington"   
+    custom: 
+    - title: "Stake Christmas Choir for concert on December 14"
+      description: "Small group and solo performers are also sought."
+
 
 links:
-  - title: "signupgenius for the Ward Halloween Party/Fall Festival"
-    url:  "https://www.signupgenius.com/go/10C0448A9A82EAB9-58622625-fall"
   - title: "See the entire building cleaning schedule"
     url: "./CleaningSchedule.html"
   - title: "See how to service soap dispensers"
