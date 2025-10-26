@@ -99,7 +99,7 @@ meeting_primary:
       - type: custom
         title: "Primary Program"
         description: |
-          Words and Music on the them of Come, Follow Me
+          Words and Music on the theme of Come, Follow Me
       - type: custom
         title: "Introductory Remarks"
         description: "President Ryman Tiu"
@@ -159,19 +159,16 @@ announcements:
 posters: # Upload pictures to the GitHub docs/img/ folder. Avoid spaces in the picture filenames.
   - "./img/Stake%20Monthly%20Flyer.jpg"
   #- "./img/Stake%20Save%20the%20Date.png"
-  # "./posters/In-lawStrengtheningWorkshop.png"
+  - "./posters/In-lawStrengtheningWorkshop.png"
   #- "./posters/FSY%20Wrap%20Up%20Fireside%20-%20Flyer%202025.JPG"
 
 calendar:
   #temple_day: # Auto-calculated. Remove or comment this line to hide the next Ward temple day
   cleaning: # Auto-calculated. Remove or comment this line to hide the building cleaning schedule
-  custom:
     - title: "Stake Training for Ward Council Members and their presidencies"
       description: "November 9, 7 pm"
-  custom:
     - title: "Deseret Industries POD for donation of gently used clothing and household items"
       description: "November 17-24 at Lexington"   
-  custom: 
     - title: "Stake Christmas Choir for concert on December 14"
       description: "Small group and solo performers are also sought."
 
