@@ -14,19 +14,19 @@ officers:
   #- "Conducting": "Brother Schuyler Robinson"
 hymns:
   opening:
-      number: 116
+      number: 93
   sacrament:
-      number: 172
+      number: 173
   intermediate:
-      number: 1022
+      number: 1096
   closing:
-      number: 301
+      number: 94
 meeting_sacrament:
   title: "Sacrament Meeting"
   program:
 
-      - type: "speaker"
-        name: "Faye Ocampo"
+      # type: "speaker"
+      # name: "Faye Ocampo"
 
       #- type: "speaker"
       #  name: "Dora Powell"
@@ -35,10 +35,10 @@ meeting_sacrament:
       #  title: "Amazing Grace" #Music number
       #  description: "Claire Drainey accompanied by Jared Dranery" #Musicians
 
-      - type: intermediate_hymn
+      # type: intermediate_hymn
     
-      - type: "speaker"
-        name: "Clement Ozomah"
+      # type: "speaker"
+      # name: "Clement Ozomah"
     
         
 meeting_testimony:
