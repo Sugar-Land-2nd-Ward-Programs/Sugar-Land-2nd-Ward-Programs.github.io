@@ -157,7 +157,8 @@ announcements:
   - "Send announcements to bvl2clerk@gmail.com"
 
 posters: # Upload pictures to the GitHub docs/img/ folder. Avoid spaces in the picture filenames.
-  - "./img/Stake%20Monthly%20Flyer.jpg"
+  - "./img/Stake%20Monthly%20Flyer.png"
+  - "./img/Stake%20Monthly%20Flyer-2.png"
   #- "./img/Stake%20Save%20the%20Date.png"
   - "./posters/In-lawStrengtheningWorkshop.png"
   #- "./posters/FSY%20Wrap%20Up%20Fireside%20-%20Flyer%202025.JPG"
