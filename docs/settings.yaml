@@ -25,15 +25,15 @@ meeting_sacrament:
   title: "Sacrament Meeting"
   program:
 
-      # type: "speaker"
-      # name: "Faye Ocampo"
+    type: "speaker"
+    name: "Mya Jones"
 
       #- type: "speaker"
       #  name: "Dora Powell"
 
       #- type: "music"
       #  title: "Amazing Grace" #Music number
-      #  description: "Claire Drainey accompanied by Jared Dranery" #Musicians
+      #  description: "Claire Drainey accompanied by Jared Draney" #Musicians
 
       # type: intermediate_hymn
     
