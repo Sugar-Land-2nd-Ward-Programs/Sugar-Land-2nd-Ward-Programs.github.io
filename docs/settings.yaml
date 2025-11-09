@@ -25,7 +25,7 @@ meeting_sacrament:
   title: "Sacrament Meeting"
   program:
     - type: "speaker"
-      name: "Mya Jones"
+      name: "Mindy Jones"
 
       #- type: "speaker"
       #  name: "Dora Powell"
@@ -36,7 +36,7 @@ meeting_sacrament:
     - type: intermediate_hymn
     
     - type: "speaker"
-      name: "Mindy Jones"
+      name: "Cody Roskelley"
     
         
 meeting_testimony:
