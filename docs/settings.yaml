@@ -24,7 +24,6 @@ hymns:
 meeting_sacrament:
   title: "Sacrament Meeting"
   program:
-
     type: "speaker"
     name: "Mya Jones"
 
@@ -34,11 +33,10 @@ meeting_sacrament:
       #- type: "music"
       #  title: "Amazing Grace" #Music number
       #  description: "Claire Drainey accompanied by Jared Draney" #Musicians
-
     type: intermediate_hymn
     
     type: "speaker"
-    name: "<Mindy Jones"
+    name: "Mindy Jones"
     
         
 meeting_testimony:
