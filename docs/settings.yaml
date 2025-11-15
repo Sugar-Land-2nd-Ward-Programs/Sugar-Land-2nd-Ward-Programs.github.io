@@ -25,7 +25,7 @@ meeting_sacrament:
   title: "Sacrament Meeting"
   program:
     - type: "speaker"
-      name: "Mindy Jones"
+      name: "Matt Griffin"
 
       #- type: "speaker"
       #  name: "Dora Powell"
@@ -36,7 +36,7 @@ meeting_sacrament:
     - type: intermediate_hymn
     
     - type: "speaker"
-      name: "Cody Roskelley"
+      name: "Mike Moore"
     
         
 meeting_testimony:
@@ -164,8 +164,6 @@ posters: # Upload pictures to the GitHub docs/img/ folder. Avoid spaces in the p
 calendar:
   #temple_day: # Auto-calculated. Remove or comment this line to hide the next Ward temple day
   cleaning: # Auto-calculated. Remove or comment this line to hide the building cleaning schedule
-    - title: "Stake Training for Ward Council Members and their presidencies"
-      description: "November 9, 7 pm"
     - title: "Deseret Industries POD for donation of gently used clothing and household items"
       description: "November 17-24 at Lexington"   
     - title: "Stake Christmas Choir for concert on December 14"
