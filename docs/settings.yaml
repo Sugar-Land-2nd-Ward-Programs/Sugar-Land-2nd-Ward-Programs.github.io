@@ -14,29 +14,30 @@ officers:
   #- "Conducting": "Brother Schuyler Robinson"
 hymns:
   opening:
-      number: 97
+      number: 93
   sacrament:
-      number: 181
+      number: 183
   intermediate:
-      number: 1001
+      number: 84
   closing:
-      number: 62
+      number: 254
 meeting_sacrament:
   title: "Sacrament Meeting"
   program:
     - type: "speaker"
-      name: "Matt Griffin"
+      name: "Aubyn Jensen"
 
       #- type: "speaker"
       #  name: "Dora Powell"
 
-      #- type: "music"
-      #  title: "Amazing Grace" #Music number
-      #  description: "Claire Drainey accompanied by Jared Draney" #Musicians
-    - type: intermediate_hymn
+    - type: "Special music"
+      title: "Restored" #Music number
+      description: "Robinson and Moore families" #Musicians
+      
+    # type: intermediate_hymn
     
     - type: "speaker"
-      name: "Mike Moore"
+      name: "Braylin Bunderson"
     
         
 meeting_testimony:
