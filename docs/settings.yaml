@@ -30,7 +30,7 @@ meeting_sacrament:
       #- type: "speaker"
       #  name: "Dora Powell"
 
-    - type: "Special music"
+    - type: "music"
       title: "Restored"
       description: "Robinson and Moore families"
 
