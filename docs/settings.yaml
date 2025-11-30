@@ -14,13 +14,13 @@ officers:
   #- "Conducting": "Brother Schuyler Robinson"
 hymns:
   opening:
-      number: 93
+      number: 206
   sacrament:
-      number: 183
+      number: 182
   intermediate:
-      number: 84
+      number: 1202
   closing:
-      number: 254
+      number: 31
 meeting_sacrament:
   title: "Sacrament Meeting"
   program:
