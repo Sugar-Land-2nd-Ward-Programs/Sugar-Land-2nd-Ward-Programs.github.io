@@ -10,8 +10,8 @@ officers:
   #- "Presiding": "Brother Jared Draney"
   #- "Presiding": "Brother Schuyler Robinson"
   #- "Conducting": "Bishop Cody Roskelley"
-  - "Conducting": "Brother Jared Draney"
-  #- "Conducting": "Brother Schuyler Robinson"
+  #- "Conducting": "Brother Jared Draney"
+  - "Conducting": "Brother Schuyler Robinson"
 hymns:
   opening:
       number: 206
