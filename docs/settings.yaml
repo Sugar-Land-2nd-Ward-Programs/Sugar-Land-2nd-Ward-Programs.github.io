@@ -150,7 +150,6 @@ meeting_generalconference:
         url: "https://www.churchofjesuschrist.org/feature/general-conference?lang=eng"
 
 announcements:
-  - "Fast Sunday for december will be observed on November 30"
   - "The sister missionaries have a new phone number: 346-901-8717"
   - "Volleyball Wednesdays - Come join us on Wednesdays at 9PM and have fun!!!"
   - "Send announcements to bvl2clerk@gmail.com"
@@ -163,9 +162,7 @@ posters: # Upload pictures to the GitHub docs/img/ folder. Avoid spaces in the p
 
 calendar:
   #temple_day: # Auto-calculated. Remove or comment this line to hide the next Ward temple day
-  cleaning: # Auto-calculated. Remove or comment this line to hide the building cleaning schedule
-  - title: "Deseret Industries POD for donation of gently used clothing and household items"
-    description: "November 17-24 at Lexington"   
+  cleaning: # Auto-calculated. Remove or comment this line to hide the building cleaning schedule 
   - title: "Stake Christmas Choir for concert on December 14"
     description: "Small group and solo performers are also sought."
   - title: "Jones-Dickson Cemetery African American Heritage Project"
