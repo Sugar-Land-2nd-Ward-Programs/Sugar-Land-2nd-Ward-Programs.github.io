@@ -117,16 +117,16 @@ meeting_primary:
 meeting_stake:
   title: "Houston Texas South Stake Conference"
   program:
-      #- type: custom
-       # title: "Leadership Session, Saturday 4:00-5:30 pm"
-       # description: |
-       #   All members of Stake and Ward Councils and their presidencies, secretaries, and clerks are invited to attend.
-       #   <br>This includes: Bishoprics; Elders quorum presidencies; Aaronic Priesthood quorum and Young Women class advisers; Relief Society, Young Women, Primary and Sunday School presidencies, and secretaries.
-       #   <br>In-person at Lexington
+      - type: custom
+        title: "Leadership Session, Saturday 4:00-5:30 pm"
+        description: |
+          All members of Stake and Ward Councils and their presidencies, secretaries, and clerks are invited to attend.
+          <br>This includes: Bishoprics; Elders quorum presidencies; Aaronic Priesthood quorum and Young Women class advisers; Relief Society, Young Women, Primary and Sunday School presidencies, and secretaries.
+          <br>In-person at Lexington
 
-      #- type: custom
-       # title: "Adult Session, Saturday 7:00-8:45 pm"
-       # description: "All adults. <br>In-person at Lexington"
+      - type: custom
+        title: "Adult Session, Saturday 7:00-8:45 pm"
+        description: "All adults. <br>In-person at Lexington"
 
       - type: custom
         title: "General Session, Sunday 10:00 am - 12:00 pm"
