@@ -1,5 +1,5 @@
 unit: "Sugar Land 2nd Ward"
-meeting_cover_img: 'Annunc' # Get alias from lookups/artlinks or from the arlinks web page
+meeting_cover_img: 'Shepherds' # Get alias from lookups/artlinks or from the arlinks web page
 #meeting_type: "sacrament" # Auto-calculated. Uncomment for tests or overrides only. Acceptable values: sacrament, testimony, primary, easter, ward, christmas, stake, generalconference
 officers:
   - "Presiding": "Bishop Cody Roskelley"
@@ -14,30 +14,30 @@ officers:
   - "Conducting": "Brother Schuyler Robinson"
 hymns:
   opening:
-      number: 206
+      number: 1207
   sacrament:
-      number: 182
+      number: 184
   intermediate:
-      number: 1202
+      number: 204
   closing:
-      number: 31
+      number: 207
 meeting_sacrament:
   title: "Sacrament Meeting"
   program:
     - type: "speaker"
-      name: "Aubyn Jensen"
+      name: "Doyal Debow"
 
       #- type: "speaker"
       #  name: "Dora Powell"
 
     - type: "music"
-      title: "Restored"
-      description: "Robinson and Moore families"
+      title: "Dejlig er Jorden"
+      description: "Pete Slater accompanied by Jared Draney"
 
     # type: intermediate_hymn
     
     - type: "speaker"
-      name: "Braylin Bunderson"
+      name: "Schuyler Robinson"
     
         
 meeting_testimony:
@@ -158,24 +158,18 @@ posters: # Upload pictures to the GitHub docs/img/ folder. Avoid spaces in the p
   - "./img/Stake%20Monthly%20Flyer.png"
   - "./img/Stake%20Monthly%20Flyer-2.png"
   - "./img/StakeCampoutJan26.png"
-  - ./img/SL2Christmas.png"
 
 calendar:
   #temple_day: # Auto-calculated. Remove or comment this line to hide the next Ward temple day
   cleaning: # Auto-calculated. Remove or comment this line to hide the building cleaning schedule 
   - title: "Stake Christmas Choir for concert on December 14"
-    description: "Small group and solo performers are also sought."
-  - title: "Jones-Dickson Cemetery African American Heritage Project"
-    description: "December 13, 8:00 am - 12:00 pm, all hands needed to finish setting fence posts. Sign at www.justserve.org"
+    description: "Come and celebrate Christmas with music."
+  
 
 
 links:
   - title: "Book a tithing declaration interview"
     url: "https://calendar.app.google/sRCrH92MhjmTsWUdA"
-  - title: "Sign up for the ward Christmas party"
-    url: "https://www.signupgenius.com/go/10C0448A9A82EAB9-60554342-sugar"
-  - title: "See and share the ward Christmas party from the public web page"
-    url: "https://local.churchofjesuschrist.org/e/144585570?icid=actsh|cal|web|mis|global|global"
   - title: "See the entire building cleaning schedule"
     url: "./CleaningSchedule.html"
   - title: "See how to service soap dispensers"
