@@ -1,5 +1,5 @@
 unit: "Sugar Land 2nd Ward"
-meeting_cover_img: 'Shepherds' # Get alias from lookups/artlinks or from the arlinks web page
+meeting_cover_img: 'Birth' # Get alias from lookups/artlinks or from the arlinks web page
 #meeting_type: "sacrament" # Auto-calculated. Uncomment for tests or overrides only. Acceptable values: sacrament, testimony, primary, easter, ward, christmas, stake, generalconference
 officers:
   - "Presiding": "Bishop Cody Roskelley"
@@ -14,13 +14,13 @@ officers:
   - "Conducting": "Brother Schuyler Robinson"
 hymns:
   opening:
-      number: 1207
+      number: 204
   sacrament:
-      number: 184
+      number: 196
   intermediate:
       number: 204
   closing:
-      number: 207
+      number: 203
 meeting_sacrament:
   title: "Sacrament Meeting"
   program:
@@ -85,12 +85,40 @@ meeting_easter:
       - type: hymn
         hymn: closing
 
-#meeting_christmas:
-#  title: "Christmas Program"
-#  program:
-#      - type: custom
-#        title: "Custom text"
-#        description: "Custom text"
+meeting_christmas:
+  title: "Sacrament Meeting and Christmas Program"
+  program:
+      - type: custom
+        title: "Narrators"
+        description: "Steve and Laura Hintze"
+
+      - type: "music"
+        title: "O Come, O Come, Emanuel" #Music number
+        description: "Schuyler and Kaylee Robinson with Doyal Debow on Guitar" #Musicians  
+
+      - type: "music"
+        title: "Samuel Tells of the Baby Jesus" #Music number
+        description: "Leonor Chen, Ioana Ozomah, and Leah Abarca" #Musicians 
+ 
+      - type: "music"
+        title: "Samuel Tells of the Baby Jesus" #Music number
+        description: "Leonor Chen, Ioana Ozomah, and Leah Abarca" #Musicians  
+
+      - type: "music"
+        title: "Mary's Lullaby" #Music number
+        description: "Diana Quam on Violin with Robinson Children"
+        
+      - type: "music" 
+        title: "What Child Is This?"
+        description: "Claire Draney on Viola and Jared Draney on Piano" #Musicians
+
+      - type: "music"
+        title: "Medley comprising Angels and Shepherds and the First Noel" #Music number
+        description: "Marianne Seegmiller and daughter on string and flute" #Musicians 
+
+      - type: hymn
+        hymn: closing
+
 
 meeting_primary:
   title: "Primary Program"
@@ -168,8 +196,6 @@ calendar:
 
 
 links:
-  - title: "Book a tithing declaration interview"
-    url: "https://calendar.app.google/sRCrH92MhjmTsWUdA"
   - title: "See the entire building cleaning schedule"
     url: "./CleaningSchedule.html"
   - title: "See how to service soap dispensers"
