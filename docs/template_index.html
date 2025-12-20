@@ -123,8 +123,8 @@
                     <h4>Intermediate Hymn</h4>
                     <p><a href="{{ hymns.intermediate.url }}">#{{ hymns.intermediate.number }}, {{ hymns.intermediate.title }}</a></p>
                 {% elif item.type == "music" %}
-                    <h4>Music Number</h4>
-                    <p>{{ item.title }}, {{ item.description }}</p>
+                    <h4>Musical Number</h4>
+                    <p>{<i>{ item.title }</i>}, {{ item.description }}</p>
                 {% elif item.type == "custom" %}
                     <h4>{{ item.title }}</h4>
                     <p>{{ item.description }}</p>
