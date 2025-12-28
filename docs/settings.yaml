@@ -1,43 +1,43 @@
 unit: "Sugar Land 2nd Ward"
-meeting_cover_img: 'Birth' # Get alias from lookups/artlinks or from the arlinks web page
+meeting_cover_img: 'Simon' # Get alias from lookups/artlinks or from the arlinks web page
 #meeting_type: "sacrament" # Auto-calculated. Uncomment for tests or overrides only. Acceptable values: sacrament, testimony, primary, easter, ward, christmas, stake, generalconference
 officers:
-  - "Presiding": "Bishop Cody Roskelley"
+  #- "Presiding": "Bishop Cody Roskelley"
   #- "Presiding": "Elder Robert K. Ellis"
   #- "Presiding": "President Travis Bird"
   #- "Presiding": "President Mike Kennington"
   #- "Presiding": "President Ernie Carrasquillo"
-  #- "Presiding": "Brother Jared Draney"
+  - "Presiding": "Brother Jared Draney"
   #- "Presiding": "Brother Schuyler Robinson"
   #- "Conducting": "Bishop Cody Roskelley"
   #- "Conducting": "Brother Jared Draney"
   - "Conducting": "Brother Schuyler Robinson"
 hymns:
   opening:
-      number: 204
+      number: 207
   sacrament:
-      number: 196
+      number: 194
   intermediate:
-      number: 204
+      number: 209
   closing:
-      number: 203
+      number: 214
 meeting_sacrament:
   title: "Sacrament Meeting"
   program:
     - type: "speaker"
-      name: "Doyal Debow"
+      name: "Adam Clark"
 
       #- type: "speaker"
       #  name: "Dora Powell"
 
-    - type: "music"
-      title: "Dejlig er Jorden"
-      description: "Pete Slater accompanied by Jared Draney"
+    #- type: "music"
+    #  title: "Dejlig er Jorden"
+    #  description: "Pete Slater accompanied by Jared Draney"
 
-    # type: intermediate_hymn
+    - type: intermediate_hymn
     
     - type: "speaker"
-      name: "Schuyler Robinson"
+      name: "Sister Brecken Weaver"
     
         
 meeting_testimony:
