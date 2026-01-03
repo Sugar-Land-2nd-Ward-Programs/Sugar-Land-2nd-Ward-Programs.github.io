@@ -1,26 +1,26 @@
 unit: "Sugar Land 2nd Ward"
-meeting_cover_img: 'Simon' # Get alias from lookups/artlinks or from the arlinks web page
+meeting_cover_img: '5' # Get alias from lookups/artlinks or from the arlinks web page
 #meeting_type: "sacrament" # Auto-calculated. Uncomment for tests or overrides only. Acceptable values: sacrament, testimony, primary, easter, ward, christmas, stake, generalconference
 officers:
-  #- "Presiding": "Bishop Cody Roskelley"
+  - "Presiding": "Bishop Cody Roskelley"
   #- "Presiding": "Elder Robert K. Ellis"
   #- "Presiding": "President Travis Bird"
   #- "Presiding": "President Mike Kennington"
   #- "Presiding": "President Ernie Carrasquillo"
-  - "Presiding": "Brother Jared Draney"
+  #- "Presiding": "Brother Jared Draney"
   #- "Presiding": "Brother Schuyler Robinson"
-  #- "Conducting": "Bishop Cody Roskelley"
+  - "Conducting": "Bishop Cody Roskelley"
   #- "Conducting": "Brother Jared Draney"
-  - "Conducting": "Brother Schuyler Robinson"
+  #- "Conducting": "Brother Schuyler Robinson"
 hymns:
   opening:
-      number: 207
+      number: 109
   sacrament:
-      number: 194
+      number: 172
   intermediate:
-      number: 209
+      number: 1004
   closing:
-      number: 214
+      number: 83
 meeting_sacrament:
   title: "Sacrament Meeting"
   program:
@@ -180,14 +180,15 @@ announcements:
 
 posters: # Upload pictures to the GitHub docs/img/ folder. Avoid spaces in the picture filenames.
   - "./img/Stake%20Monthly%20Flyer.png"
-  - "./img/Stake%20Monthly%20Flyer-2.png"
-  - "./img/StakeCampoutJan26.png"
+  #- "./img/Stake%20Monthly%20Flyer-2.png"
+  - "./img/JeremyGuthrie.png"
+  #- "./img/StakeCampoutJan26.png"
 
 calendar:
   #temple_day: # Auto-calculated. Remove or comment this line to hide the next Ward temple day
   cleaning: # Auto-calculated. Remove or comment this line to hide the building cleaning schedule 
-  - title: "Stake Christmas Choir for concert on December 14"
-    description: "Come and celebrate Christmas with music."
+  - title: "Fireside with Jeremy Guthries, January 4"
+    description: "Richmond Stake Center, 7pm"
   
 
 
