@@ -14,9 +14,9 @@ officers:
   #- "Conducting": "Brother Schuyler Robinson"
 hymns:
   opening:
-      number: 109
+      number: 116
   sacrament:
-      number: 172
+      number: 187
   intermediate:
       number: 1004
   closing:
@@ -25,7 +25,7 @@ meeting_sacrament:
   title: "Sacrament Meeting"
   program:
     - type: "speaker"
-      name: "Adam Clark"
+      name: "Laura Arnold"
 
       #- type: "speaker"
       #  name: "Dora Powell"
@@ -37,7 +37,7 @@ meeting_sacrament:
     - type: intermediate_hymn
     
     - type: "speaker"
-      name: "Sister Brecken Weaver"
+      name: "Dallin Arnold"
     
         
 meeting_testimony:
@@ -181,14 +181,14 @@ announcements:
 posters: # Upload pictures to the GitHub docs/img/ folder. Avoid spaces in the picture filenames.
   - "./img/Stake%20Monthly%20Flyer.png"
   #- "./img/Stake%20Monthly%20Flyer-2.png"
-  - "./img/JeremyGuthrie.png"
+  #- "./img/JeremyGuthrie.png"
   #- "./img/StakeCampoutJan26.png"
 
 calendar:
   #temple_day: # Auto-calculated. Remove or comment this line to hide the next Ward temple day
   cleaning: # Auto-calculated. Remove or comment this line to hide the building cleaning schedule 
-  - title: "Fireside with Jeremy Guthries, January 4"
-    description: "Richmond Stake Center, 7pm"
+  - title: "Stake Youth Event for 16-18 year olds, 2:00pm to 10:00"
+    description: "Youth 14 and up invited to the dance starting at 7:30pm"
   
 
 
