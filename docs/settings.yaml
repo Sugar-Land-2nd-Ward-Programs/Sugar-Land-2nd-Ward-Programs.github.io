@@ -14,30 +14,30 @@ officers:
   #- "Conducting": "Brother Schuyler Robinson"
 hymns:
   opening:
-      number: 116
+      number: 128
   sacrament:
-      number: 187
+      number: 176
   intermediate:
-      number: 1004
+      number: 89
   closing:
-      number: 83
+      number: 263
 meeting_sacrament:
   title: "Sacrament Meeting"
   program:
     - type: "speaker"
-      name: "Laura Arnold"
+      name: "Garrison Jones"
 
       #- type: "speaker"
       #  name: "Dora Powell"
 
-    #- type: "music"
-    #  title: "Dejlig er Jorden"
-    #  description: "Pete Slater accompanied by Jared Draney"
+    - type: "music"
+      title: "Healer"
+      description: "Brecken Weaver & Rebecca Speed accompanied by Kaylee Robinson"
 
-    - type: intermediate_hymn
+    #- type: intermediate_hymn
     
     - type: "speaker"
-      name: "Dallin Arnold"
+      name: "Eric Walsh"
     
         
 meeting_testimony:
