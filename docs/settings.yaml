@@ -179,7 +179,7 @@ announcements:
   - "Send announcements to bvl2clerk@gmail.com"
 
 posters: # Upload pictures to the GitHub docs/img/ folder. Avoid spaces in the picture filenames.
-  - "./img/Stake%20Monthly%20Flyer.png"
+  #- "./img/Stake%20Monthly%20Flyer.png"
   #- "./img/Stake%20Monthly%20Flyer-2.png"
   #- "./img/JeremyGuthrie.png"
   #- "./img/StakeCampoutJan26.png"
@@ -187,9 +187,9 @@ posters: # Upload pictures to the GitHub docs/img/ folder. Avoid spaces in the p
 calendar:
   #temple_day: # Auto-calculated. Remove or comment this line to hide the next Ward temple day
   cleaning: # Auto-calculated. Remove or comment this line to hide the building cleaning schedule
-  custom: 
-  - title: "Stake Youth Event for 16-18 year olds, 2:00pm to 10:00"
-    description: "Youth 14 and up invited to the dance starting at 7:30pm"
+ # custom: 
+ # - title: "Stake Youth Event for 16-18 year olds, 2:00pm to 10:00"
+ #   description: "Youth 14 and up invited to the dance starting at 7:30pm"
   
 
 
