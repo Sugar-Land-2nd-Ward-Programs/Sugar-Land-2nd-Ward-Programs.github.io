@@ -178,7 +178,7 @@ announcements:
   - "Volleyball Wednesdays - Come join us on Wednesdays at 9PM and have fun!!!"
   - "Send announcements to bvl2clerk@gmail.com"
 
-posters: # Upload pictures to the GitHub docs/img/ folder. Avoid spaces in the picture filenames.
+#posters: # Upload pictures to the GitHub docs/img/ folder. Avoid spaces in the picture filenames.
   #- "./img/Stake%20Monthly%20Flyer.png"
   #- "./img/Stake%20Monthly%20Flyer-2.png"
   #- "./img/JeremyGuthrie.png"
