@@ -14,30 +14,30 @@ officers:
   #- "Conducting": "Brother Schuyler Robinson"
 hymns:
   opening:
-      number: 124
+      number: 293
   sacrament:
-      number: 184
+      number: 183
   intermediate:
-      number: 89
+      number: 1001
   closing:
-      number: 141
+      number: 97
 meeting_sacrament:
   title: "Sacrament Meeting"
   program:
     - type: "speaker"
-      name: "Garrison Jones"
+      name: "Elisabeth Breck"
 
       #- type: "speaker"
       #  name: "Dora Powell"
 
-    - type: "music"
-      title: "Healer"
-      description: "Brecken Weaver & Rebecca Speed accompanied by Kaylee Robinson"
+    #- type: "music"
+    #  title: "Healer"
+    #  description: "Brecken Weaver & Rebecca Speed accompanied by Kaylee Robinson"
 
-    #- type: intermediate_hymn
+    - type: intermediate_hymn
     
     - type: "speaker"
-      name: "Eric Walsh"
+      name: "Reed Bradford"
     
         
 meeting_testimony:
