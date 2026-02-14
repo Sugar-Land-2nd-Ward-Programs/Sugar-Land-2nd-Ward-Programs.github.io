@@ -14,21 +14,21 @@ officers:
   #- "Conducting": "Brother Schuyler Robinson"
 hymns:
   opening:
-      number: 293
+      number: 308
   sacrament:
-      number: 183
+      number: 174
   intermediate:
-      number: 1001
+      number: 300
   closing:
-      number: 97
+      number: 294
 meeting_sacrament:
   title: "Sacrament Meeting"
   program:
     - type: "speaker"
-      name: "Elisabeth Beck"
+      name: "Kristie Crandall
 
-      #- type: "speaker"
-      #  name: "Dora Powell"
+    #- type: "speaker"
+    #  name: "Dora Powell"
 
     #- type: "music"
     #  title: "Healer"
@@ -37,7 +37,7 @@ meeting_sacrament:
     - type: intermediate_hymn
     
     - type: "speaker"
-      name: "Reed Bradford"
+      name: "Vince Markwalter"
     
         
 meeting_testimony:
