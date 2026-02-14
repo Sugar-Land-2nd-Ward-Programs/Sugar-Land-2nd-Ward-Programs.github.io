@@ -25,7 +25,7 @@ meeting_sacrament:
   title: "Sacrament Meeting"
   program:
     - type: "speaker"
-      name: "Kristie Crandall
+      name: "Kristie Crandall"
 
     #- type: "speaker"
     #  name: "Dora Powell"
@@ -214,5 +214,7 @@ links:
 quote_of_the_month:
   #quote: "When so many around us are burdened with fear and uncertainty, I invite you to make room in your heart for those around you who may be struggling to see the light of the Savior and to feel His love. No gifts will mean as much as acts of pure love you offer to the lonely, the worn down and the weary. These are gifts that remind us and them of the true reason for the season: the gift of God’s Son, Jesus Christ, who was born to cast out all fear and bring everlasting light and joy to all who follow Him"
   #author: "Russell M. Nelson"
-  quote: "Our ministry is a ministry of all the children of God on the face of the earth. We pray for all. We seek to serve all. And we invoke the blessings of the Lord Jesus Christ upon all who seek to serve Him, to do so in worthiness and commitment and optimism. We do not have the answers to all the world’s problems. They have not been revealed. But what we do know is that we are all children of heavenly parents, and that we are called to serve all of the children of God."
-  author: "President Dallin H. Oaks"
+  #quote: "Our ministry is a ministry of all the children of God on the face of the earth. We pray for all. We seek to serve all. And we invoke the blessings of the Lord Jesus Christ upon all who seek to serve Him, to do so in worthiness and commitment and optimism. We do not have the answers to all the world’s problems. They have not been revealed. But what we do know is that we are all children of heavenly parents, and that we are called to serve all of the children of God."
+  #author: "President Dallin H. Oaks"
+  quote: "This is an amazing time to point people to the Savior Jesus Christ. When we do that, we can find joy and comfort and peace in Him. As President Nelson once said, it’s much harder to find happiness where it doesn’t exist. And we’re so grateful that I have this calling now to witness that Jesus is the Christ. If people all across the world will look to Him, He will make their lives better, more meaningful, more joyful. And it happens in and through our Savior Jesus Christ."
+  author: "Clark G. Gilbert"
