@@ -187,9 +187,9 @@ announcements:
 calendar:
   #temple_day: # Auto-calculated. Remove or comment this line to hide the next Ward temple day
   cleaning: # Auto-calculated. Remove or comment this line to hide the building cleaning schedule
- # custom: 
- # - title: "Stake Youth Event for 16-18 year olds, 2:00pm to 10:00"
- #   description: "Youth 14 and up invited to the dance starting at 7:30pm"
+  custom: 
+  - title: "Deseret Industries Pod at Lexington"
+    description: "A donation pod will be onsite from Feb 17 to 24."
   
 
 
