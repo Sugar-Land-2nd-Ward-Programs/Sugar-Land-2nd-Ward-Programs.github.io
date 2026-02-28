@@ -10,17 +10,17 @@ officers:
   #- "Presiding": "Brother Jared Draney"
   #- "Presiding": "Brother Schuyler Robinson"
   #- "Conducting": "Bishop Cody Roskelley"
-  - "Conducting": "Brother Jared Draney"
-  #- "Conducting": "Brother Schuyler Robinson"
+  #- "Conducting": "Brother Jared Draney"
+  - "Conducting": "Brother Schuyler Robinson"
 hymns:
   opening:
-      number: 131
+      number: 134
   sacrament:
-      number: 169
+      number: 181
   intermediate:
-      number: 1003
+      number:
   closing:
-      number: 166
+      number: 86
 meeting_sacrament:
   title: "Sacrament Meeting"
   program:
