@@ -1,5 +1,5 @@
 unit: "Sugar Land 2nd Ward"
-meeting_cover_img: '5' # Get alias from lookups/artlinks or from the arlinks web page
+meeting_cover_img: '9' # Get alias from lookups/artlinks or from the arlinks web page
 #meeting_type: "sacrament" # Auto-calculated. Uncomment for tests or overrides only. Acceptable values: sacrament, testimony, primary, easter, ward, christmas, stake, generalconference
 officers:
   - "Presiding": "Bishop Cody Roskelley"
@@ -178,8 +178,8 @@ announcements:
   - "Volleyball Wednesdays - Come join us on Wednesdays at 9PM and have fun!!!"
   - "Send announcements to bvl2clerk@gmail.com"
 
-#posters: # Upload pictures to the GitHub docs/img/ folder. Avoid spaces in the picture filenames.
-  #- "./img/Stake%20Monthly%20Flyer.png"
+posters: # Upload pictures to the GitHub docs/img/ folder. Avoid spaces in the picture filenames.
+  - "./img/Stake%20Monthly%20Flyer.png"
   #- "./img/Stake%20Monthly%20Flyer-2.png"
   #- "./img/JeremyGuthrie.png"
   #- "./img/StakeCampoutJan26.png"
