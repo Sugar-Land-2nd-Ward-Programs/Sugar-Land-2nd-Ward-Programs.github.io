@@ -14,30 +14,30 @@ officers:
   - "Conducting": "Brother Schuyler Robinson"
 hymns:
   opening:
-      number: 134
+      number: 146
   sacrament:
-      number: 181
+      number: 192
   intermediate:
-      number:
+      number: 1003
   closing:
-      number: 86
+      number: 277
 meeting_sacrament:
   title: "Sacrament Meeting"
   program:
     - type: "speaker"
-      name: "Elder Lacey"
+      name: "Carrie Leavitt"
 
     - type: "speaker"
       name: "Elder Weaver"
 
-    #- type: "music"
+    - type: "Special Music"
     #  title: "Healer"
-    #  description: "Brecken Weaver & Rebecca Speed accompanied by Kaylee Robinson"
+      description: "Valeri & Bayli Jones accompanied by Kaylee Robinson"
 
     #- type: intermediate_hymn
     
     - type: "speaker"
-      name: "Dale Crosby"
+      name: "Kyle Moore"
     
         
 meeting_testimony:
