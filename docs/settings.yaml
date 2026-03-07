@@ -27,11 +27,11 @@ meeting_sacrament:
     - type: "speaker"
       name: "Carrie Leavitt"
 
-    - type: "speaker"
-      name: "Elder Weaver"
+    #- type: "speaker"
+    #  name: "Elder Weaver"
 
     - type: "Special Music"
-    #  title: "Healer"
+      title: ""
       description: "Valeri & Bayli Jones accompanied by Kaylee Robinson"
 
     #- type: intermediate_hymn
