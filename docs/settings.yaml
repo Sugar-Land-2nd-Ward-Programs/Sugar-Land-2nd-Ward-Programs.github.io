@@ -30,7 +30,7 @@ meeting_sacrament:
     #- type: "speaker"
     #  name: "Elder Weaver"
 
-    - type: "Special Music"
+    - type: "music"
       title: "Daughter of Light"
       description: "Valeri & Bayli Jones accompanied by Kaylee Robinson"
 
