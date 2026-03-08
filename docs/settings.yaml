@@ -1,5 +1,5 @@
 unit: "Sugar Land 2nd Ward"
-meeting_cover_img: '9' # Get alias from lookups/artlinks or from the arlinks web page
+meeting_cover_img: 'Leper' # Get alias from lookups/artlinks or from the arlinks web page
 #meeting_type: "sacrament" # Auto-calculated. Uncomment for tests or overrides only. Acceptable values: sacrament, testimony, primary, easter, ward, christmas, stake, generalconference
 officers:
   - "Presiding": "Bishop Cody Roskelley"
@@ -31,7 +31,7 @@ meeting_sacrament:
     #  name: "Elder Weaver"
 
     - type: "Special Music"
-      title: ""
+      title: "Daughter of Light"
       description: "Valeri & Bayli Jones accompanied by Kaylee Robinson"
 
     #- type: intermediate_hymn
@@ -180,20 +180,24 @@ announcements:
 
 posters: # Upload pictures to the GitHub docs/img/ folder. Avoid spaces in the picture filenames.
   - "./img/Stake%20Monthly%20Flyer.png"
-  #- "./img/Stake%20Monthly%20Flyer-2.png"
-  #- "./img/JeremyGuthrie.png"
+  - "./img/EasterEvent.jpeg"
+  - "./img/PianoGuys.png"
   #- "./img/StakeCampoutJan26.png"
 
 calendar:
   #temple_day: # Auto-calculated. Remove or comment this line to hide the next Ward temple day
   cleaning: # Auto-calculated. Remove or comment this line to hide the building cleaning schedule
   custom: 
-  - title: "Deseret Industries Pod at Lexington"
-    description: "A donation pod will be onsite from Feb 17 to 24."
+  - title: "Lexington Building Easter Celebration"
+    description: "Friday, April 3 - See poster above and signup links below"
   
 
 
 links:
+  - title: "Signup to bring food for the Easter Celebration"
+    url: "https://www.signupgenius.com/go/10C0549A5AB23A6FD0-62801876-easter#/"
+  - title: "Signup to help with the Easter Celebration"
+    url: "https://www.signupgenius.com/go/10C0549A5AB23A6FD0-62804484-easter#/"
   - title: "See the entire building cleaning schedule"
     url: "./CleaningSchedule.html"
   - title: "See how to service soap dispensers"
