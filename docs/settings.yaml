@@ -182,7 +182,7 @@ posters: # Upload pictures to the GitHub docs/img/ folder. Avoid spaces in the p
   - "./img/Stake%20Monthly%20Flyer.png"
   - "./img/EasterEvent.jpeg"
   - "./img/PianoGuys.png"
-  #- "./img/StakeCampoutJan26.png"
+  - "./img/HoustonYSAConf2026.png"
 
 calendar:
   #temple_day: # Auto-calculated. Remove or comment this line to hide the next Ward temple day
