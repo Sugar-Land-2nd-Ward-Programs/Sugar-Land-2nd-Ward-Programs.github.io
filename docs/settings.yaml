@@ -14,30 +14,30 @@ officers:
   - "Conducting": "Brother Schuyler Robinson"
 hymns:
   opening:
-      number: 146
+      number: 292
   sacrament:
-      number: 192
+      number: 173
   intermediate:
-      number: 1003
+      number: 1031
   closing:
-      number: 277
+      number: 152
 meeting_sacrament:
   title: "Sacrament Meeting"
   program:
     - type: "speaker"
-      name: "Carrie Leavitt"
+      name: "Quentin Boyer"
 
     #- type: "speaker"
-    #  name: "Elder Weaver"
+    #  name: "Eld"
 
-    - type: "music"
-      title: "Daughter of Light"
-      description: "Valeri & Bayli Jones accompanied by Kaylee Robinson"
+    # type: "music"
+    #  title: "Daughter of Light"
+    #  description: "Valeri & Bayli Jones accompanied by Kaylee Robinson"
 
-    #- type: intermediate_hymn
+    - type: intermediate_hymn
     
     - type: "speaker"
-      name: "Kyle Moore"
+      name: "Todd Eager"
     
         
 meeting_testimony:
