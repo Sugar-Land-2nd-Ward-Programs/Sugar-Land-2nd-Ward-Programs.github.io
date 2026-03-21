@@ -14,18 +14,18 @@ officers:
   - "Conducting": "Brother Schuyler Robinson"
 hymns:
   opening:
-      number: 292
+      number: 301
   sacrament:
-      number: 173
+      number: 191
   intermediate:
-      number: 1031
+      number: 1009
   closing:
-      number: 152
+      number: 322
 meeting_sacrament:
   title: "Sacrament Meeting"
   program:
     - type: "speaker"
-      name: "Quentin Boyer"
+      name: "Brent Leavitt"
 
     #- type: "speaker"
     #  name: "Eld"
@@ -37,7 +37,7 @@ meeting_sacrament:
     - type: intermediate_hymn
     
     - type: "speaker"
-      name: "Todd Eager"
+      name: "Shelley Rixner"
     
         
 meeting_testimony:
