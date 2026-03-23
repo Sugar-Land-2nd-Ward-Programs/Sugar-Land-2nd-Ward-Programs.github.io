@@ -1,5 +1,5 @@
 unit: "Sugar Land 2nd Ward"
-meeting_cover_img: 'Leper' # Get alias from lookups/artlinks or from the arlinks web page
+meeting_cover_img: 'Easter1' # Get alias from lookups/artlinks or from the arlinks web page
 #meeting_type: "sacrament" # Auto-calculated. Uncomment for tests or overrides only. Acceptable values: sacrament, testimony, primary, easter, ward, christmas, stake, generalconference
 officers:
   - "Presiding": "Bishop Cody Roskelley"
@@ -9,9 +9,9 @@ officers:
   #- "Presiding": "President Ernie Carrasquillo"
   #- "Presiding": "Brother Jared Draney"
   #- "Presiding": "Brother Schuyler Robinson"
-  #- "Conducting": "Bishop Cody Roskelley"
+  - "Conducting": "Bishop Cody Roskelley"
   #- "Conducting": "Brother Jared Draney"
-  - "Conducting": "Brother Schuyler Robinson"
+  #- "Conducting": "Brother Schuyler Robinson"
 hymns:
   opening:
       number: 301
@@ -64,26 +64,31 @@ meeting_ward:
         name: "Reuben Sams"
 
 meeting_easter:
-  title: "Easter Service"
+  title: "Palm Sunday Service"
   program:
 
-      - type: "speaker"
-        name: "Travis Bird"
-
-      - type: "speaker"
-        name: "Joey Powell"
-
-      #- type: intermediate_hymn
-    
       - type: "music"
-        title: "Come ye saints... " #Music number
-        description: "by Nan and Ann" #Musicians
-    
-      - type: "speaker"
-        name: "David Hruska"
+        title: "Gethsemane" #Music number
+        description: "Prinmary Children, directed by Tara Wightman, accompanied by Dana Blackburn" #Musicians
 
-      - type: hymn
-        hymn: closing
+      - type: "speaker"
+        name: "A Sister to be named later"
+    
+      #- type: intermediate_hymn
+        
+      - type: "music"
+        title: "Jesus, the Very Thought of Thee" #Music number
+        description: "Piano solo by Dallin Arnold" #Musicians
+      
+      - type: "speaker"
+        name: "Pete Slater"
+
+      - type: "music"
+        title: "Hail the Day That Sees Him Rise" #Music number
+        description: "Ward choir, conducted by Veniece Griffin, accompanied by Dallin Arnold" #Musicians
+      
+      #- type: hymn
+      #  hymn: closing
 
 meeting_christmas:
   title: "Sacrament Meeting and Christmas Program"
@@ -164,7 +169,6 @@ meeting_generalconference:
         description:  |
          Saturday Morning Session - 11:00 am CDT
          <br>Saturday Afternoon Session - 3:00 pm CDT
-         <br>Saturday Evening Session - 7:00 pm CDT
          <br>Sunday Morning Session - 11:00 am CDT
          <br>Sunday Afternoon Session - 3:00 pm CDT
 
@@ -190,6 +194,8 @@ calendar:
   custom: 
   - title: "Lexington Building Easter Celebration"
     description: "Friday, April 3 - See poster above and signup links below"
+  - title: "General Conference"
+    description: "Saturday and Sunday. No local meetings. See links below for details on how to watch and listen online."
   
 
 
@@ -198,6 +204,8 @@ links:
     url: "https://www.signupgenius.com/go/10C0549A5AB23A6FD0-62801876-easter#/"
   - title: "Signup to help with the Easter Celebration"
     url: "https://www.signupgenius.com/go/10C0549A5AB23A6FD0-62804484-easter#/"
+  - title: "Watch and listen online"
+    url: "https://www.churchofjesuschrist.org/feature/general-conference?lang=eng"
   - title: "See the entire building cleaning schedule"
     url: "./CleaningSchedule.html"
   - title: "See how to service soap dispensers"
