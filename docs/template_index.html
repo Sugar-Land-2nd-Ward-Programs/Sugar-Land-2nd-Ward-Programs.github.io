@@ -202,7 +202,7 @@
        {% endif %}
 
         <!-- Add closing hymns for common meetings -->
-        {% if meeting_type != "general"  and meeting_type != "stake" %}
+        {% if meeting_type != "general"  and meeting_type != "stake" and meeting_type != "easter" %}
             <h4>Closing Hymn</h4>
             <p><a href="{{ hymns.closing.url }}">#{{ hymns.closing.number }}, {{ hymns.closing.title }}</a></p>
         {% endif %}
