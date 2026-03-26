@@ -14,9 +14,9 @@ officers:
   #- "Conducting": "Brother Schuyler Robinson"
 hymns:
   opening:
-      number: 6
+      number: 199
   sacrament:
-      number: 191
+      number: 193
   intermediate:
       number: 1009
   closing:
@@ -184,8 +184,10 @@ announcements:
 
 posters: # Upload pictures to the GitHub docs/img/ folder. Avoid spaces in the picture filenames.
   - "./img/Stake%20Monthly%20Flyer.png"
+  - "./img/Stake%20Monthly%20Flyer-2.png"
   - "./img/EasterEvent.jpeg"
   - "./img/PianoGuys.png"
+  - "./img/RSBroadcast.png"
   - "./img/HoustonYSAConf2026.png"
 
 calendar:
