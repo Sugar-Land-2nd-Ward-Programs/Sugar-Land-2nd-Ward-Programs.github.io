@@ -183,10 +183,9 @@ announcements:
   - "Send announcements to bvl2clerk@gmail.com"
 
 posters: # Upload pictures to the GitHub docs/img/ folder. Avoid spaces in the picture filenames.
-  - "./img/Stake%20Monthly%20Flyer.png"
+  #- "./img/Stake%20Monthly%20Flyer.png"
   - "./img/Stake%20Monthly%20Flyer-2.png"
   - "./img/EasterEvent.jpeg"
-  - "./img/PianoGuys.png"
   - "./img/RSBroadcast.PNG"
   - "./img/HoustonYSAConf2026.png"
 
@@ -198,6 +197,8 @@ calendar:
     description: "Friday, April 3 - See poster above and signup links below"
   - title: "General Conference"
     description: "Saturday and Sunday. No local meetings. See links below for details on how to watch and listen online."
+  - title: "Stake Marriage Workshop"
+    description: "Saturday, April 25, 3:00 pm - 8:00 pm,including dinner at Lexington."
   
 
 
