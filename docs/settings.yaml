@@ -9,8 +9,8 @@ officers:
   #- "Presiding": "President Ernie Carrasquillo"
   #- "Presiding": "Brother Jared Draney"
   #- "Presiding": "Brother Schuyler Robinson"
-  # "Conducting": "Bishop Cody Roskelley"
-  - "Conducting": "Brother Jared Draney"
+  - "Conducting": "Bishop Cody Roskelley"
+  #- "Conducting": "Brother Jared Draney"
   #- "Conducting": "Brother Schuyler Robinson"
 hymns:
   opening:
@@ -193,10 +193,6 @@ calendar:
   #temple_day: # Auto-calculated. Remove or comment this line to hide the next Ward temple day
   cleaning: # Auto-calculated. Remove or comment this line to hide the building cleaning schedule
   custom: 
-  - title: "Lexington Building Easter Celebration"
-    description: "Friday, April 3 - See poster above and signup links below"
-  - title: "General Conference"
-    description: "Saturday and Sunday. No local meetings. See links below for details on how to watch and listen online."
   - title: "Stake Marriage Workshop"
     description: "Saturday, April 25, 3:00 pm - 8:00 pm,including dinner at Lexington."
   
