@@ -9,18 +9,18 @@ officers:
   #- "Presiding": "President Ernie Carrasquillo"
   #- "Presiding": "Brother Jared Draney"
   #- "Presiding": "Brother Schuyler Robinson"
-  - "Conducting": "Bishop Cody Roskelley"
-  #- "Conducting": "Brother Jared Draney"
+  # "Conducting": "Bishop Cody Roskelley"
+  - "Conducting": "Brother Jared Draney"
   #- "Conducting": "Brother Schuyler Robinson"
 hymns:
   opening:
-      number: 199
+      number: 114
   sacrament:
-      number: 193
-  intermediate:
-      number: 1009
+      number: 194
+  #intermediate:
+      #number: 1009
   closing:
-      number: 322
+      number: 36
 meeting_sacrament:
   title: "Sacrament Meeting"
   program:
