@@ -17,8 +17,8 @@ hymns:
       number: 114
   sacrament:
       number: 194
-  #intermediate:
-      #number: 1009
+  intermediate:
+      number: 1009
   closing:
       number: 36
 meeting_sacrament:
