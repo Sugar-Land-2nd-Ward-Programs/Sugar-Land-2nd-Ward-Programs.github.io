@@ -14,18 +14,18 @@ officers:
   #- "Conducting": "Brother Schuyler Robinson"
 hymns:
   opening:
-      number: 114
+      number: 99
   sacrament:
-      number: 194
+      number: 171
   intermediate:
-      number: 1009
+      number: 304
   closing:
-      number: 36
+      number: 98
 meeting_sacrament:
   title: "Sacrament Meeting"
   program:
     - type: "speaker"
-      name: "Brent Leavitt"
+      name: "Matt Relleford"
 
     #- type: "speaker"
     #  name: "Eld"
@@ -37,7 +37,7 @@ meeting_sacrament:
     - type: intermediate_hymn
     
     - type: "speaker"
-      name: "Shelley Rixner"
+      name: "Howard Moline"
     
         
 meeting_testimony:
