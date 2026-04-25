@@ -14,21 +14,21 @@ officers:
   #- "Conducting": "Brother Schuyler Robinson"
 hymns:
   opening:
-      number: 99
+      number: 303
   sacrament:
-      number: 171
+      number: 182
   intermediate:
-      number: 304
+      number: 239
   closing:
-      number: 98
+      number: 109
 meeting_sacrament:
   title: "Sacrament Meeting"
   program:
     - type: "speaker"
-      name: "Matt Relleford"
+      name: "Tor Jones"
 
-    #- type: "speaker"
-    #  name: "Eld"
+    - type: "speaker"
+      name: "Massa Farley"
 
     # type: "music"
     #  title: "Daughter of Light"
@@ -37,7 +37,7 @@ meeting_sacrament:
     - type: intermediate_hymn
     
     - type: "speaker"
-      name: "Howard Moline"
+      name: "Jerry Griffin"
     
         
 meeting_testimony:
@@ -186,6 +186,7 @@ posters: # Upload pictures to the GitHub docs/img/ folder. Avoid spaces in the p
   #- "./img/Stake%20Monthly%20Flyer.png"
   - "./img/Stake%20Monthly%20Flyer-2.png"
   - "./img/HoustonYSAConf2026.png"
+  - "./img/TaiChi-Workshop-Poster-General.png"
 
 calendar:
   #temple_day: # Auto-calculated. Remove or comment this line to hide the next Ward temple day
@@ -193,14 +194,14 @@ calendar:
   custom: 
   - title: "Stake Marriage Workshop"
     description: "Saturday, April 25, 3:00 pm - 8:00 pm,including dinner at Lexington."
+  - title: "Deseret Industries Donations Pods at Lexington"
+    description: "The pod will be available for donations May 20-27."
   
 
 
 links:
-  - title: "Signup to bring food for the Easter Celebration"
-    url: "https://www.signupgenius.com/go/10C0549A5AB23A6FD0-62801876-easter#/"
-  - title: "Signup to help with the Easter Celebration"
-    url: "https://www.signupgenius.com/go/10C0549A5AB23A6FD0-62804484-easter#/"
+  - title: "Check the agenda for the Tai Chi Workshop on May 9"
+    url: "https://maksokami.github.io/houstonsouth/"
   - title: "Watch and listen online"
     url: "https://www.churchofjesuschrist.org/feature/general-conference?lang=eng"
   - title: "See the entire building cleaning schedule"
