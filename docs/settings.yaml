@@ -32,8 +32,8 @@ meeting_sacrament:
       name: "Magnus Jones"
 
     - type: "music"
-    -  title: "My Mother Dear"
-    -  description: "Primary Singers"
+      title: "My Mother Dear"
+      description: "Primary Singers"
 
     #- type: intermediate_hymn
     
