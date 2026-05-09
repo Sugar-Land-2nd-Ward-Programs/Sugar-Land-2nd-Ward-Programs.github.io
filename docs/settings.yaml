@@ -2,42 +2,42 @@ unit: "Sugar Land 2nd Ward"
 meeting_cover_img: 'Easter1' # Get alias from lookups/artlinks or from the arlinks web page
 #meeting_type: "sacrament" # Auto-calculated. Uncomment for tests or overrides only. Acceptable values: sacrament, testimony, primary, easter, ward, christmas, stake, generalconference
 officers:
-  #- "Presiding": "Bishop Cody Roskelley"
+  - "Presiding": "Bishop Cody Roskelley"
   #- "Presiding": "Elder Robert K. Ellis"
   #- "Presiding": "President Travis Bird"
   #- "Presiding": "President Mike Kennington"
   #- "Presiding": "President Ernie Carrasquillo"
-  - "Presiding": "Brother Jared Draney"
+  #- "Presiding": "Brother Jared Draney"
   #- "Presiding": "Brother Schuyler Robinson"
   #- "Conducting": "Bishop Cody Roskelley"
   - "Conducting": "Brother Jared Draney"
   #- "Conducting": "Brother Schuyler Robinson"
 hymns:
   opening:
-      number: 252
-  sacrament:
-      number: 177
-  #intermediate:
-      #number: 
-  closing:
-      number: 156
+      number: 
+        sacrament:
+      number: 183
+  intermediate:
+      number: 
+        closing:
+      number: 293
 meeting_sacrament:
   title: "Sacrament Meeting"
   program:
     - type: "speaker"
-      name: "Tor Jones"
+      name: "Henrie Rellaford"
 
     - type: "speaker"
-      name: "Massa Farley"
+      name: "Magnus Jones"
 
-    # type: "music"
-    #  title: "Daughter of Light"
-    #  description: "Valeri & Bayli Jones accompanied by Kaylee Robinson"
+    - type: "Special Music"
+    -  title: "My Mother Dear"
+    -  description: "Primary Singers"
 
     - type: intermediate_hymn
     
     - type: "speaker"
-      name: "Jerry Griffin"
+      name: "Dale Jeffery"
     
         
 meeting_testimony:
