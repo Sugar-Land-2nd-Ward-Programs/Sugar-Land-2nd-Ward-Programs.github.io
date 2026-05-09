@@ -187,8 +187,8 @@ posters: # Upload pictures to the GitHub docs/img/ folder. Avoid spaces in the p
   - "./img/Stake%20Monthly%20Flyer.png"
   - "./img/Stake%20Save%20the%20Date.png"
   - "./img/HoustonYSAConf2026.png"
-  - "./img/TaiChi-Workshop-Poster-General.png"
-  - "./img/May%202026%20Flyers.jpg"
+  #- "./img/TaiChi-Workshop-Poster-General.png"
+  #- "./img/May%202026%20Flyers.jpg"
 
 
 calendar:
