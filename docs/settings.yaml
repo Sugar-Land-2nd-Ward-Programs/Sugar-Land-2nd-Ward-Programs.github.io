@@ -1,5 +1,5 @@
 unit: "Sugar Land 2nd Ward"
-meeting_cover_img: 'Easter1' # Get alias from lookups/artlinks or from the arlinks web page
+meeting_cover_img: '1' # Get alias from lookups/artlinks or from the arlinks web page
 #meeting_type: "sacrament" # Auto-calculated. Uncomment for tests or overrides only. Acceptable values: sacrament, testimony, primary, easter, ward, christmas, stake, generalconference
 officers:
   - "Presiding": "Bishop Cody Roskelley"
@@ -31,11 +31,11 @@ meeting_sacrament:
     - type: "speaker"
       name: "Magnus Jones"
 
-    - type: "Special Music"
+    - type: "music"
     -  title: "My Mother Dear"
     -  description: "Primary Singers"
 
-    - type: intermediate_hymn
+    #- type: intermediate_hymn
     
     - type: "speaker"
       name: "Dale Jeffery"
