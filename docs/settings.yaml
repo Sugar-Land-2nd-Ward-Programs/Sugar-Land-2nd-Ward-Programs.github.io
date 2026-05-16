@@ -15,7 +15,7 @@ officers:
 # Always put a number for the hymns, even if it's just a placeholder. The program section control whether it appears
 hymns:
   opening:
-      number: 213
+      number: 1
   sacrament:
       number: 169
   intermediate:
@@ -38,8 +38,7 @@ meeting_sacrament:
     #  title: "My Mother Dear"
     #  description: "Primary Singers"
 
-    - type: hymn
-      hymn: intermediate
+    - type: intermediate_hymn
     
     - type: "speaker"
       name: "Claire Draney"
