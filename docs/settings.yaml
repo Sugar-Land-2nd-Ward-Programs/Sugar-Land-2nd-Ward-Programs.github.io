@@ -34,9 +34,9 @@ meeting_sacrament:
       title: "Testimony"
       description: "To Be Announced"      
 
-    - type: "music"
-      title: "My Mother Dear"
-      description: "Primary Singers"
+    #- type: "music"
+    #  title: "My Mother Dear"
+    #  description: "Primary Singers"
 
     #- type: intermediate_hymn
     
