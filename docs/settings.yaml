@@ -38,7 +38,7 @@ meeting_sacrament:
     #  title: "My Mother Dear"
     #  description: "Primary Singers"
 
-    #- type: intermediate_hymn
+    - type: hymn intermediate_hymn
     
     - type: "speaker"
       name: "Claire Draney"
