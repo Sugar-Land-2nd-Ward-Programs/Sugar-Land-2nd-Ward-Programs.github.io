@@ -38,7 +38,8 @@ meeting_sacrament:
     #  title: "My Mother Dear"
     #  description: "Primary Singers"
 
-    - type: hymn intermediate_hymn
+    - type: hymn
+      hymn: intermediate
     
     - type: "speaker"
       name: "Claire Draney"
@@ -190,8 +191,6 @@ posters: # Upload pictures to the GitHub docs/img/ folder. Avoid spaces in the p
   - "./img/Stake%20Monthly%20Flyer.png"
   - "./img/Stake%20Save%20the%20Date.png"
   - "./img/HoustonYSAConf2026.png"
-  - "./img/May%202026%20Flyers.jpg"
-
 
 calendar:
   #temple_day: # Auto-calculated. Remove or comment this line to hide the next Ward temple day
