@@ -15,24 +15,27 @@ officers:
 # Always put a number for the hymns, even if it's just a placeholder. The program section control whether it appears
 hymns:
   opening:
-      number: 1
+      number: 188
   sacrament:
-      number: 169
+      number: 172
   intermediate:
-      number: 274 
+      number: 4
   closing:
-      number: 132
+      number: 281
 meeting_sacrament:
   title: "Sacrament Meeting"
   program:
 
-    - type: custom
-      title: "Testimony"
-      description: "To Be Announced"
+    # type: custom
+    #  title: "Testimony"
+    #  description: "To Be Announced"
 
-    - type: custom
-      title: "Testimony"
-      description: "To Be Announced"      
+    #- type: custom
+    #  title: "Testimony"
+    #  description: "To Be Announced"
+
+    - type: "speaker"
+      name: "Nancy Alemany"
 
     #- type: "music"
     #  title: "My Mother Dear"
@@ -41,7 +44,7 @@ meeting_sacrament:
     - type: intermediate_hymn
     
     - type: "speaker"
-      name: "Claire Draney"
+      name: "Larry Alemany"
     
         
 meeting_testimony:
