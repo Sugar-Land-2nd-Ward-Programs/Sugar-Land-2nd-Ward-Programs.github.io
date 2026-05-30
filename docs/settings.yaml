@@ -1,5 +1,5 @@
 unit: "Sugar Land 2nd Ward"
-meeting_cover_img: 'JesusWomanWell' # Get alias from lookups/artlinks or from the arlinks web page
+meeting_cover_img: 'HoustonSouth' # Get alias from lookups/artlinks or from the arlinks web page
 #meeting_type: "sacrament" # Auto-calculated. Uncomment for tests or overrides only. Acceptable values: sacrament, testimony, primary, easter, ward, christmas, stake, generalconference
 officers:
   - "Presiding": "Bishop Cody Roskelley"
@@ -154,7 +154,7 @@ meeting_stake:
   title: "Houston Texas South Stake Conference"
   program:
       - type: custom
-        title: "Leadership Session, Saturday 4:00-5:30 pm"
+        title: "Stake and Ward Council Training, Saturday 4:00-5:30 pm"
         description: |
           All members of Stake and Ward Councils and their presidencies, secretaries, and clerks are invited to attend.
           <br>This includes: Bishoprics; Elders quorum presidencies; Aaronic Priesthood quorum and Young Women class advisers; Relief Society, Young Women, Primary and Sunday School presidencies, and secretaries.
@@ -197,9 +197,9 @@ posters: # Upload pictures to the GitHub docs/img/ folder. Avoid spaces in the p
 calendar:
   #temple_day: # Auto-calculated. Remove or comment this line to hide the next Ward temple day
   cleaning: # Auto-calculated. Remove or comment this line to hide the building cleaning schedule
-  custom: 
-  - title: "Deseret Industries Donations Pods at Lexington"
-    description: "The pod will be available for donations May 20-27."
+  #custom: 
+  #- title: "Deseret Industries Donations Pods at Lexington"
+  #  description: "The pod will be available for donations May 20-27."
   
 
 
