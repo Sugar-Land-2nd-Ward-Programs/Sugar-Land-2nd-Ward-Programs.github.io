@@ -10,18 +10,18 @@ officers:
   #- "Presiding": "Brother Jared Draney"
   #- "Presiding": "Brother Schuyler Robinson"
   #- "Conducting": "Bishop Cody Roskelley"
-  - "Conducting": "Brother Jared Draney"
-  #- "Conducting": "Brother Schuyler Robinson"
+  #- "Conducting": "Brother Jared Draney"
+  - "Conducting": "Brother Schuyler Robinson"
 # Always put a number for the hymns, even if it's just a placeholder. The program section control whether it appears
 hymns:
   opening:
-      number: 188
+      number: 9
   sacrament:
-      number: 172
+      number: 181
   intermediate:
-      number: 4
+      number: 999
   closing:
-      number: 281
+      number: 22
 meeting_sacrament:
   title: "Sacrament Meeting"
   program:
