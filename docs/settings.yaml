@@ -29,7 +29,7 @@ meeting_sacrament:
     # type: custom
     #  title: "Testimony"
     #  description: "To Be Announced"
-
+    
     - type: custom
       title: "My Dad"
       description: "Primary Singers"
@@ -38,7 +38,7 @@ meeting_sacrament:
       name: "Kaylee Robinson"
 
     #- type: intermediate_hymn
-    
+
     - type: "speaker"
       name: "Tracy Horowitz"
     
