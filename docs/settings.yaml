@@ -30,14 +30,7 @@ meeting_sacrament:
     #  title: "Testimony"
     #  description: "To Be Announced"
 
-    #- type: custom
-    #  title: "Testimony"
-    #  description: "To Be Announced"
-
-    #- type: "speaker"
-    #  name: "Wendy Markwalter"
-
-    - type: "Primary Music"
+    - type: custom
       title: "My Dad"
       description: "Primary Singers"
 
