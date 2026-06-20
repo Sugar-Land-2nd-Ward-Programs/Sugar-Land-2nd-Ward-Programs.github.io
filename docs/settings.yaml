@@ -29,9 +29,9 @@ meeting_sacrament:
     # type: custom
     #  title: "Testimony"
     #  description: "To Be Announced"
-    
+
     - type: custom
-      title: "My Dad"
+      title: "Special Music - My Dad"
       description: "Primary Singers"
 
     - type: "speaker"
