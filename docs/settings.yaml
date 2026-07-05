@@ -184,8 +184,8 @@ announcements:
   - "Send announcements to bvl2clerk@gmail.com"
 
 posters: # Upload pictures to the GitHub docs/img/ folder. Avoid spaces in the picture filenames.
-  - "./img/Stake%20Monthly%20Flyer.png"
-  - "./img/Stake%20Save%20the%20Date.png"
+  #- "./img/Stake%20Monthly%20Flyer.png"
+  #- "./img/Stake%20Save%20the%20Date.png"
   - "./img/HoustonYSAConf2026.png"
 
 calendar:
@@ -193,7 +193,7 @@ calendar:
   - title: "Ward Temple Day on Saturday, July 11"
     description: "All day, though many ward members will join the 2pm endownment session."
   #temple_day: # Auto-calculated. Remove or comment this line to hide the next Ward temple day
-  cleaning: # Auto-calculated. Remove or comment this line to hide the building cleaning schedule
+  #cleaning: # Auto-calculated. Remove or comment this line to hide the building cleaning schedule
   #custom: 
   #- title: "Deseret Industries Donations Pods at Lexington"
   #  description: "The pod will be available for donations May 20-27."
