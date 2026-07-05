@@ -1,5 +1,5 @@
 unit: "Sugar Land 2nd Ward"
-meeting_cover_img: 'HoustonSouth' # Get alias from lookups/artlinks or from the arlinks web page
+meeting_cover_img: 'TitleofLiberty' # Get alias from lookups/artlinks or from the arlinks web page
 #meeting_type: "sacrament" # Auto-calculated. Uncomment for tests or overrides only. Acceptable values: sacrament, testimony, primary, easter, ward, christmas, stake, generalconference
 officers:
   - "Presiding": "Bishop Cody Roskelley"
@@ -9,19 +9,19 @@ officers:
   #- "Presiding": "President Ernie Carrasquillo"
   #- "Presiding": "Brother Jared Draney"
   #- "Presiding": "Brother Schuyler Robinson"
-  #- "Conducting": "Bishop Cody Roskelley"
+  - "Conducting": "Bishop Cody Roskelley"
   #- "Conducting": "Brother Jared Draney"
-  - "Conducting": "Brother Schuyler Robinson"
+  #- "Conducting": "Brother Schuyler Robinson"
 # Always put a number for the hymns, even if it's just a placeholder. The program section control whether it appears
 hymns:
   opening:
-      number: 6
+      number: 3
   sacrament:
-      number: 184
+      number: 175
   intermediate:
       number: 96
   closing:
-      number: 339
+      number: 340
 meeting_sacrament:
   title: "Sacrament Meeting"
   program:
@@ -181,8 +181,6 @@ meeting_generalconference:
         url: "https://www.churchofjesuschrist.org/feature/general-conference?lang=eng"
 
 announcements:
-  - "The sister missionaries have a new phone number: 346-901-8717"
-  - "Volleyball Wednesdays - Come join us on Wednesdays at 9PM and have fun!!!"
   - "Send announcements to bvl2clerk@gmail.com"
 
 posters: # Upload pictures to the GitHub docs/img/ folder. Avoid spaces in the picture filenames.
@@ -191,6 +189,9 @@ posters: # Upload pictures to the GitHub docs/img/ folder. Avoid spaces in the p
   - "./img/HoustonYSAConf2026.png"
 
 calendar:
+  custom: 
+  - title: "Ward Temple Day on Saturday, July 11"
+    description: "All day, though many ward members will join the 2pm endownment session."
   #temple_day: # Auto-calculated. Remove or comment this line to hide the next Ward temple day
   cleaning: # Auto-calculated. Remove or comment this line to hide the building cleaning schedule
   #custom: 
@@ -202,14 +203,14 @@ calendar:
 links:
   - title: "Sign up to feed the missionaries"
     url: "https://www.signupgenius.com/go/10C0E4BACA82EA7FB6-dinner2/127810350#/"
-  - title: "See the entire building cleaning schedule"
-    url: "./CleaningSchedule.html"
-  - title: "See how to service soap dispensers"
-    url: "https://drive.google.com/file/d/1OnMO0eZ_Z1fttxTsFR98yKebc1D8TfIx/view"
-  - title: "See how to refill paper towel dispensers"
-    url: "https://drive.google.com/file/d/19ApkyNN-MF4rDIM0hpOBLaLA5siyD8SY/view"
-  - title: "See how to replace toilet paper rolls"
-    url: "https://drive.google.com/file/d/1lt1iuTzIWgmp3sON7pSFb8uekS9wMQZ6/view?usp=sharing"
+  #- title: "See the entire building cleaning schedule"
+  #  url: "./CleaningSchedule.html"
+  #- title: "See how to service soap dispensers"
+  #  url: "https://drive.google.com/file/d/1OnMO0eZ_Z1fttxTsFR98yKebc1D8TfIx/view"
+  #- title: "See how to refill paper towel dispensers"
+  #  url: "https://drive.google.com/file/d/19ApkyNN-MF4rDIM0hpOBLaLA5siyD8SY/view"
+  #- title: "See how to replace toilet paper rolls"
+  #  url: "https://drive.google.com/file/d/1lt1iuTzIWgmp3sON7pSFb8uekS9wMQZ6/view?usp=sharing"
   - title: "Get started with Temple and Family History work"
     url: ./temple-and-family-history.html
   - title: "Sign up to prepare a meal with Fort Bend Family Promise"
