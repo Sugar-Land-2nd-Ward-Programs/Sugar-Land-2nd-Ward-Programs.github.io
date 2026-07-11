@@ -15,13 +15,13 @@ officers:
 # Always put a number for the hymns, even if it's just a placeholder. The program section control whether it appears
 hymns:
   opening:
-      number: 3
+      number: 67
   sacrament:
-      number: 175
+      number: 196
   intermediate:
-      number: 96
+      number: 6
   closing:
-      number: 340
+      number: 22
 meeting_sacrament:
   title: "Sacrament Meeting"
   program:
@@ -35,12 +35,12 @@ meeting_sacrament:
     #  description: "Primary Singers"
 
     - type: "speaker"
-      name: "Merideth Flake"
+      name: "Dora Powell"
 
     - type: intermediate_hymn
 
     - type: "speaker"
-      name: "Diane Moline"
+      name: "Joey Powell"
     
         
 meeting_testimony:
