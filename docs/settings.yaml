@@ -37,7 +37,7 @@ meeting_sacrament:
     - type: "speaker"
       name: "Dora Powell"
 
-    - type: intermediate_hymn
+    #- type: intermediate_hymn
 
     - type: "speaker"
       name: "Joey Powell"
