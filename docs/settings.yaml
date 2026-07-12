@@ -2,10 +2,10 @@ unit: "Sugar Land 2nd Ward"
 meeting_cover_img: '7' # Get alias from lookups/artlinks or from the arlinks web page
 #meeting_type: "sacrament" # Auto-calculated. Uncomment for tests or overrides only. Acceptable values: sacrament, testimony, primary, easter, ward, christmas, stake, generalconference
 officers:
-  - "Presiding": "Bishop Cody Roskelley"
+  #- "Presiding": "Bishop Cody Roskelley"
   #- "Presiding": "Elder Robert K. Ellis"
   #- "Presiding": "President Travis Bird"
-  #- "Presiding": "President Mike Kennington"
+  - "Presiding": "President Mike Kennington"
   #- "Presiding": "President Ernie Carrasquillo"
   #- "Presiding": "Brother Jared Draney"
   #- "Presiding": "Brother Schuyler Robinson"
@@ -204,6 +204,8 @@ calendar:
 links:
   - title: "Sign up for the Blood Drive on the 25th"
     url: "https://urldefense.com/v3/__https://www.commitforlife.org/donor/schedules/drive_schedule/393541__;!!Oz_3W2l6Vjs!9IMFfsf5S0_Z69k_6hFt8-_JnmCPsJwAe8L2egPka2tYJxCecAsrWmQohR5KTvin5CiwDN3nw9SfFyM1KY_9DYV5Q7ON$"
+  - title: "Sign up for the ward Pioner Day Party on the 25th"
+    url: "https://www.signupgenius.com/go/10C0448A9A82EAB9-64759853-july"
   - title: "Sign up to feed the missionaries"
     url: "https://www.signupgenius.com/go/10C0E4BACA82EA7FB6-dinner2/127810350#/"
   #- title: "See the entire building cleaning schedule"
