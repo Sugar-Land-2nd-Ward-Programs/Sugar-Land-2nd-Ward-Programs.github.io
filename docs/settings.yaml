@@ -2,10 +2,10 @@ unit: "Sugar Land 2nd Ward"
 meeting_cover_img: '7' # Get alias from lookups/artlinks or from the arlinks web page
 #meeting_type: "sacrament" # Auto-calculated. Uncomment for tests or overrides only. Acceptable values: sacrament, testimony, primary, easter, ward, christmas, stake, generalconference
 officers:
-  #- "Presiding": "Bishop Cody Roskelley"
+  - "Presiding": "Bishop Cody Roskelley"
   #- "Presiding": "Elder Robert K. Ellis"
   #- "Presiding": "President Travis Bird"
-  - "Presiding": "President Mike Kennington"
+  # "Presiding": "President Mike Kennington"
   #- "Presiding": "President Ernie Carrasquillo"
   #- "Presiding": "Brother Jared Draney"
   #- "Presiding": "Brother Schuyler Robinson"
@@ -15,13 +15,13 @@ officers:
 # Always put a number for the hymns, even if it's just a placeholder. The program section control whether it appears
 hymns:
   opening:
-      number: 67
+      number: 13
   sacrament:
-      number: 196
+      number: 187
   intermediate:
-      number: 6
+      number: 26
   closing:
-      number: 22
+      number: 52
 meeting_sacrament:
   title: "Sacrament Meeting"
   program:
@@ -35,12 +35,15 @@ meeting_sacrament:
     #  description: "Primary Singers"
 
     - type: "speaker"
-      name: "Dora Powell"
-
-    #- type: intermediate_hymn
+      name: "Jared Draney"
 
     - type: "speaker"
-      name: "Joey Powell"
+      name: "Joseph Scott"
+
+    - type: intermediate_hymn
+
+    - type: "speaker"
+      name: "Mike Moore"
     
         
 meeting_testimony:
