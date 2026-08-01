@@ -9,8 +9,8 @@ officers:
   #- "Presiding": "President Ernie Carrasquillo"
   #- "Presiding": "Brother Schuyler Robinson"
   #- "Presiding": "Brother Joseph Scott"
-  - "Conducting": "Bishop Cody Roskelley"
-  #- "Conducting": "Brother Schuyler Robinson"
+  #- "Conducting": "Bishop Cody Roskelley"
+  - "Conducting": "Brother Schuyler Robinson"
   #- "Conducting": "Brother Joseph Scott"
 # Always put a number for the hymns, even if it's just a placeholder. The program sections control whether it appears
 hymns:
