@@ -2,12 +2,12 @@ unit: "Sugar Land 2nd Ward"
 meeting_cover_img: '7' # Get alias from lookups/artlinks or from the arlinks web page
 #meeting_type: "sacrament" # Auto-calculated. Uncomment for tests or overrides only. Acceptable values: sacrament, testimony, primary, easter, ward, christmas, stake, generalconference
 officers:
-  # "Presiding": "Bishop Cody Roskelley"
+  #- "Presiding": "Bishop Cody Roskelley"
   #- "Presiding": "Elder Robert K. Ellis"
-  - "Presiding": "President Travis Bird"
-  # "Presiding": "President Mike Kennington"
+  #- "Presiding": "President Travis Bird"
+  #- "Presiding": "President Mike Kennington"
   #- "Presiding": "President Ernie Carrasquillo"
-  #- "Presiding": "Brother Schuyler Robinson"
+  - "Presiding": "Brother Schuyler Robinson"
   #- "Presiding": "Brother Joseph Scott"
   #- "Conducting": "Bishop Cody Roskelley"
   - "Conducting": "Brother Schuyler Robinson"
@@ -15,13 +15,13 @@ officers:
 # Always put a number for the hymns, even if it's just a placeholder. The program sections control whether it appears
 hymns:
   opening:
-      number: 81
+      number: 85
   sacrament:
-      number: 180
+      number: 196
   intermediate:
-      number: 220
+      number: 4
   closing:
-      number: 274
+      number: 53
 meeting_sacrament:
   title: "Sacrament Meeting"
   program:
@@ -35,16 +35,16 @@ meeting_sacrament:
     #  description: "Primary Singers"
 
     - type: "speaker"
-      name: "Cody Roskelley"
+      name: "Karista Clark"
 
-    - type: custom
-      title: "Special Music - Hearts to Understatnd"
-      description: "Veniece Griffin, Dale Jeffery accompanied by Jared Draney"
+    #- type: custom
+    #  title: "Special Music - Hearts to Understatnd"
+    #  description: "Veniece Griffin, Dale Jeffery accompanied by Jared Draney"
 
-    #- type: intermediate_hymn
+    - type: intermediate_hymn
 
     - type: "speaker"
-      name: "President Travis Bird"
+      name: "Marianne Seegmiller"
     
         
 meeting_testimony:
