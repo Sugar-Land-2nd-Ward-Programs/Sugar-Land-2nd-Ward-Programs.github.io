@@ -189,7 +189,7 @@ announcements:
 
 posters: # Upload pictures to the GitHub docs/img/ folder. Avoid spaces in the picture filenames.
   - "./img/911_Day_of_Service_Flyer_English.png"
-  - "./img/Stake%20Monthly%20Flyer.png"
+  #- "./img/Stake%20Monthly%20Flyer.png"
   #- "./img/Stake%20Save%20the%20Date.png"
   #- "./img/HoustonYSAConf2026.png"
 
