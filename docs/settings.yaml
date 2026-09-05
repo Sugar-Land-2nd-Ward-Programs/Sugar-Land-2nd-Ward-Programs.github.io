@@ -7,21 +7,21 @@ officers:
   #- "Presiding": "President Travis Bird"
   #- "Presiding": "President Mike Kennington"
   #- "Presiding": "President Ernie Carrasquillo"
-  - "Presiding": "Brother Schuyler Robinson"
+  # "Presiding": "Brother Schuyler Robinson"
   #- "Presiding": "Brother Joseph Scott"
-  #- "Conducting": "Bishop Cody Roskelley"
-  - "Conducting": "Brother Schuyler Robinson"
-  #- "Conducting": "Brother Joseph Scott"
+  - "Conducting": "Bishop Cody Roskelley"
+  # "Conducting": "Brother Schuyler Robinson"
+  - "Conducting": "Brother Joseph Scott"
 # Always put a number for the hymns, even if it's just a placeholder. The program sections control whether it appears
 hymns:
   opening:
-      number: 85
+      number: 301
   sacrament:
-      number: 196
-  intermediate:
-      number: 4
+      number: 187
+  #intermediate:
+    #  number: 4
   closing:
-      number: 53
+      number: 302
 meeting_sacrament:
   title: "Sacrament Meeting"
   program:
