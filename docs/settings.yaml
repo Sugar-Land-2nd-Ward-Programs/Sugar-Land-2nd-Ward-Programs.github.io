@@ -1,15 +1,15 @@
 unit: "Sugar Land 2nd Ward"
-meeting_cover_img: '7' # Get alias from lookups/artlinks or from the arlinks web page
+meeting_cover_img: 'HoustonSouth' # Get alias from lookups/artlinks or from the arlinks web page
 #meeting_type: "sacrament" # Auto-calculated. Uncomment for tests or overrides only. Acceptable values: sacrament, testimony, primary, easter, ward, christmas, stake, generalconference
 officers:
-  #- "Presiding": "Bishop Cody Roskelley"
+  - "Presiding": "Bishop Cody Roskelley"
   #- "Presiding": "Elder Robert K. Ellis"
   #- "Presiding": "President Travis Bird"
   #- "Presiding": "President Mike Kennington"
   #- "Presiding": "President Ernie Carrasquillo"
   # "Presiding": "Brother Schuyler Robinson"
   #- "Presiding": "Brother Joseph Scott"
-  - "Conducting": "Bishop Cody Roskelley"
+  # "Conducting": "Bishop Cody Roskelley"
   # "Conducting": "Brother Schuyler Robinson"
   - "Conducting": "Brother Joseph Scott"
 # Always put a number for the hymns, even if it's just a placeholder. The program sections control whether it appears
@@ -192,16 +192,18 @@ posters: # Upload pictures to the GitHub docs/img/ folder. Avoid spaces in the p
   #- "./img/Stake%20Save%20the%20Date.png"
   #- "./img/HoustonYSAConf2026.png"
 
-calendar:
+#calendar:
   #temple_day: # Auto-calculated. Remove or comment this line to hide the next Ward temple day
   #cleaning: # Auto-calculated. Remove or comment this line to hide the building cleaning schedule
-  custom: 
-  - title: "Deseret Industries Donations Pods at Lexington"
-    description: "The pod will be available for donations starting August 17th-24th."
+  #custom: 
+  #- title: "Deseret Industries Donations Pods at Lexington"
+  #  description: "The pod will be available for donations starting August 17th-24th."
   
 
 
 links:
+  - title: "Sign up for the 9/11 Day of Service at Houston National Cemetery"
+    url: "https://bit.ly/911DayHouston"
   - title: "Sign up to feed the missionaries"
     url: "https://www.signupgenius.com/go/10C0E4BACA82EA7FB6-dinner2/127810350#/"
   #- title: "See the entire building cleaning schedule"
