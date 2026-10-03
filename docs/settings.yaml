@@ -1,5 +1,5 @@
 unit: "Sugar Land 2nd Ward"
-meeting_cover_img: 'HoustonSouth' # Get alias from lookups/artlinks or from the arlinks web page
+meeting_cover_img: 'TabChoir' # Get alias from lookups/artlinks or from the arlinks web page
 #meeting_type: "sacrament" # Auto-calculated. Uncomment for tests or overrides only. Acceptable values: sacrament, testimony, primary, easter, ward, christmas, stake, generalconference
 officers:
   - "Presiding": "Bishop Cody Roskelley"
@@ -205,7 +205,7 @@ posters: # Upload pictures to the GitHub docs/img/ folder. Avoid spaces in the p
 links:
   - title: "Tithing Declaration is underway. Check the link below for available interview slots with Bishop Roskelley"
     url: "https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ3mDxuYCg2CGAcM7mQyeQFcKizSalM6TU_Kh3P8Ro_-Q4HdxfF1SMTTraY6KJJDv3aYiwfOwgGG"
-  - title: "Tithing Declaration Appointments"
+  - title: "Sign Up to Feed the Missionaries"
     url: "https://www.signupgenius.com/go/10C0E4BACA82EA7FB6-dinner2/127810350#/"
   #- title: "See the entire building cleaning schedule"
   #  url: "./CleaningSchedule.html"
