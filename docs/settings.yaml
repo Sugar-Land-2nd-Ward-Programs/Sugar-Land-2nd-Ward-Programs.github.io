@@ -188,8 +188,8 @@ announcements:
   - "Send announcements to bvl2clerk@gmail.com"
 
 posters: # Upload pictures to the GitHub docs/img/ folder. Avoid spaces in the picture filenames.
-  - "./img/911_Day_of_Service_Flyer_English.png"
-  #- "./img/Stake%20Monthly%20Flyer.png"
+  #- "./img/911_Day_of_Service_Flyer_English.png"
+  - "./img/Stake%20Monthly%20Flyer.png"
   #- "./img/Stake%20Save%20the%20Date.png"
   #- "./img/HoustonYSAConf2026.png"
 
@@ -203,9 +203,9 @@ posters: # Upload pictures to the GitHub docs/img/ folder. Avoid spaces in the p
 
 
 links:
-  - title: "Sign up for the 9/11 Day of Service at Houston National Cemetery"
-    url: "https://bit.ly/911DayHouston"
-  - title: "Sign up to feed the missionaries"
+  - title: "Tithing Declaration is underway. Check the link below for available interview slots with Bishop Roskelley"
+    url: "https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ3mDxuYCg2CGAcM7mQyeQFcKizSalM6TU_Kh3P8Ro_-Q4HdxfF1SMTTraY6KJJDv3aYiwfOwgGG"
+  - title: "Tithing Declaration Appointments"
     url: "https://www.signupgenius.com/go/10C0E4BACA82EA7FB6-dinner2/127810350#/"
   #- title: "See the entire building cleaning schedule"
   #  url: "./CleaningSchedule.html"
@@ -227,5 +227,7 @@ quote_of_the_month:
   #author: "Russell M. Nelson"
   #quote: "Our ministry is a ministry of all the children of God on the face of the earth. We pray for all. We seek to serve all. And we invoke the blessings of the Lord Jesus Christ upon all who seek to serve Him, to do so in worthiness and commitment and optimism. We do not have the answers to all the world’s problems. They have not been revealed. But what we do know is that we are all children of heavenly parents, and that we are called to serve all of the children of God."
   #author: "President Dallin H. Oaks"
-  quote: "This is an amazing time to point people to the Savior Jesus Christ. When we do that, we can find joy and comfort and peace in Him. As President Nelson once said, it’s much harder to find happiness where it doesn’t exist. And we’re so grateful that I have this calling now to witness that Jesus is the Christ. If people all across the world will look to Him, He will make their lives better, more meaningful, more joyful. And it happens in and through our Savior Jesus Christ."
-  author: "Clark G. Gilbert"
+  #quote: "This is an amazing time to point people to the Savior Jesus Christ. When we do that, we can find joy and comfort and peace in Him. As President Nelson once said, it’s much harder to find happiness where it doesn’t exist. And we’re so grateful that I have this calling now to witness that Jesus is the Christ. If people all across the world will look to Him, He will make their lives better, more meaningful, more joyful. And it happens in and through our Savior Jesus Christ."
+  #author: "Clark G. Gilbert"
+  quote: "As we bear and proclaim the name and Atonement of Jesus Christ in all the world, it is important for each of us to remember that we are called first to teach, testify, and convert all to the Lord Jesus Christ, our Savior and Redeemer. Conversion to the restored Church of Jesus Christ of Latter-day Saints follows naturally from that. The proper order of conversion is vital."
+  author: "President Dallin H. Oaks"
