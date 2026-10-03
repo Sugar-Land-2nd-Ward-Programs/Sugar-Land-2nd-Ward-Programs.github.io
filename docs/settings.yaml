@@ -15,13 +15,13 @@ officers:
 # Always put a number for the hymns, even if it's just a placeholder. The program sections control whether it appears
 hymns:
   opening:
-      number: 301
+      number: 291
   sacrament:
-      number: 187
-  #intermediate:
-    #  number: 4
+      number: 178
+  intermediate:
+      number: 1057
   closing:
-      number: 302
+      number: 306
 meeting_sacrament:
   title: "Sacrament Meeting"
   program:
@@ -35,7 +35,7 @@ meeting_sacrament:
     #  description: "Primary Singers"
 
     - type: "speaker"
-      name: "Karista Clark"
+      name: "Dana Blackburn"
 
     #- type: custom
     #  title: "Special Music - Hearts to Understatnd"
@@ -44,7 +44,7 @@ meeting_sacrament:
     - type: intermediate_hymn
 
     - type: "speaker"
-      name: "Marianne Seegmiller"
+      name: "Devin Debow"
     
         
 meeting_testimony:
