@@ -11,17 +11,17 @@ officers:
   #- "Presiding": "Brother Joseph Scott"
   # "Conducting": "Bishop Cody Roskelley"
   # "Conducting": "Brother Schuyler Robinson"
-  - "Conducting": "Brother Joseph Scott"
+  - "Conducting": "Brother Cody Roskelley"
 # Always put a number for the hymns, even if it's just a placeholder. The program sections control whether it appears
 hymns:
   opening:
-      number: 291
+      number: 26
   sacrament:
-      number: 178
-  intermediate:
-      number: 1057
+      number: 183
+  #intermediate:
+  #    number: 1057
   closing:
-      number: 306
+      number: 81
 meeting_sacrament:
   title: "Sacrament Meeting"
   program:
