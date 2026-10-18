@@ -1,5 +1,5 @@
 unit: "Sugar Land 2nd Ward"
-meeting_cover_img: 'TabChoir' # Get alias from lookups/artlinks or from the arlinks web page
+meeting_cover_img: '8' # Get alias from lookups/artlinks or from the arlinks web page
 #meeting_type: "sacrament" # Auto-calculated. Uncomment for tests or overrides only. Acceptable values: sacrament, testimony, primary, easter, ward, christmas, stake, generalconference
 officers:
   - "Presiding": "Bishop Cody Roskelley"
@@ -9,9 +9,10 @@ officers:
   #- "Presiding": "President Ernie Carrasquillo"
   # "Presiding": "Brother Schuyler Robinson"
   #- "Presiding": "Brother Joseph Scott"
-  # "Conducting": "Bishop Cody Roskelley"
-  # "Conducting": "Brother Schuyler Robinson"
-  - "Conducting": "Brother Cody Roskelley"
+  - "Conducting": "Bishop Cody Roskelley"
+  #- "Conducting": "Brother Schuyler Robinson"
+  #- "Conducting" : "Brother Joseph Scott"
+ 
 # Always put a number for the hymns, even if it's just a placeholder. The program sections control whether it appears
 hymns:
   opening:
@@ -192,7 +193,7 @@ posters: # Upload pictures to the GitHub docs/img/ folder. Avoid spaces in the p
   - "./img/Stake%20Monthly%20Flyer.png"
   #- "./img/Stake%20Save%20the%20Date.png"
   #- "./img/HoustonYSAConf2026.png"
-  - "./img/EnglishConnect_BYU-Pathway Webinar.png"
+  #- "./img/EnglishConnect_BYU-Pathway Webinar.png"
 
 #calendar:
   #temple_day: # Auto-calculated. Remove or comment this line to hide the next Ward temple day
