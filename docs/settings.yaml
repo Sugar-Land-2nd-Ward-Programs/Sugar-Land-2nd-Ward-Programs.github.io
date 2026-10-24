@@ -133,15 +133,16 @@ meeting_primary:
   title: "Primary Program"
 
   program:
-    - type: graphic
-      location: "./img/2026PrimaryProgram.png"
+  #  - type: graphic
+  #    location: "./img/2026PrimaryProgram.png"
+  
   #     - type: custom
   #       title: "Primary Program"
   #       description: |
   #         Words and Music on the theme of Come, Follow Me
-  #     - type: custom
-  #       title: "Introductory Remarks"
-  #       description: "President Ryman Tiu"
+       - type: custom
+         title: "Introductory Remarks"
+         description: "President Ryman Tiu"
 
   #     - type: speaker
   #       name: "Dawnette Moore"
