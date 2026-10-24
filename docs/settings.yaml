@@ -1,5 +1,5 @@
 unit: "Sugar Land 2nd Ward"
-meeting_cover_img: '8' # Get alias from lookups/artlinks or from the arlinks web page
+meeting_cover_img: '6' # Get alias from lookups/artlinks or from the arlinks web page
 #meeting_type: "sacrament" # Auto-calculated. Uncomment for tests or overrides only. Acceptable values: sacrament, testimony, primary, easter, ward, christmas, stake, generalconference
 officers:
   - "Presiding": "Bishop Cody Roskelley"
@@ -16,13 +16,13 @@ officers:
 # Always put a number for the hymns, even if it's just a placeholder. The program sections control whether it appears
 hymns:
   opening:
-      number: 239
+      number: 136
   sacrament:
-      number: 172
+      number: 196
   intermediate:
       number: 133
   closing:
-      number: 260
+      number: 308
 meeting_sacrament:
   title: "Sacrament Meeting"
   program:
@@ -131,25 +131,27 @@ meeting_christmas:
 
 meeting_primary:
   title: "Primary Program"
-  program:
-      - type: custom
-        title: "Primary Program"
-        description: |
-          Words and Music on the theme of Come, Follow Me
-      - type: custom
-        title: "Introductory Remarks"
-        description: "President Ryman Tiu"
+  posters: # Upload pictures to the GitHub docs/img/ folder. Avoid spaces in the picture filenames.
+  - "./img/2026PrimaryProgram.png"
+  # program:
+  #     - type: custom
+  #       title: "Primary Program"
+  #       description: |
+  #         Words and Music on the theme of Come, Follow Me
+  #     - type: custom
+  #       title: "Introductory Remarks"
+  #       description: "President Ryman Tiu"
 
-      - type: speaker
-        name: "Dawnette Moore"
+  #     - type: speaker
+  #       name: "Dawnette Moore"
 
-      - type: custom
-        title: "Program of Words and music by Primary Children"
-        description: "Directed by Tara Wightman, Accompanied by Dana Blackburn"
+  #     - type: custom
+  #       title: "Program of Words and music by Primary Children"
+  #       description: "Directed by Tara Wightman, Accompanied by Dana Blackburn"
 
-      - type: custom
-        title: "Concluding Remarks"
-        description: "Bishop Cody Roskelley"
+  #     - type: custom
+  #       title: "Concluding Remarks"
+  #       description: "Bishop Cody Roskelley"
 
 meeting_stake:
   title: "Houston Texas South Stake Conference"
