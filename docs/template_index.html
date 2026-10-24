@@ -181,6 +181,7 @@
                         <p>{{ item.description }}</p>
                     {% elif item.type == "graphic" %}
                         <img class="img-fluid" src="{{ item.location }}" />
+                    {% endif %}
              {% endfor %}
         <!-- Stake conference -->
        {% elif meeting_type == "stake" %}
