@@ -179,8 +179,9 @@
                     {% elif item.type == "custom" %}
                         <h4>{{ item.title }}</h4>
                         <p>{{ item.description }}</p>
-                    {% endif %}
-            {% endfor %}
+                    {% elif item.type == "graphic" %}
+                        <img class="img-fluid" src="{{item.location}}" />
+             {% endfor %}
         <!-- Stake conference -->
        {% elif meeting_type == "stake" %}
             {% for item in meeting_stake.program %}

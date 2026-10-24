@@ -131,9 +131,10 @@ meeting_christmas:
 
 meeting_primary:
   title: "Primary Program"
-  posters: # Upload pictures to the GitHub docs/img/ folder. Avoid spaces in the picture filenames.
-  - "./img/2026PrimaryProgram.png"
-  # program:
+
+  program:
+    - type: graphic
+      location: "./img/2026PrimaryProgram.png"
   #     - type: custom
   #       title: "Primary Program"
   #       description: |
