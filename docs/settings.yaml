@@ -16,13 +16,13 @@ officers:
 # Always put a number for the hymns, even if it's just a placeholder. The program sections control whether it appears
 hymns:
   opening:
-      number: 136
+      number: 239
   sacrament:
-      number: 196
+      number: 188
   intermediate:
-      number: 133
+      number: 195
   closing:
-      number: 308
+      number: 258
 meeting_sacrament:
   title: "Sacrament Meeting"
   program:
