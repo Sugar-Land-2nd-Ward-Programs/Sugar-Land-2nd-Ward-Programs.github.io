@@ -9,8 +9,8 @@ officers:
   #- "Presiding": "President Ernie Carrasquillo"
   # "Presiding": "Brother Schuyler Robinson"
   #- "Presiding": "Brother Joseph Scott"
-  - "Conducting": "Bishop Cody Roskelley"
-  #- "Conducting": "Brother Schuyler Robinson"
+  #- "Conducting": "Bishop Cody Roskelley"
+  - "Conducting": "Brother Schuyler Robinson"
   #- "Conducting" : "Brother Joseph Scott"
  
 # Always put a number for the hymns, even if it's just a placeholder. The program sections control whether it appears
@@ -199,12 +199,12 @@ posters: # Upload pictures to the GitHub docs/img/ folder. Avoid spaces in the p
   #- "./img/HoustonYSAConf2026.png"
   #- "./img/EnglishConnect_BYU-Pathway Webinar.png"
 
-#calendar:
+calendar:
   #temple_day: # Auto-calculated. Remove or comment this line to hide the next Ward temple day
   #cleaning: # Auto-calculated. Remove or comment this line to hide the building cleaning schedule
-  #custom: 
-  #- title: "Deseret Industries Donations Pods at Lexington"
-  #  description: "The pod will be available for donations starting August 17th-24th."
+  custom: 
+  - title: "Deseret Industries Donations Pods at Lexington"
+    description: "The pod will be available for donations November 16-23."
   
 
 
