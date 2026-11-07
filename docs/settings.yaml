@@ -1,5 +1,5 @@
 unit: "Sugar Land 2nd Ward"
-meeting_cover_img: '6' # Get alias from lookups/artlinks or from the arlinks web page
+meeting_cover_img: 'JesusWomanWell' # Get alias from lookups/artlinks or from the arlinks web page
 #meeting_type: "sacrament" # Auto-calculated. Uncomment for tests or overrides only. Acceptable values: sacrament, testimony, primary, easter, ward, christmas, stake, generalconference
 officers:
   - "Presiding": "Bishop Cody Roskelley"
@@ -16,13 +16,13 @@ officers:
 # Always put a number for the hymns, even if it's just a placeholder. The program sections control whether it appears
 hymns:
   opening:
-      number: 239
+      number: 73
   sacrament:
-      number: 188
+      number: 169
   intermediate:
-      number: 195
+      number: 161
   closing:
-      number: 258
+      number: 96
 meeting_sacrament:
   title: "Sacrament Meeting"
   program:
@@ -36,7 +36,10 @@ meeting_sacrament:
     #  description: "Primary Singers"
 
     - type: "speaker"
-      name: "Chris Douglas"
+      name: "Aaron Ozomah"
+
+    - type: "speaker"
+      name: "Andy Chen"
 
     #- type: custom
     #  title: "Special Music - Hearts to Understatnd"
@@ -45,7 +48,7 @@ meeting_sacrament:
     - type: intermediate_hymn
 
     - type: "speaker"
-      name: "Casey Douglas"
+      name: "Tara Wightman"
     
         
 meeting_testimony:
@@ -211,7 +214,11 @@ calendar:
 links:
   - title: "Tithing Declaration is underway. Check the link below for available interview slots with Bishop Roskelley"
     url: "https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ3mDxuYCg2CGAcM7mQyeQFcKizSalM6TU_Kh3P8Ro_-Q4HdxfF1SMTTraY6KJJDv3aYiwfOwgGG"
+  - title: "Sign up to perform at Interfaith Night, Dec. 14 with the Giving Machines at Sugar Land Town Square"
+    url: "https://onedrive.live.com/:x:/g/personal/18825336a9f93f87/IQB2HEfRzGVSSohH2zhl3bR5AU2QvdlcBVjxRgswUTgk0l4?rtime=ESdz3vk830g&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3gvYy8xODgyNTMzNmE5ZjkzZjg3L0lRQjJIRWZSekdWU1NvaEgyemhsM2JSNUFVMlF2ZGxjQlZqeFJnc3dVVGdrMGw0"
   - title: "Sign Up to Feed the Missionaries"
+  - title "Sign up to perform with the Silhoutte Nativity or musical groups on Dec. 20 with the Giving Machines at Sugar Land Town Square"
+    url: "https://urldefense.com/v3/__https://tinyurl.com/ypsuzddv__;!!Oz_3W2l6Vjs!5Tijdmhb-Ukwgl9sJqHicfSgmXqV-JZ6qijETFZ2E9cqXf4ifnHR4Igy6apoZmChEFlT7-SGAoglgcxmkykczjnusjsI8-NQZTt5IuDwow3jUwW4z1Q$"
     url: "https://www.signupgenius.com/go/10C0E4BACA82EA7FB6-dinner2/127810350#/"
   #- title: "See the entire building cleaning schedule"
   #  url: "./CleaningSchedule.html"
