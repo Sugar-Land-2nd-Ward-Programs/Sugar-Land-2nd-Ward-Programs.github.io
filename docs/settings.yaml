@@ -35,11 +35,11 @@ meeting_sacrament:
     #  title: "Special Music - My Dad"
     #  description: "Primary Singers"
 
-    - type: "speaker"
-      name: "Aaron Ozomah"
+    #- type: "speaker"
+    #  name: "Aaron Ozomah"
 
     - type: "speaker"
-      name: "Andy Chen"
+      name: "Breanna Nielson"
 
     #- type: custom
     #  title: "Special Music - Hearts to Understatnd"
@@ -48,7 +48,7 @@ meeting_sacrament:
     - type: intermediate_hymn
 
     - type: "speaker"
-      name: "Tara Wightman"
+      name: "Trevor Nielson"
     
         
 meeting_testimony:
