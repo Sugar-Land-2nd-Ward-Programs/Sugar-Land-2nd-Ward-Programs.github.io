@@ -1,5 +1,5 @@
 unit: "Sugar Land 2nd Ward"
-meeting_cover_img: 'JesusWomanWell' # Get alias from lookups/artlinks or from the arlinks web page
+meeting_cover_img: '10Lepers' # Get alias from lookups/artlinks or from the arlinks web page
 #meeting_type: "sacrament" # Auto-calculated. Uncomment for tests or overrides only. Acceptable values: sacrament, testimony, primary, easter, ward, christmas, stake, generalconference
 officers:
   - "Presiding": "Bishop Cody Roskelley"
@@ -195,9 +195,9 @@ meeting_generalconference:
 announcements:
   - "Send announcements to bvl2clerk@gmail.com"
 
-posters: # Upload pictures to the GitHub docs/img/ folder. Avoid spaces in the picture filenames.
+#posters: # Upload pictures to the GitHub docs/img/ folder. Avoid spaces in the picture filenames.
   #- "./img/911_Day_of_Service_Flyer_English.png"
-  - "./img/Stake%20Monthly%20Flyer.png"
+  #- "./img/Stake%20Monthly%20Flyer.png"
   #- "./img/Stake%20Save%20the%20Date.png"
   #- "./img/HoustonYSAConf2026.png"
   #- "./img/EnglishConnect_BYU-Pathway Webinar.png"
@@ -218,7 +218,7 @@ links:
   - title: "Sign up to perform at Interfaith Night, Dec. 14 with the Giving Machines at Sugar Land Town Square"
     url: "https://onedrive.live.com/:x:/g/personal/18825336a9f93f87/IQB2HEfRzGVSSohH2zhl3bR5AU2QvdlcBVjxRgswUTgk0l4?rtime=ESdz3vk830g&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3gvYy8xODgyNTMzNmE5ZjkzZjg3L0lRQjJIRWZSekdWU1NvaEgyemhsM2JSNUFVMlF2ZGxjQlZqeFJnc3dVVGdrMGw0"
 
-  - title: "Sign up to perform with the Silhoutte Nativity or musical groups on Dec. 20 with the Giving Machines at Sugar Land Town Square"
+  - title: "Sign up to perform with the Silhouette Nativity or musical groups on Dec. 20 with the Giving Machines at Sugar Land Town Square"
     url: "https://urldefense.com/v3/__https://tinyurl.com/ypsuzddv__;!!Oz_3W2l6Vjs!5Tijdmhb-Ukwgl9sJqHicfSgmXqV-JZ6qijETFZ2E9cqXf4ifnHR4Igy6apoZmChEFlT7-SGAoglgcxmkykczjnusjsI8-NQZTt5IuDwow3jUwW4z1Q$"
   
   - title: "Sign Up to Feed the Missionaries"
