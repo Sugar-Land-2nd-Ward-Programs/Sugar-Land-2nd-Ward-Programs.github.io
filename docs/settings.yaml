@@ -2,12 +2,12 @@ unit: "Sugar Land 2nd Ward"
 meeting_cover_img: '10Lepers' # Get alias from lookups/artlinks or from the arlinks web page
 #meeting_type: "sacrament" # Auto-calculated. Uncomment for tests or overrides only. Acceptable values: sacrament, testimony, primary, easter, ward, christmas, stake, generalconference
 officers:
-  - "Presiding": "Bishop Cody Roskelley"
+  #- "Presiding": "Bishop Cody Roskelley"
   #- "Presiding": "Elder Robert K. Ellis"
   #- "Presiding": "President Travis Bird"
   #- "Presiding": "President Mike Kennington"
   #- "Presiding": "President Ernie Carrasquillo"
-  #- "Presiding": "Brother Schuyler Robinson"
+  - "Presiding": "Brother Schuyler Robinson"
   #- "Presiding": "Brother Joseph Scott"
   #- "Conducting": "Bishop Cody Roskelley"
   - "Conducting": "Brother Schuyler Robinson"
@@ -16,13 +16,13 @@ officers:
 # Always put a number for the hymns, even if it's just a placeholder. The program sections control whether it appears
 hymns:
   opening:
-      number: 62
+      number: 67
   sacrament:
-      number: 194
+      number: 179
   intermediate:
-      number: 86
+      number: 1001
   closing:
-      number: 100
+      number: 93
 meeting_sacrament:
   title: "Sacrament Meeting"
   program:
@@ -39,7 +39,7 @@ meeting_sacrament:
     #  name: "Aaron Ozomah"
 
     - type: "speaker"
-      name: "Breanna Nielson"
+      name: "Kaye Reynolds"
 
     #- type: custom
     #  title: "Special Music - Hearts to Understatnd"
@@ -48,7 +48,7 @@ meeting_sacrament:
     - type: intermediate_hymn
 
     - type: "speaker"
-      name: "Trevor Nielson"
+      name: "Bill Leavitt"
     
         
 meeting_testimony:
