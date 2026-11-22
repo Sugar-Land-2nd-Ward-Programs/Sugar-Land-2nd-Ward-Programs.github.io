@@ -35,9 +35,6 @@ meeting_sacrament:
     #  title: "Special Music - My Dad"
     #  description: "Primary Singers"
 
-    #- type: "speaker"
-    #  name: "Aaron Ozomah"
-
     - type: "speaker"
       name: "Kaye Reynolds"
 
